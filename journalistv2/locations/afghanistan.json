@@ -1,0 +1,487 @@
+{
+  "location": "afghanistan",
+  "url": "https://muckrack.com/beat/afghanistan",
+  "total_journalists": 120,
+  "journalists": [
+    {
+      "name": "Abawe, Ariana",
+      "url": "https://muckrack.com/ariana-abawe-1"
+    },
+    {
+      "name": "Aikins, Matthieu",
+      "url": "https://muckrack.com/matthieu-aikins"
+    },
+    {
+      "name": "Alizadah, Rahmat",
+      "url": "https://muckrack.com/rahmatullah-alizadah"
+    },
+    {
+      "name": "Alizai, Siddiqullah",
+      "url": "https://muckrack.com/siddiqullah-alizai"
+    },
+    {
+      "name": "Allen, Karen",
+      "url": "https://muckrack.com/bbckarenallen"
+    },
+    {
+      "name": "Alleruzzo, Maya",
+      "url": "https://muckrack.com/mayaalleruzzo"
+    },
+    {
+      "name": "Amiry, Sharif",
+      "url": "https://muckrack.com/sharif-amiry"
+    },
+    {
+      "name": "Ashna, Zalmai",
+      "url": "https://muckrack.com/zalmai-ashna"
+    },
+    {
+      "name": "Asquin, Herv\u00e9",
+      "url": "https://muckrack.com/military_zone"
+    },
+    {
+      "name": "Awrang, Mujeeb R.",
+      "url": "https://muckrack.com/mujeeb-r-awrang-1"
+    },
+    {
+      "name": "Azad, Sohrab",
+      "url": "https://muckrack.com/sohrab-azad"
+    },
+    {
+      "name": "Azizi, Abdullah",
+      "url": "https://muckrack.com/abdullah-azizi"
+    },
+    {
+      "name": "Bailey, Beth",
+      "url": "https://muckrack.com/beth-bailey-6"
+    },
+    {
+      "name": "Barker, Joan",
+      "url": "https://muckrack.com/joan-barker"
+    },
+    {
+      "name": "Bashir Soltani, Mohammad",
+      "url": "https://muckrack.com/mohammad-bashir-soltani"
+    },
+    {
+      "name": "Bezhan, Frud",
+      "url": "https://muckrack.com/frudbezhan"
+    },
+    {
+      "name": "Blanchard, Elise",
+      "url": "https://muckrack.com/eliseblchrd"
+    },
+    {
+      "name": "Butt, Riazat",
+      "url": "https://muckrack.com/riazat-butt"
+    },
+    {
+      "name": "Cesaretti, Laura",
+      "url": "https://muckrack.com/laura-cesaretti"
+    },
+    {
+      "name": "Clark, Emma",
+      "url": "https://muckrack.com/emmaclarkuk"
+    },
+    {
+      "name": "Coffey, Luke",
+      "url": "https://muckrack.com/luke-coffey"
+    },
+    {
+      "name": "Daftari, Lisa",
+      "url": "https://muckrack.com/lisa-daftari"
+    },
+    {
+      "name": "Dahal, Phanindra",
+      "url": "https://muckrack.com/phanindra-dahal-675232"
+    },
+    {
+      "name": "Deshmukh, Jay",
+      "url": "https://muckrack.com/jay-deshmukh"
+    },
+    {
+      "name": "Deuskar, Nachiket",
+      "url": "https://muckrack.com/nachiket-deuskar-1"
+    },
+    {
+      "name": "Etemadi, Nasser",
+      "url": "https://muckrack.com/nasser-etemadi"
+    },
+    {
+      "name": "Faiez, Rahim",
+      "url": "https://muckrack.com/rahim-faiez"
+    },
+    {
+      "name": "Farchy, Jack",
+      "url": "https://muckrack.com/jfarchy"
+    },
+    {
+      "name": "Faulkner, Charlie",
+      "url": "https://muckrack.com/charlie-faulkner"
+    },
+    {
+      "name": "Firdous, Iftikhar",
+      "url": "https://muckrack.com/iftikhar-firdous"
+    },
+    {
+      "name": "Gentile, Carmen",
+      "url": "https://muckrack.com/carmengentile"
+    },
+    {
+      "name": "George, Susannah",
+      "url": "https://muckrack.com/susannah-george"
+    },
+    {
+      "name": "Ghazi, Zabihullah",
+      "url": "https://muckrack.com/zabihullah-ghazi-1"
+    },
+    {
+      "name": "Goldstein, Joseph",
+      "url": "https://muckrack.com/joseph-goldstein"
+    },
+    {
+      "name": "Graham-Harrison, Emma",
+      "url": "https://muckrack.com/emma-graham-harrison"
+    },
+    {
+      "name": "Hasrat, Abdullah",
+      "url": "https://muckrack.com/abdullah-hasrat"
+    },
+    {
+      "name": "Hasrat-Nazimi, Waslat",
+      "url": "https://muckrack.com/waslat-hasrat-nazimi"
+    },
+    {
+      "name": "Hassani, Zakarya",
+      "url": "https://muckrack.com/zakarya-hassani-1"
+    },
+    {
+      "name": "Hassib, Sayed",
+      "url": "https://muckrack.com/sayed-hassib"
+    },
+    {
+      "name": "Hatimi, Muhammad Elias",
+      "url": "https://muckrack.com/muhammad-elias-hatimi"
+    },
+    {
+      "name": "Hayat, Bais",
+      "url": "https://muckrack.com/bais-hayat"
+    },
+    {
+      "name": "Hekmat, Abdul Karim",
+      "url": "https://muckrack.com/abdul-karim-hekmat"
+    },
+    {
+      "name": "Hendricks, Kern",
+      "url": "https://muckrack.com/kern-hendricks"
+    },
+    {
+      "name": "Hodge, Amanda",
+      "url": "https://muckrack.com/hodgeamanda"
+    },
+    {
+      "name": "Honl, David",
+      "url": "https://muckrack.com/david-honl"
+    },
+    {
+      "name": "Ishfaq, Shamsa",
+      "url": "https://muckrack.com/shamsa-ishfaq"
+    },
+    {
+      "name": "Jeong, May",
+      "url": "https://muckrack.com/may-jeong"
+    },
+    {
+      "name": "Joya, Zahra",
+      "url": "https://muckrack.com/zahra-joya"
+    },
+    {
+      "name": "Karimi, Storay",
+      "url": "https://muckrack.com/storay-karimi"
+    },
+    {
+      "name": "Katzenberg, Lauren",
+      "url": "https://muckrack.com/lauren-katzenberg"
+    },
+    {
+      "name": "Kawaish, Ahmad Naweed",
+      "url": "https://muckrack.com/ahmad-naweed-kawaish"
+    },
+    {
+      "name": "Khamoosh, Kawoon",
+      "url": "https://muckrack.com/kawoon-khamoosh"
+    },
+    {
+      "name": "Khan, Hizbullah",
+      "url": "https://muckrack.com/hizbullah-khan-2"
+    },
+    {
+      "name": "Khan, Mirwais",
+      "url": "https://muckrack.com/mirwais-khan"
+    },
+    {
+      "name": "Kittleson, Shelly",
+      "url": "https://muckrack.com/shelly-kittleson"
+    },
+    {
+      "name": "Kohsar, Esmatullah",
+      "url": "https://muckrack.com/esmatullah-kohsar"
+    },
+    {
+      "name": "Korosh, Masoud",
+      "url": "https://muckrack.com/masoud-korosh"
+    },
+    {
+      "name": "Kumar, Ruchi",
+      "url": "https://muckrack.com/ruchikumar"
+    },
+    {
+      "name": "Langari, Syed Zabiullah",
+      "url": "https://muckrack.com/syed2000"
+    },
+    {
+      "name": "Latifi, Ali M.",
+      "url": "https://muckrack.com/alibomaye"
+    },
+    {
+      "name": "Lawrence, Quil",
+      "url": "https://muckrack.com/quil-lawrence"
+    },
+    {
+      "name": "Limaye, Yogita",
+      "url": "https://muckrack.com/yogita-limaye"
+    },
+    {
+      "name": "Loyn, David",
+      "url": "https://muckrack.com/david-loyn"
+    },
+    {
+      "name": "Majeedy, Mitra",
+      "url": "https://muckrack.com/mitra-majeedy"
+    },
+    {
+      "name": "Mao, Frances",
+      "url": "https://muckrack.com/frances-mao"
+    },
+    {
+      "name": "McCarthy, Julie",
+      "url": "https://muckrack.com/juliemccarthyjm"
+    },
+    {
+      "name": "McCarthy, Mike",
+      "url": "https://muckrack.com/skynewsnorth"
+    },
+    {
+      "name": "Mir Hazar, Kamran",
+      "url": "https://muckrack.com/kamran-mir-hazar"
+    },
+    {
+      "name": "Moradi, Ahmad Jawad",
+      "url": "https://muckrack.com/a_jawadmoradi"
+    },
+    {
+      "name": "Moslih, Hashmat",
+      "url": "https://muckrack.com/hasmat-moslih"
+    },
+    {
+      "name": "Mowahid, Khalid",
+      "url": "https://muckrack.com/khalid-mowahid"
+    },
+    {
+      "name": "Mukhtar, Ahmad",
+      "url": "https://muckrack.com/ahmad-mukhtar"
+    },
+    {
+      "name": "Munoz, Carlo",
+      "url": "https://muckrack.com/carlo-munoz"
+    },
+    {
+      "name": "Nader, Zahra",
+      "url": "https://muckrack.com/zahra-nader-1"
+    },
+    {
+      "name": "Najafizada, Lotfullah",
+      "url": "https://muckrack.com/lotfullah-najafizada"
+    },
+    {
+      "name": "Nasar, Khudai Noor",
+      "url": "https://muckrack.com/khudai-noor-nasar"
+    },
+    {
+      "name": "North, Andrew",
+      "url": "https://muckrack.com/andrew-north"
+    },
+    {
+      "name": "O'Donnell, Lynne",
+      "url": "https://muckrack.com/lynnekodonnell"
+    },
+    {
+      "name": "Omeri, Abdulhaq",
+      "url": "https://muckrack.com/abdulhaqomeri"
+    },
+    {
+      "name": "Padshah, Safiullah",
+      "url": "https://muckrack.com/safiullah-padshah"
+    },
+    {
+      "name": "Paikan, Waheed",
+      "url": "https://muckrack.com/waheed-paikan"
+    },
+    {
+      "name": "Paimani, Mohammad Hamid",
+      "url": "https://muckrack.com/hamid-paimani"
+    },
+    {
+      "name": "Peltier, Elian",
+      "url": "https://muckrack.com/elian-peltier"
+    },
+    {
+      "name": "Peshimam, Gibran",
+      "url": "https://muckrack.com/gibran-peshimam"
+    },
+    {
+      "name": "Popalzai, Ehsan",
+      "url": "https://muckrack.com/ehsan-popalzai"
+    },
+    {
+      "name": "Popalzai, Masoud",
+      "url": "https://muckrack.com/masoud-popalzai"
+    },
+    {
+      "name": "Qadri, Altaf",
+      "url": "https://muckrack.com/altaf-qadr"
+    },
+    {
+      "name": "Qazizai, Fazelminallah",
+      "url": "https://muckrack.com/fazelminallah-qazizai"
+    },
+    {
+      "name": "Quinn, Patrick",
+      "url": "https://muckrack.com/patrick-quinn"
+    },
+    {
+      "name": "Raghukumar, Kadambari",
+      "url": "https://muckrack.com/kadambari-raghukumar"
+    },
+    {
+      "name": "Rahim, Najim",
+      "url": "https://muckrack.com/najim-rahim"
+    },
+    {
+      "name": "Rahmani, khairuddin",
+      "url": "https://muckrack.com/khairuddin-rahmani"
+    },
+    {
+      "name": "Rahmati, Fidel",
+      "url": "https://muckrack.com/fidel-rahmati"
+    },
+    {
+      "name": "Rastin, Omid",
+      "url": "https://muckrack.com/razmohammad-rastin"
+    },
+    {
+      "name": "Rishtinai, Mohammad Sadiq",
+      "url": "https://muckrack.com/mohammad-sadiq-rishtinai"
+    },
+    {
+      "name": "Roberts, William",
+      "url": "https://muckrack.com/william-roberts"
+    },
+    {
+      "name": "Rostamkhani, Kaveh",
+      "url": "https://muckrack.com/kaveh-rostamkhani"
+    },
+    {
+      "name": "Sachs, Susan",
+      "url": "https://muckrack.com/susansachs"
+    },
+    {
+      "name": "Safi, Sana",
+      "url": "https://muckrack.com/sana-safi"
+    },
+    {
+      "name": "Salahuddin, Sayed",
+      "url": "https://muckrack.com/sayed-salahuddin"
+    },
+    {
+      "name": "Sarwary, Bilal",
+      "url": "https://muckrack.com/bilal-sarwary"
+    },
+    {
+      "name": "Shah, Arbaz",
+      "url": "https://muckrack.com/arbazshah-pl"
+    },
+    {
+      "name": "Shajjan, Sayed Jalal",
+      "url": "https://muckrack.com/sayed-jalal-shajjan"
+    },
+    {
+      "name": "Sharifi, Shoaib",
+      "url": "https://muckrack.com/shoaib-sharifi"
+    },
+    {
+      "name": "Sharifi, Usman",
+      "url": "https://muckrack.com/usman-sharifi"
+    },
+    {
+      "name": "Shinwari, Ekram",
+      "url": "https://muckrack.com/ekram-shinwari"
+    },
+    {
+      "name": "Shrivastava, Gaurav",
+      "url": "https://muckrack.com/gauravshrivastava"
+    },
+    {
+      "name": "Simkin, Jake",
+      "url": "https://muckrack.com/jake-simkin-1"
+    },
+    {
+      "name": "Sirat, Siyar",
+      "url": "https://muckrack.com/siyar-sirat"
+    },
+    {
+      "name": "Soadat, Saleha",
+      "url": "https://muckrack.com/saleha-soadat"
+    },
+    {
+      "name": "Steffensen, Nanna Muus",
+      "url": "https://muckrack.com/nanna-muus-steffensen"
+    },
+    {
+      "name": "Swails, Brent",
+      "url": "https://muckrack.com/brent-swails"
+    },
+    {
+      "name": "Upadhayaya, Venus",
+      "url": "https://muckrack.com/venus-upadhayaya"
+    },
+    {
+      "name": "Valle, Riccardo",
+      "url": "https://muckrack.com/riccardo-valle"
+    },
+    {
+      "name": "Walden, Susannah",
+      "url": "https://muckrack.com/susannah-walden"
+    },
+    {
+      "name": "Weinstein, Adam",
+      "url": "https://muckrack.com/adam-weinstein"
+    },
+    {
+      "name": "Wellman, Phillip Walter",
+      "url": "https://muckrack.com/phillip-walter-wellman"
+    },
+    {
+      "name": "Yawar, Mohammad Yunus",
+      "url": "https://muckrack.com/mohammad-yunus-yawar"
+    },
+    {
+      "name": "Yousafzai, Sami",
+      "url": "https://muckrack.com/sami-yousafzai"
+    },
+    {
+      "name": "Zia, Hujjatullah",
+      "url": "https://muckrack.com/hujjatullah-zia"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "location": "zambia",
+  "url": "https://muckrack.com/beat/zambia",
+  "total_journalists": 7,
+  "journalists": [
+    {
+      "name": "Comley, Harriet",
+      "url": "https://muckrack.com/harriet-comley"
+    },
+    {
+      "name": "Gondwe, Kennedy",
+      "url": "https://muckrack.com/kennedy-gondwe"
+    },
+    {
+      "name": "Mfula, Chris",
+      "url": "https://muckrack.com/chris-mfula"
+    },
+    {
+      "name": "Miyoba, Michael",
+      "url": "https://muckrack.com/michael-miyoba"
+    },
+    {
+      "name": "Mumba, Evans",
+      "url": "https://muckrack.com/evans-mumba"
+    },
+    {
+      "name": "Mwale, Brian",
+      "url": "https://muckrack.com/brian-mwale-2"
+    },
+    {
+      "name": "Sikainda-Nyirenda, Pennipher",
+      "url": "https://muckrack.com/pennipher-sikainda-nyirenda-2"
+    }
+  ]
+}

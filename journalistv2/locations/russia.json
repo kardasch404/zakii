@@ -1,0 +1,1667 @@
+{
+  "location": "russia",
+  "url": "https://muckrack.com/beat/russia",
+  "total_journalists": 415,
+  "journalists": [
+    {
+      "name": "Abdullaev, Erlan",
+      "url": "https://muckrack.com/erlan-abdullaev"
+    },
+    {
+      "name": "Abelsky, Paul",
+      "url": "https://muckrack.com/paul-abelsky"
+    },
+    {
+      "name": "Abramov, Vyacheslav",
+      "url": "https://muckrack.com/vyacheslav-abramov-3"
+    },
+    {
+      "name": "Abulkhatin, Marat",
+      "url": "https://muckrack.com/marat-abulkhatin"
+    },
+    {
+      "name": "Ackeret, Markus",
+      "url": "https://muckrack.com/markus-ackeret"
+    },
+    {
+      "name": "Ackerman, Galia",
+      "url": "https://muckrack.com/galia-ackerman"
+    },
+    {
+      "name": "Albats, Evgeniya",
+      "url": "https://muckrack.com/evgeniya-albats"
+    },
+    {
+      "name": "Allevato, Marta",
+      "url": "https://muckrack.com/marta-allevato"
+    },
+    {
+      "name": "Amos, Howard",
+      "url": "https://muckrack.com/howard-amos"
+    },
+    {
+      "name": "Ampuero, Mauricio",
+      "url": "https://muckrack.com/mauricio-ampuero"
+    },
+    {
+      "name": "Amran, Rachel",
+      "url": "https://muckrack.com/rachel-amran"
+    },
+    {
+      "name": "Antonov, Dmitry",
+      "url": "https://muckrack.com/dmitry-antonov"
+    },
+    {
+      "name": "Aragon\u00e9s, Gonzalo",
+      "url": "https://muckrack.com/gonzalo-aragones"
+    },
+    {
+      "name": "Arbarello, Jacopo",
+      "url": "https://muckrack.com/jacopo-arbarello"
+    },
+    {
+      "name": "Aris, Ben",
+      "url": "https://muckrack.com/ben-aris"
+    },
+    {
+      "name": "Arkhipov, Ilya",
+      "url": "https://muckrack.com/ilya-arkhipov"
+    },
+    {
+      "name": "Aron, Leon",
+      "url": "https://muckrack.com/leon-aron"
+    },
+    {
+      "name": "Arutunyan, Anna",
+      "url": "https://muckrack.com/anna-arutunyan"
+    },
+    {
+      "name": "Asseserov, Evgeny",
+      "url": "https://muckrack.com/evgeny-asseserov"
+    },
+    {
+      "name": "Astakhova, Olesya",
+      "url": "https://muckrack.com/olesya-astakhova"
+    },
+    {
+      "name": "Atanesian, Grigor",
+      "url": "https://muckrack.com/grigor-atanesian"
+    },
+    {
+      "name": "Avdeev, Max",
+      "url": "https://muckrack.com/max-avdeev"
+    },
+    {
+      "name": "Avdeeva, Maria",
+      "url": "https://muckrack.com/maria-avdeeva"
+    },
+    {
+      "name": "Avril, Pierre",
+      "url": "https://muckrack.com/pierre-avril"
+    },
+    {
+      "name": "Babinina, Olga",
+      "url": "https://muckrack.com/olga-babinina-1"
+    },
+    {
+      "name": "Ballin, Andr\u00e9",
+      "url": "https://muckrack.com/andre-ballin-1"
+    },
+    {
+      "name": "Barabanov, Ilya",
+      "url": "https://muckrack.com/ilya-barabanov"
+    },
+    {
+      "name": "Bausman, Charles",
+      "url": "https://muckrack.com/charles-bausman"
+    },
+    {
+      "name": "Bayou, C\u00e9line",
+      "url": "https://muckrack.com/celine-bayou"
+    },
+    {
+      "name": "Bednyakov, Pavel",
+      "url": "https://muckrack.com/pavel-bednyakov"
+    },
+    {
+      "name": "Belton, Catherine",
+      "url": "https://muckrack.com/catherine-belton-1"
+    },
+    {
+      "name": "Berdy, Michele A.",
+      "url": "https://muckrack.com/michele-a-berdy"
+    },
+    {
+      "name": "Berkhead, Samantha",
+      "url": "https://muckrack.com/samantha-berkhead"
+    },
+    {
+      "name": "Bigalke, Silke",
+      "url": "https://muckrack.com/von-silke-bigalke"
+    },
+    {
+      "name": "Blank, Stephen",
+      "url": "https://muckrack.com/stephen-blank"
+    },
+    {
+      "name": "Bodner, Matthew",
+      "url": "https://muckrack.com/matthew-bodner"
+    },
+    {
+      "name": "Bonet, Pilar",
+      "url": "https://muckrack.com/pilar-bonet"
+    },
+    {
+      "name": "Bounaoui, Sara",
+      "url": "https://muckrack.com/sara-bounaoui"
+    },
+    {
+      "name": "Boyko, Igor",
+      "url": "https://muckrack.com/igor-boyko"
+    },
+    {
+      "name": "Bridge, Robert",
+      "url": "https://muckrack.com/robert_bridge"
+    },
+    {
+      "name": "Brilev, S.B.",
+      "url": "https://muckrack.com/sb-brilev"
+    },
+    {
+      "name": "Brokes, Filip",
+      "url": "https://muckrack.com/filip-brokes-1"
+    },
+    {
+      "name": "Brown, Chris",
+      "url": "https://muckrack.com/cbcchrisbrown"
+    },
+    {
+      "name": "Brown, Jonathan",
+      "url": "https://muckrack.com/jonathan-brown-1"
+    },
+    {
+      "name": "Br\u00fcggmann, Mathias",
+      "url": "https://muckrack.com/mathias-bruggmann"
+    },
+    {
+      "name": "Budraitskis, Ilya",
+      "url": "https://muckrack.com/ilya-budraitskis"
+    },
+    {
+      "name": "Buge, Matthieu",
+      "url": "https://muckrack.com/matthieu-buge"
+    },
+    {
+      "name": "Burrows, Emma",
+      "url": "https://muckrack.com/emma-burrows"
+    },
+    {
+      "name": "Carroll, Oliver",
+      "url": "https://muckrack.com/oliver-carroll"
+    },
+    {
+      "name": "Cassieri, Alessandro",
+      "url": "https://muckrack.com/alessandro-cassieri-1"
+    },
+    {
+      "name": "Cevallos, Mar\u00eda Isabel",
+      "url": "https://muckrack.com/maria-isabel-cevallos"
+    },
+    {
+      "name": "Challands, Rory",
+      "url": "https://muckrack.com/rorychallandsaj"
+    },
+    {
+      "name": "Chepkova, Tanya",
+      "url": "https://muckrack.com/tanya-abrosimova"
+    },
+    {
+      "name": "Chernova, Anna",
+      "url": "https://muckrack.com/anna-chernova-1"
+    },
+    {
+      "name": "Chilcote, Ryan",
+      "url": "https://muckrack.com/ryan-chilcote"
+    },
+    {
+      "name": "Cichowlas, Ola",
+      "url": "https://muckrack.com/ola-cichowlas-1"
+    },
+    {
+      "name": "Coalson, Robert",
+      "url": "https://muckrack.com/robert-coalson"
+    },
+    {
+      "name": "Cohen, Ryan",
+      "url": "https://muckrack.com/ryan-cohen-1"
+    },
+    {
+      "name": "Cook, Brad",
+      "url": "https://muckrack.com/brad-cook"
+    },
+    {
+      "name": "Cookman, Liz",
+      "url": "https://muckrack.com/liz-cookman"
+    },
+    {
+      "name": "Corcoran, Jason",
+      "url": "https://muckrack.com/jason_corcoran"
+    },
+    {
+      "name": "Cordell, Jake",
+      "url": "https://muckrack.com/jake-cordell"
+    },
+    {
+      "name": "Danilova, Olga",
+      "url": "https://muckrack.com/olga-danilova"
+    },
+    {
+      "name": "Dastakian, Anne",
+      "url": "https://muckrack.com/anne-dastakian-1"
+    },
+    {
+      "name": "Davis, Caleb",
+      "url": "https://muckrack.com/caleb-davis"
+    },
+    {
+      "name": "Davis, Julia",
+      "url": "https://muckrack.com/julia-hirschfeld-davis"
+    },
+    {
+      "name": "Deprez, Fabrice",
+      "url": "https://muckrack.com/fabrice_deprez"
+    },
+    {
+      "name": "Derix, Steven",
+      "url": "https://muckrack.com/steven-derix-1"
+    },
+    {
+      "name": "Diesen, Glenn",
+      "url": "https://muckrack.com/glenn-diesen"
+    },
+    {
+      "name": "Dixon, Robyn",
+      "url": "https://muckrack.com/robyndixon__"
+    },
+    {
+      "name": "Dovzhenko, Dmitry",
+      "url": "https://muckrack.com/dmitry-dovzhenko"
+    },
+    {
+      "name": "Drobinin, Alexey",
+      "url": "https://muckrack.com/alexey-drobinin"
+    },
+    {
+      "name": "Druzhinin, Alexei",
+      "url": "https://muckrack.com/alexei-druzhinin"
+    },
+    {
+      "name": "Duch, Juan Pablo",
+      "url": "https://muckrack.com/juan-pablo-duch"
+    },
+    {
+      "name": "Dudina, Galina",
+      "url": "https://muckrack.com/galina-dudina"
+    },
+    {
+      "name": "Ebel, Francesca",
+      "url": "https://muckrack.com/francesca-ebel"
+    },
+    {
+      "name": "Echols, William",
+      "url": "https://muckrack.com/william-echols"
+    },
+    {
+      "name": "Ekimenko, Svetlana",
+      "url": "https://muckrack.com/svetlana-ekimenko"
+    },
+    {
+      "name": "Eliason, George",
+      "url": "https://muckrack.com/george-eliason"
+    },
+    {
+      "name": "Ellingworth, James",
+      "url": "https://muckrack.com/james-ellingworth"
+    },
+    {
+      "name": "Emend\u00f6rfer, Jan",
+      "url": "https://muckrack.com/jan-emendorfer"
+    },
+    {
+      "name": "Enfenjian, Karina",
+      "url": "https://muckrack.com/karina-enfenjian"
+    },
+    {
+      "name": "Ershov, Alexander",
+      "url": "https://muckrack.com/alexander-ershov"
+    },
+    {
+      "name": "Ershova, Tatiana",
+      "url": "https://muckrack.com/tatiana-ershova"
+    },
+    {
+      "name": "Esch, Christian",
+      "url": "https://muckrack.com/christian-esch"
+    },
+    {
+      "name": "Evenson, Celia",
+      "url": "https://muckrack.com/celia-evenson"
+    },
+    {
+      "name": "Fabrichnaya, Elena",
+      "url": "https://muckrack.com/elena-fabrichnaya"
+    },
+    {
+      "name": "Farchy, Jack",
+      "url": "https://muckrack.com/jfarchy"
+    },
+    {
+      "name": "Farsight, Alexander",
+      "url": "https://muckrack.com/alexander-farsight"
+    },
+    {
+      "name": "Fedchenko, Vitaly G.",
+      "url": "https://muckrack.com/vitaly-g-fedchenko"
+    },
+    {
+      "name": "Fedorova, Anastasiia",
+      "url": "https://muckrack.com/anastasiia-fedorova"
+    },
+    {
+      "name": "Fenbert, Abbey",
+      "url": "https://muckrack.com/abbey-fenbert"
+    },
+    {
+      "name": "Feoktistova, Anastasia",
+      "url": "https://muckrack.com/anastasia-feoktistova"
+    },
+    {
+      "name": "Fern\u00e1ndez, Galo",
+      "url": "https://muckrack.com/galo-fernandez"
+    },
+    {
+      "name": "Fert-Malka, Morgane",
+      "url": "https://muckrack.com/morgane-fert-malka"
+    },
+    {
+      "name": "Feygin, Yakov",
+      "url": "https://muckrack.com/yakov-feygin"
+    },
+    {
+      "name": "Flynn, Henry",
+      "url": "https://muckrack.com/henry-flynn-2"
+    },
+    {
+      "name": "Fonseca, Erick",
+      "url": "https://muckrack.com/erick-fonseca"
+    },
+    {
+      "name": "Forestier-Walker, Robin",
+      "url": "https://muckrack.com/robin-forestier-walker"
+    },
+    {
+      "name": "Fridh Kleberg, Carl",
+      "url": "https://muckrack.com/carl-fridh-kleberg-1"
+    },
+    {
+      "name": "Furlong, Ray",
+      "url": "https://muckrack.com/ray-furlong"
+    },
+    {
+      "name": "Furukawa, Eiji",
+      "url": "https://muckrack.com/eiji-furukawa-2"
+    },
+    {
+      "name": "Gabuev, Alexander",
+      "url": "https://muckrack.com/alexander-gabuev"
+    },
+    {
+      "name": "Galeotti, Mark",
+      "url": "https://muckrack.com/mark-galeotti"
+    },
+    {
+      "name": "Gamov, Alexander",
+      "url": "https://muckrack.com/alexander-gamov"
+    },
+    {
+      "name": "Garanich, Gleb",
+      "url": "https://muckrack.com/gleb-garanich"
+    },
+    {
+      "name": "Gavrilov, Dmitry",
+      "url": "https://muckrack.com/dmitry-gavrilov-1"
+    },
+    {
+      "name": "Georgieva, Maria",
+      "url": "https://muckrack.com/maria-georgieva-1"
+    },
+    {
+      "name": "Geropoulos, Kostis",
+      "url": "https://muckrack.com/kostis-geropoulos-1"
+    },
+    {
+      "name": "Gershkovich, Evan",
+      "url": "https://muckrack.com/evan-gershkovich"
+    },
+    {
+      "name": "Glod, Katia",
+      "url": "https://muckrack.com/katia-glod"
+    },
+    {
+      "name": "Gogo, Paul",
+      "url": "https://muckrack.com/paul-gogo-1"
+    },
+    {
+      "name": "Goldsmith, Eloise",
+      "url": "https://muckrack.com/eloise-goldsmith-1"
+    },
+    {
+      "name": "Goloschekin, David",
+      "url": "https://muckrack.com/david-goloschekin"
+    },
+    {
+      "name": "Golubovs, Anatolijs",
+      "url": "https://muckrack.com/anatolijs-golubovs"
+    },
+    {
+      "name": "Gorbunova, Irina",
+      "url": "https://muckrack.com/irina-gorbunova"
+    },
+    {
+      "name": "Gordeeva, Daria",
+      "url": "https://muckrack.com/daria-gordeeva"
+    },
+    {
+      "name": "Goyette, Jared",
+      "url": "https://muckrack.com/jared-goyette"
+    },
+    {
+      "name": "Gozzi, Laura",
+      "url": "https://muckrack.com/laura-gozzi"
+    },
+    {
+      "name": "Grebenshchikova, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-grebenshchikova"
+    },
+    {
+      "name": "Green, Ruth",
+      "url": "https://muckrack.com/ruth-green"
+    },
+    {
+      "name": "Grek, Alexander",
+      "url": "https://muckrack.com/alexander-grek"
+    },
+    {
+      "name": "Grove, Thomas",
+      "url": "https://muckrack.com/thomas-grove"
+    },
+    {
+      "name": "Grynszpan, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-grynszpan"
+    },
+    {
+      "name": "Guerin, Orla",
+      "url": "https://muckrack.com/orla-guerin"
+    },
+    {
+      "name": "Gutterman, Steve",
+      "url": "https://muckrack.com/steve-gutterman"
+    },
+    {
+      "name": "Gypteau, Paul",
+      "url": "https://muckrack.com/paul-gypteau"
+    },
+    {
+      "name": "Hakala, Pekka",
+      "url": "https://muckrack.com/pekka-hakala"
+    },
+    {
+      "name": "Halpin, Tony",
+      "url": "https://muckrack.com/tonyhalpin"
+    },
+    {
+      "name": "Hancock, Charlie",
+      "url": "https://muckrack.com/charlie-hancock"
+    },
+    {
+      "name": "Hardie, John",
+      "url": "https://muckrack.com/john-hardie"
+    },
+    {
+      "name": "Harding, Luke",
+      "url": "https://muckrack.com/luke-harding"
+    },
+    {
+      "name": "Hartog Skorobogatova, Eva",
+      "url": "https://muckrack.com/eva-hartog"
+    },
+    {
+      "name": "Haseldine, Lisa",
+      "url": "https://muckrack.com/lisa-haseldine-1"
+    },
+    {
+      "name": "Hebel, Christina",
+      "url": "https://muckrack.com/christina-hebel-1"
+    },
+    {
+      "name": "Heintz, Jim",
+      "url": "https://muckrack.com/jeheintz"
+    },
+    {
+      "name": "Herb, Jeremy",
+      "url": "https://muckrack.com/jeremy-herb"
+    },
+    {
+      "name": "Hern\u00e1ndez, Gabriela Iveliz Rosa",
+      "url": "https://muckrack.com/gabrielairosa"
+    },
+    {
+      "name": "Herszenhorn, David",
+      "url": "https://muckrack.com/herszenhorn"
+    },
+    {
+      "name": "Hill, James",
+      "url": "https://muckrack.com/james-hill-1"
+    },
+    {
+      "name": "Hnatiuk, Iryna",
+      "url": "https://muckrack.com/iryna-hnatiuk"
+    },
+    {
+      "name": "Holdsworth, Nick",
+      "url": "https://muckrack.com/nick-holdsworth"
+    },
+    {
+      "name": "Hopkins, Valerie",
+      "url": "https://muckrack.com/valerie-hopkins"
+    },
+    {
+      "name": "Huppertz, Carina",
+      "url": "https://muckrack.com/carina-huppertz"
+    },
+    {
+      "name": "Iaccarino, Michela AG",
+      "url": "https://muckrack.com/michela-ag-iaccarino"
+    },
+    {
+      "name": "Idov, Michael",
+      "url": "https://muckrack.com/michaelidov"
+    },
+    {
+      "name": "Ilyushina, Mary",
+      "url": "https://muckrack.com/mary-ilyushina"
+    },
+    {
+      "name": "Isachenka, Alina",
+      "url": "https://muckrack.com/alina-isachenka"
+    },
+    {
+      "name": "Isachenkov, Vladimir",
+      "url": "https://muckrack.com/vladimir-isachenkov"
+    },
+    {
+      "name": "Ismailov, Famil",
+      "url": "https://muckrack.com/famil-ismailov"
+    },
+    {
+      "name": "Istishev, Valeriy",
+      "url": "https://muckrack.com/valeriy-istishev"
+    },
+    {
+      "name": "Ivanova, Polina",
+      "url": "https://muckrack.com/polina-ivanova"
+    },
+    {
+      "name": "Jackson, Jon",
+      "url": "https://muckrack.com/jon-jackson-5"
+    },
+    {
+      "name": "Jacques, Jeremiah",
+      "url": "https://muckrack.com/jeremiah-jacques"
+    },
+    {
+      "name": "Jamjoom, Mohammed",
+      "url": "https://muckrack.com/mijamjoom"
+    },
+    {
+      "name": "Janssen, Madeleine",
+      "url": "https://muckrack.com/madeleine-janssen"
+    },
+    {
+      "name": "Jardine, Bradley",
+      "url": "https://muckrack.com/bradley-jardine-1"
+    },
+    {
+      "name": "Jevstafjeva, Maria",
+      "url": "https://muckrack.com/maria-jevstafjeva"
+    },
+    {
+      "name": "Johansen, Per Anders",
+      "url": "https://muckrack.com/per-anders-johansen-2"
+    },
+    {
+      "name": "Judah, Tim",
+      "url": "https://muckrack.com/tim-judah"
+    },
+    {
+      "name": "Kaimakov, Ant\u00f3n",
+      "url": "https://muckrack.com/anton-kaimakov"
+    },
+    {
+      "name": "Kalinchenkov, Michael",
+      "url": "https://muckrack.com/michael-kalinchenkov"
+    },
+    {
+      "name": "Kalus, Katarzyna",
+      "url": "https://muckrack.com/katarzyna-kalus"
+    },
+    {
+      "name": "Kara-Murza, Vladimir",
+      "url": "https://muckrack.com/vladimir-kara-murza"
+    },
+    {
+      "name": "Karginov, Timur",
+      "url": "https://muckrack.com/timur-karginov"
+    },
+    {
+      "name": "Kashulinsky, Maxim",
+      "url": "https://muckrack.com/maxim-kashulinsky"
+    },
+    {
+      "name": "Kate, Daniel Ten",
+      "url": "https://muckrack.com/daniel-ten-kate"
+    },
+    {
+      "name": "Katzenberger, Paul",
+      "url": "https://muckrack.com/paul-katzenberger-1"
+    },
+    {
+      "name": "Kean, Brian",
+      "url": "https://muckrack.com/b-kean"
+    },
+    {
+      "name": "Kelly, Lidia",
+      "url": "https://muckrack.com/lidia-kelly"
+    },
+    {
+      "name": "Kesaieva, Julia",
+      "url": "https://muckrack.com/yulia-kesaieva"
+    },
+    {
+      "name": "Khalilova, Dinara",
+      "url": "https://muckrack.com/dinara-khalilova"
+    },
+    {
+      "name": "Khrennikova, Dina",
+      "url": "https://muckrack.com/dina-khrennikova"
+    },
+    {
+      "name": "Kirby, Tim",
+      "url": "https://muckrack.com/tim-kirby"
+    },
+    {
+      "name": "Kiryukhina, Yaroslava",
+      "url": "https://muckrack.com/yaroslava-kiryukhina"
+    },
+    {
+      "name": "Knight, Mayria",
+      "url": "https://muckrack.com/mayria-knight"
+    },
+    {
+      "name": "Knock, Jennifer",
+      "url": "https://muckrack.com/jennifer-knock"
+    },
+    {
+      "name": "Koffler, Rebekah",
+      "url": "https://muckrack.com/rebekah-koffler"
+    },
+    {
+      "name": "Kolbus, Michael",
+      "url": "https://muckrack.com/michael-kolbus"
+    },
+    {
+      "name": "Konyaev, Andrei",
+      "url": "https://muckrack.com/andrei-konyaev"
+    },
+    {
+      "name": "Koroleva, Anna",
+      "url": "https://muckrack.com/anna-koroleva"
+    },
+    {
+      "name": "Korsunskaya, Darya",
+      "url": "https://muckrack.com/darya-korsunskaya"
+    },
+    {
+      "name": "Korybko, Andrew",
+      "url": "https://muckrack.com/andrew-korybko"
+    },
+    {
+      "name": "Kostenko, Maria",
+      "url": "https://muckrack.com/maria-kostenko"
+    },
+    {
+      "name": "Kovalevskaya, Sandra",
+      "url": "https://muckrack.com/sandra-kovalevskaya"
+    },
+    {
+      "name": "Kozlov, Alexei",
+      "url": "https://muckrack.com/alexei-kozlov"
+    },
+    {
+      "name": "Kozlov, Petr",
+      "url": "https://muckrack.com/petr-kozlov-1"
+    },
+    {
+      "name": "Kruse, Jan Espen",
+      "url": "https://muckrack.com/jan-espen-kruse-1"
+    },
+    {
+      "name": "Kruse, Simon",
+      "url": "https://muckrack.com/simon-kruse"
+    },
+    {
+      "name": "Kryuchkov, Denis",
+      "url": "https://muckrack.com/denis-kryuchkov"
+    },
+    {
+      "name": "Kuchinski, Mikita",
+      "url": "https://muckrack.com/mikita-kuchinski"
+    },
+    {
+      "name": "Kudrytski, Aliaksandr",
+      "url": "https://muckrack.com/aliaksandr-kudrytski"
+    },
+    {
+      "name": "Kulakov, Maksim",
+      "url": "https://muckrack.com/maksim-kulakov"
+    },
+    {
+      "name": "Kurmanaev, Anatoly",
+      "url": "https://muckrack.com/anatoly-kurmanaev"
+    },
+    {
+      "name": "Kuryata, Nina",
+      "url": "https://muckrack.com/nina-kuryata"
+    },
+    {
+      "name": "Kuyumdzhyan, Eva",
+      "url": "https://muckrack.com/eva-kuyumdzhyan"
+    },
+    {
+      "name": "Kuzmin, Sergei",
+      "url": "https://muckrack.com/sergei-kuzmin-2"
+    },
+    {
+      "name": "Kuznetcov, Sergei",
+      "url": "https://muckrack.com/sergei-kuznetcov-2"
+    },
+    {
+      "name": "Kuznetsov, Vladimir",
+      "url": "https://muckrack.com/vladimir-kuznetsov"
+    },
+    {
+      "name": "Kuznetsova, Valentina",
+      "url": "https://muckrack.com/valentina-kuznetsova"
+    },
+    {
+      "name": "Lambroschini, Antoine",
+      "url": "https://muckrack.com/antoine-lambroschini"
+    },
+    {
+      "name": "Langford, Marion",
+      "url": "https://muckrack.com/marion-langford"
+    },
+    {
+      "name": "Lanin, Misha",
+      "url": "https://muckrack.com/misha-lanin-1"
+    },
+    {
+      "name": "Lastochkin, Vasily",
+      "url": "https://muckrack.com/vasily-lastochkin"
+    },
+    {
+      "name": "Laur\u00e9n, Anna-Lena",
+      "url": "https://muckrack.com/anna-lena-lauren"
+    },
+    {
+      "name": "Levchenko, Anastasia",
+      "url": "https://muckrack.com/anastasia-levchenko"
+    },
+    {
+      "name": "Levine, Yasha",
+      "url": "https://muckrack.com/yasha-levine"
+    },
+    {
+      "name": "Levinsky, Alexander",
+      "url": "https://muckrack.com/alexander-levinsky"
+    },
+    {
+      "name": "Lipkowski, Clara",
+      "url": "https://muckrack.com/clara-lipkowski"
+    },
+    {
+      "name": "Lipman, Maria",
+      "url": "https://muckrack.com/maria-lipman"
+    },
+    {
+      "name": "Litvinenko, Yuri",
+      "url": "https://muckrack.com/ylitvinenko"
+    },
+    {
+      "name": "Litvinova, Dasha",
+      "url": "https://muckrack.com/dasha-litvinova-3"
+    },
+    {
+      "name": "Liubimova Libenzon, Olga",
+      "url": "https://muckrack.com/olga-liubimova-libenzon"
+    },
+    {
+      "name": "Liutova, Margarita",
+      "url": "https://muckrack.com/margarita-liutova"
+    },
+    {
+      "name": "L\u00f6fgren, Maria-Persson",
+      "url": "https://muckrack.com/maria-persson-lofgren"
+    },
+    {
+      "name": "Loiko, Sergei",
+      "url": "https://muckrack.com/sergei-loiko-2"
+    },
+    {
+      "name": "Lovasz, Agnes",
+      "url": "https://muckrack.com/agilovasz"
+    },
+    {
+      "name": "Lovetsky, Dmitri",
+      "url": "https://muckrack.com/dmitri-lovetsky"
+    },
+    {
+      "name": "Lowe, Christian",
+      "url": "https://muckrack.com/christian-lowe-8"
+    },
+    {
+      "name": "Luboslav, Lacko",
+      "url": "https://muckrack.com/lacko-luboslav"
+    },
+    {
+      "name": "Lubysh-Kirdey, Ivan",
+      "url": "https://muckrack.com/ivan-lubysh-kirdey"
+    },
+    {
+      "name": "Lukyanov, Fyodor",
+      "url": "https://muckrack.com/fyodor-lukyanov"
+    },
+    {
+      "name": "Luxmoore, Matthew",
+      "url": "https://muckrack.com/matthew-luxmoore"
+    },
+    {
+      "name": "Lyabina, Alexandra",
+      "url": "https://muckrack.com/alexandra-lyabina"
+    },
+    {
+      "name": "Lyrchikova, Anastasia",
+      "url": "https://muckrack.com/anastasia-lyrchikova"
+    },
+    {
+      "name": "MacKinnon, Mark",
+      "url": "https://muckrack.com/mark-mackinnon"
+    },
+    {
+      "name": "Makarenkov, Konstantin",
+      "url": "https://muckrack.com/konstantin-makarenkov-1"
+    },
+    {
+      "name": "Mammadov, Rauf",
+      "url": "https://muckrack.com/rauf-mammadov"
+    },
+    {
+      "name": "Manchenko, Oleksandr",
+      "url": "https://muckrack.com/oleksandr-manchenko"
+    },
+    {
+      "name": "Mandeville, Laure",
+      "url": "https://muckrack.com/laure-mandeville-1"
+    },
+    {
+      "name": "Ma\u00f1\u00e9, Ariadna",
+      "url": "https://muckrack.com/ariadna-mane-1"
+    },
+    {
+      "name": "Mankoff, Jeffrey",
+      "url": "https://muckrack.com/jeffrey-mankoff"
+    },
+    {
+      "name": "Ma\u00f1ueco, Rafael M.",
+      "url": "https://muckrack.com/rafael-m-manueco"
+    },
+    {
+      "name": "Marcisz, Christopher",
+      "url": "https://muckrack.com/cwmarc"
+    },
+    {
+      "name": "Marrow, Alexander",
+      "url": "https://muckrack.com/alexander-marrow-2"
+    },
+    {
+      "name": "Marson, James",
+      "url": "https://muckrack.com/james-marson"
+    },
+    {
+      "name": "Martyn-Hemphill, Richard",
+      "url": "https://muckrack.com/richard-martyn-hemphill"
+    },
+    {
+      "name": "Matthews, Owen",
+      "url": "https://muckrack.com/owen-matthews"
+    },
+    {
+      "name": "Maynes, Charles",
+      "url": "https://muckrack.com/charles-maynes"
+    },
+    {
+      "name": "Mazurin, Nikolay",
+      "url": "https://muckrack.com/nikolay-mazurin"
+    },
+    {
+      "name": "Metzel, Mikhail",
+      "url": "https://muckrack.com/mikhail-metzel"
+    },
+    {
+      "name": "Meyer, Henry",
+      "url": "https://muckrack.com/henrymeyer"
+    },
+    {
+      "name": "Midgley, Dominic",
+      "url": "https://muckrack.com/dominic-midgley"
+    },
+    {
+      "name": "Mikhalchenko, Lidia",
+      "url": "https://muckrack.com/lidia-mikhalchenko"
+    },
+    {
+      "name": "Mikovic, Nikola",
+      "url": "https://muckrack.com/nikola-mikovic"
+    },
+    {
+      "name": "Milacic, Slavisha Batko",
+      "url": "https://muckrack.com/slavisha-batko-milacic"
+    },
+    {
+      "name": "Milko, Natalia",
+      "url": "https://muckrack.com/natalia-milko-1"
+    },
+    {
+      "name": "Mills, Laura",
+      "url": "https://muckrack.com/laura-mills"
+    },
+    {
+      "name": "Mironov, Philip",
+      "url": "https://muckrack.com/philip-mironov"
+    },
+    {
+      "name": "Mirovalev, Mansur",
+      "url": "https://muckrack.com/mansur-mirovalev"
+    },
+    {
+      "name": "Mittal, Vikram",
+      "url": "https://muckrack.com/vikram-mittal"
+    },
+    {
+      "name": "Moiseev, Aleksei",
+      "url": "https://muckrack.com/aleksei-moiseev"
+    },
+    {
+      "name": "Morris, Harriet",
+      "url": "https://muckrack.com/harrietjmorris"
+    },
+    {
+      "name": "Moshkow, Cyril",
+      "url": "https://muckrack.com/cyril-moshkow"
+    },
+    {
+      "name": "M\u00fcller, Mareike",
+      "url": "https://muckrack.com/mareike-muller"
+    },
+    {
+      "name": "Myazin, Vasily",
+      "url": "https://muckrack.com/vasily-myazin"
+    },
+    {
+      "name": "Naylor, Aliide",
+      "url": "https://muckrack.com/aliide-naylor"
+    },
+    {
+      "name": "Nazarova, Valeria",
+      "url": "https://muckrack.com/valeria-nazarova"
+    },
+    {
+      "name": "Nechepurenko, Ivan",
+      "url": "https://muckrack.com/ivan-nechepurenko"
+    },
+    {
+      "name": "Nieves, Aliana",
+      "url": "https://muckrack.com/aliana-nieves"
+    },
+    {
+      "name": "Nikolskaya, Polina",
+      "url": "https://muckrack.com/polina-nikolskaya"
+    },
+    {
+      "name": "Nivnikov, Denis",
+      "url": "https://muckrack.com/denis-nivnikov"
+    },
+    {
+      "name": "Noble, Ben",
+      "url": "https://muckrack.com/ben-noble"
+    },
+    {
+      "name": "Norin, Evgeny",
+      "url": "https://muckrack.com/evgeny-norin"
+    },
+    {
+      "name": "Novosad, Marie",
+      "url": "https://muckrack.com/marie-novosad"
+    },
+    {
+      "name": "O'Connor, Tom",
+      "url": "https://muckrack.com/tom-oconnor"
+    },
+    {
+      "name": "Oliker, Olga",
+      "url": "https://muckrack.com/olga-oliker"
+    },
+    {
+      "name": "Oliphant, Roland",
+      "url": "https://muckrack.com/roland-oliphant"
+    },
+    {
+      "name": "Ollero, Daniel J.",
+      "url": "https://muckrack.com/daniel-j-ollero"
+    },
+    {
+      "name": "Ong, Danielle",
+      "url": "https://muckrack.com/danielle-ong"
+    },
+    {
+      "name": "Orttung, Robert",
+      "url": "https://muckrack.com/robert-orttung"
+    },
+    {
+      "name": "Osborn, Andrew",
+      "url": "https://muckrack.com/a_osborn"
+    },
+    {
+      "name": "Osman, Muhammad",
+      "url": "https://muckrack.com/muhammad-osman"
+    },
+    {
+      "name": "Ostrovsky, Arkady",
+      "url": "https://muckrack.com/arkady-ostrovsky"
+    },
+    {
+      "name": "Ouzilevski, Aron",
+      "url": "https://muckrack.com/aron-ouzilevski-1"
+    },
+    {
+      "name": "Panashchuk, Sergey",
+      "url": "https://muckrack.com/sergey-panashchuk"
+    },
+    {
+      "name": "Papachristou, Lucy",
+      "url": "https://muckrack.com/lucy-papachristou"
+    },
+    {
+      "name": "Parfitt, Tom",
+      "url": "https://muckrack.com/tom-parfitt"
+    },
+    {
+      "name": "Paris, Krister",
+      "url": "https://muckrack.com/krister-paris"
+    },
+    {
+      "name": "Parsons, Andy",
+      "url": "https://muckrack.com/andy-parsons"
+    },
+    {
+      "name": "Pavlova, Uliana",
+      "url": "https://muckrack.com/uliana-pavlova"
+    },
+    {
+      "name": "Peleschuk, Dan",
+      "url": "https://muckrack.com/dan-peleschuk"
+    },
+    {
+      "name": "Pertsova, Varvara",
+      "url": "https://muckrack.com/varvara-pertsova"
+    },
+    {
+      "name": "Petrova, Maria",
+      "url": "https://muckrack.com/maria-petrova-2"
+    },
+    {
+      "name": "Pevzner, Gu\u00e9lia",
+      "url": "https://muckrack.com/guelia-pevzner"
+    },
+    {
+      "name": "Pimenov, Sergei",
+      "url": "https://muckrack.com/sergei-pimenov"
+    },
+    {
+      "name": "Piper, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-piper"
+    },
+    {
+      "name": "Podhoretz, John",
+      "url": "https://muckrack.com/john-podhoretz"
+    },
+    {
+      "name": "Popov, Igor",
+      "url": "https://muckrack.com/igor-popov"
+    },
+    {
+      "name": "Prentice, Alessandra",
+      "url": "https://muckrack.com/alessaprentice"
+    },
+    {
+      "name": "Privalov, Kirill",
+      "url": "https://muckrack.com/kirill-privalov"
+    },
+    {
+      "name": "Prokopenko, Serhii",
+      "url": "https://muckrack.com/serhii-prokopenko-1"
+    },
+    {
+      "name": "Pulya, Vsevolod",
+      "url": "https://muckrack.com/vsevolod-pulya-1"
+    },
+    {
+      "name": "Pyadushkin, Maxim",
+      "url": "https://muckrack.com/maxim-pyadushkin"
+    },
+    {
+      "name": "Qu\u00e9nel, Nicolas",
+      "url": "https://muckrack.com/nicolas-quenel"
+    },
+    {
+      "name": "Qu\u00e9nelle, Benjamin",
+      "url": "https://muckrack.com/benjamin-quenelle-1"
+    },
+    {
+      "name": "Query, Alexander",
+      "url": "https://muckrack.com/alexander-query"
+    },
+    {
+      "name": "Quinn, Aine",
+      "url": "https://muckrack.com/aine-quinn-2"
+    },
+    {
+      "name": "Rahman, Dilnya",
+      "url": "https://muckrack.com/dilnya-rahman"
+    },
+    {
+      "name": "Reevell, Patrick",
+      "url": "https://muckrack.com/patrick-reevell"
+    },
+    {
+      "name": "Reija L\u00f3pez, \u00c9rika",
+      "url": "https://muckrack.com/erika-reija-lopez"
+    },
+    {
+      "name": "Remchukov, Konstantin",
+      "url": "https://muckrack.com/konstantin-remchukov"
+    },
+    {
+      "name": "Reznik, Irina",
+      "url": "https://muckrack.com/irina-reznik"
+    },
+    {
+      "name": "Ritchie, Michael",
+      "url": "https://muckrack.com/michael-ritchie-2"
+    },
+    {
+      "name": "Riviere, Bertrand",
+      "url": "https://muckrack.com/bertrand-riviere"
+    },
+    {
+      "name": "Roberts, Tara",
+      "url": "https://muckrack.com/tara-roberts-3"
+    },
+    {
+      "name": "Rodriguez, Noel",
+      "url": "https://muckrack.com/noel-rodriguez"
+    },
+    {
+      "name": "Romashkina, Svetlana",
+      "url": "https://muckrack.com/svetlana-romashkina-1"
+    },
+    {
+      "name": "Romashova, Alexandra",
+      "url": "https://muckrack.com/alexandra-romashova"
+    },
+    {
+      "name": "Rose, Scott",
+      "url": "https://muckrack.com/scott-rose"
+    },
+    {
+      "name": "Rosenberg, Steve",
+      "url": "https://muckrack.com/bbcstever"
+    },
+    {
+      "name": "Roth, Andrew",
+      "url": "https://muckrack.com/andrew-roth"
+    },
+    {
+      "name": "Ruck, Ina",
+      "url": "https://muckrack.com/ina-ruck"
+    },
+    {
+      "name": "Rudnitsky, Jake",
+      "url": "https://muckrack.com/jake-rudnitsky"
+    },
+    {
+      "name": "Russell, Dana",
+      "url": "https://muckrack.com/dana-russell-1"
+    },
+    {
+      "name": "Sadkov, Pavel",
+      "url": "https://muckrack.com/pavel-sadkov"
+    },
+    {
+      "name": "Sadulayev, Musa",
+      "url": "https://muckrack.com/musa-sadulayev"
+    },
+    {
+      "name": "Sahuquillo, Mar\u00eda R.",
+      "url": "https://muckrack.com/maria-r-sahuquillo"
+    },
+    {
+      "name": "Salem, Harriet",
+      "url": "https://muckrack.com/harriet-salem"
+    },
+    {
+      "name": "Salnikov, Peter",
+      "url": "https://muckrack.com/peter-salnikov"
+    },
+    {
+      "name": "Sanferova, Elena",
+      "url": "https://muckrack.com/elena-sanferova"
+    },
+    {
+      "name": "Sangal, Aditi",
+      "url": "https://muckrack.com/aditi-sangal"
+    },
+    {
+      "name": "Saradzhyan, Simon",
+      "url": "https://muckrack.com/simon-saradzhyan"
+    },
+    {
+      "name": "Sauer, Pjotr",
+      "url": "https://muckrack.com/pjotr-sauer"
+    },
+    {
+      "name": "Sazonov, Alex",
+      "url": "https://muckrack.com/alex-sazonov"
+    },
+    {
+      "name": "Schmidt, Friedrich",
+      "url": "https://muckrack.com/friedrich-schmidt"
+    },
+    {
+      "name": "Schneider, Carola",
+      "url": "https://muckrack.com/carola-schneider"
+    },
+    {
+      "name": "Schreck, Carl",
+      "url": "https://muckrack.com/carl-schreck"
+    },
+    {
+      "name": "Seddon, Max",
+      "url": "https://muckrack.com/max-seddon"
+    },
+    {
+      "name": "S\u00e9nderov, Semi\u00f3n",
+      "url": "https://muckrack.com/semion-senderov"
+    },
+    {
+      "name": "Senina, Anastasia",
+      "url": "https://muckrack.com/anastasia-senina"
+    },
+    {
+      "name": "Sergeenkov, Andrey",
+      "url": "https://muckrack.com/andrey-sergeenkov-1"
+    },
+    {
+      "name": "Shapiro, Natasha",
+      "url": "https://muckrack.com/natasha-shapiro-3"
+    },
+    {
+      "name": "Sharkov, Damien",
+      "url": "https://muckrack.com/damien-sharkov"
+    },
+    {
+      "name": "Shekina, Darya",
+      "url": "https://muckrack.com/darya-shekina"
+    },
+    {
+      "name": "Shleynov, Roman",
+      "url": "https://muckrack.com/roman-shleynov"
+    },
+    {
+      "name": "Shulgin, Dmitry",
+      "url": "https://muckrack.com/dmitry-shulgin"
+    },
+    {
+      "name": "Shuster, Simon",
+      "url": "https://muckrack.com/shustry"
+    },
+    {
+      "name": "Simanovych, Olga",
+      "url": "https://muckrack.com/olga-simanovych"
+    },
+    {
+      "name": "Smirnov, Oleg",
+      "url": "https://muckrack.com/oleg-smirnov-1"
+    },
+    {
+      "name": "Smith, Stuart",
+      "url": "https://muckrack.com/stuart-smith"
+    },
+    {
+      "name": "Smolchenko, Anna",
+      "url": "https://muckrack.com/anna-smolchenko"
+    },
+    {
+      "name": "Sokolov, Sergey",
+      "url": "https://muckrack.com/sergey-sokolov"
+    },
+    {
+      "name": "Soldatkin, Vladimir",
+      "url": "https://muckrack.com/vladimir-soldatkin"
+    },
+    {
+      "name": "Solovieva, Ksenia",
+      "url": "https://muckrack.com/ksenia-solovieva"
+    },
+    {
+      "name": "Sommerbauer, Jutta",
+      "url": "https://muckrack.com/jutta-sommerbauer"
+    },
+    {
+      "name": "Standish, Reid",
+      "url": "https://muckrack.com/reid-standish"
+    },
+    {
+      "name": "Stefanovich, Dmitry",
+      "url": "https://muckrack.com/dmitry-stefanovich"
+    },
+    {
+      "name": "Stewart, Briar",
+      "url": "https://muckrack.com/briar-stewart"
+    },
+    {
+      "name": "Stewart, Will",
+      "url": "https://muckrack.com/will-stewart"
+    },
+    {
+      "name": "Stognei, Anastasia",
+      "url": "https://muckrack.com/anastasiastognei"
+    },
+    {
+      "name": "Stolyarov, Gleb",
+      "url": "https://muckrack.com/gleb-stolyarov"
+    },
+    {
+      "name": "Strelkov, Denis",
+      "url": "https://muckrack.com/denis-strelkov"
+    },
+    {
+      "name": "Stroganova, Anya",
+      "url": "https://muckrack.com/anya-stroganova"
+    },
+    {
+      "name": "Subbotina, Svetlana",
+      "url": "https://muckrack.com/svetlana-subbotina"
+    },
+    {
+      "name": "Sukachev, Alexey",
+      "url": "https://muckrack.com/alexey-sukachev"
+    },
+    {
+      "name": "Sukharevskaya, Olga",
+      "url": "https://muckrack.com/olga-sukharevskaya"
+    },
+    {
+      "name": "Sullivan, Greg",
+      "url": "https://muckrack.com/greg-sullivan-4"
+    },
+    {
+      "name": "Suny, Ronald Grigor",
+      "url": "https://muckrack.com/ronald-grigor-suny"
+    },
+    {
+      "name": "Sussex, Matthew",
+      "url": "https://muckrack.com/matthew-sussex"
+    },
+    {
+      "name": "Swarovskaya, Katia",
+      "url": "https://muckrack.com/katia-swarovskaya-1"
+    },
+    {
+      "name": "Syber, Martti",
+      "url": "https://muckrack.com/martti-syber"
+    },
+    {
+      "name": "Talachev, Ivan",
+      "url": "https://muckrack.com/ivan-talachev"
+    },
+    {
+      "name": "Tanas, Olga",
+      "url": "https://muckrack.com/olga-tanas"
+    },
+    {
+      "name": "Tarasova, Darya",
+      "url": "https://muckrack.com/darya-tarasova"
+    },
+    {
+      "name": "Tavener, Ben",
+      "url": "https://muckrack.com/bentavener"
+    },
+    {
+      "name": "Tegatti, Azzy",
+      "url": "https://muckrack.com/azzy-tegatti-1"
+    },
+    {
+      "name": "Trevelyan, Mark",
+      "url": "https://muckrack.com/mark-trevelyan"
+    },
+    {
+      "name": "Trinchero, Nicol\u00e1s",
+      "url": "https://muckrack.com/nicolas-trinchero"
+    },
+    {
+      "name": "Trofimov, Philipp",
+      "url": "https://muckrack.com/philipp-trofimov"
+    },
+    {
+      "name": "Tronchet, Sylvain",
+      "url": "https://muckrack.com/sylvain-tronchet"
+    },
+    {
+      "name": "Tsvetkova, Maria",
+      "url": "https://muckrack.com/maria-tsvetkova"
+    },
+    {
+      "name": "Tymotsko, Roman",
+      "url": "https://muckrack.com/roman-tymotsko"
+    },
+    {
+      "name": "Ugolny, Vladislav",
+      "url": "https://muckrack.com/vladislav-ugolny"
+    },
+    {
+      "name": "Ullah, Zahra",
+      "url": "https://muckrack.com/zahra-ullah"
+    },
+    {
+      "name": "Uskov, Nikolay",
+      "url": "https://muckrack.com/nikolay-uskov"
+    },
+    {
+      "name": "Vakhrusheva, Alexandra",
+      "url": "https://muckrack.com/alexandra-vakhrusheva"
+    },
+    {
+      "name": "van den Ende, Sonja",
+      "url": "https://muckrack.com/sonja-van-den-ende"
+    },
+    {
+      "name": "Varenytsia, Inna",
+      "url": "https://muckrack.com/inna-varenytsia"
+    },
+    {
+      "name": "Vasiliev, Yuri",
+      "url": "https://muckrack.com/scottishkot"
+    },
+    {
+      "name": "Vasin, Ivan",
+      "url": "https://muckrack.com/ivan-vasin"
+    },
+    {
+      "name": "Vesnitch, Natacha",
+      "url": "https://muckrack.com/natacha-vesnitch"
+    },
+    {
+      "name": "Vinogradova, Natalia",
+      "url": "https://muckrack.com/natalia-vinogradova-1"
+    },
+    {
+      "name": "Volgina, Evgeniya",
+      "url": "https://muckrack.com/evgeniya-volgina"
+    },
+    {
+      "name": "Volkova, Irina",
+      "url": "https://muckrack.com/irina-volkova"
+    },
+    {
+      "name": "Volochine, Elena",
+      "url": "https://muckrack.com/elena-volochine"
+    },
+    {
+      "name": "Voronin, Vladimir",
+      "url": "https://muckrack.com/vladimir-voronin"
+    },
+    {
+      "name": "Vorotnikov, Vladislav",
+      "url": "https://muckrack.com/vladislav-vorotnikov"
+    },
+    {
+      "name": "Voswinkel, Johannes",
+      "url": "https://muckrack.com/johannes-voswinkel-2"
+    },
+    {
+      "name": "Wasiura, Michael",
+      "url": "https://muckrack.com/michael-wasiura"
+    },
+    {
+      "name": "Weir, Fred",
+      "url": "https://muckrack.com/fred-weir"
+    },
+    {
+      "name": "Westall, Sylvia",
+      "url": "https://muckrack.com/sylvia-westall"
+    },
+    {
+      "name": "Whewell, Tim",
+      "url": "https://muckrack.com/bbctimwhewell"
+    },
+    {
+      "name": "White, Greg",
+      "url": "https://muckrack.com/whitegl"
+    },
+    {
+      "name": "Whitmore, Brian",
+      "url": "https://muckrack.com/brian-whitmore"
+    },
+    {
+      "name": "Wilson, Andrew",
+      "url": "https://muckrack.com/andrew-wilson-9"
+    },
+    {
+      "name": "Woodall, Toby",
+      "url": "https://muckrack.com/tobywoodall"
+    },
+    {
+      "name": "Yagova, Olga",
+      "url": "https://muckrack.com/olga-yagova"
+    },
+    {
+      "name": "Yakovenko, Valeriy",
+      "url": "https://muckrack.com/valeriy-yakovenko"
+    },
+    {
+      "name": "Yakovina, Olga",
+      "url": "https://muckrack.com/olga-yakovina"
+    },
+    {
+      "name": "Yermak, Natalia",
+      "url": "https://muckrack.com/natalia-yermak"
+    },
+    {
+      "name": "Zappone, Chris",
+      "url": "https://muckrack.com/chris-zappone"
+    },
+    {
+      "name": "Zarudny, Timur",
+      "url": "https://muckrack.com/timur-zarudny"
+    },
+    {
+      "name": "Zdorov, Dmitri",
+      "url": "https://muckrack.com/dmitri-zdorov"
+    },
+    {
+      "name": "Zemlianichenko, Alexander",
+      "url": "https://muckrack.com/alexander-zemlianichenko"
+    },
+    {
+      "name": "Zharienov, Yaroslav",
+      "url": "https://muckrack.com/yaroslav-zharienov"
+    },
+    {
+      "name": "Zhitomirskiy, Michael",
+      "url": "https://muckrack.com/michael-zhitomirskiy"
+    },
+    {
+      "name": "Zhukova, Anya",
+      "url": "https://muckrack.com/anya-zhukova"
+    },
+    {
+      "name": "Zhukova, Olga",
+      "url": "https://muckrack.com/olga-zhukova"
+    },
+    {
+      "name": "Zinets, Natalia",
+      "url": "https://muckrack.com/natalia-zinets"
+    },
+    {
+      "name": "Zlobin, Nikolai",
+      "url": "https://muckrack.com/nikolai-zlobin"
+    },
+    {
+      "name": "Zumaya, Betzab\u00e9",
+      "url": "https://muckrack.com/betzabe-zumaya"
+    },
+    {
+      "name": "\u0414\u0435\u0440\u0434\u043e, \u042e\u043b\u0438\u044f",
+      "url": "https://muckrack.com/person-733139938"
+    },
+    {
+      "name": "\u041a\u043e\u043d\u043e\u043d\u0435\u043d\u043a\u043e, \u041c\u0430\u043a\u0441\u0438\u043c",
+      "url": "https://muckrack.com/person-903673825"
+    },
+    {
+      "name": "\u041c\u0430\u043b\u043a\u043e\u0432, \u041c\u0430\u043a\u0441",
+      "url": "https://muckrack.com/person-534568296"
+    }
+  ]
+}

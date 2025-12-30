@@ -1,0 +1,1743 @@
+{
+  "location": "indonesia",
+  "url": "https://muckrack.com/beat/indonesia",
+  "total_journalists": 434,
+  "journalists": [
+    {
+      "name": "Aban, Rinaldi",
+      "url": "https://muckrack.com/rinaldi-aban"
+    },
+    {
+      "name": "Abdi, Alfian Putra",
+      "url": "https://muckrack.com/alfian-abdi"
+    },
+    {
+      "name": "Abdulhakim, Nafis",
+      "url": "https://muckrack.com/nafis-abdulhakim"
+    },
+    {
+      "name": "Abdurrahman, Nazmi",
+      "url": "https://muckrack.com/nazmi-abdurrahman"
+    },
+    {
+      "name": "Abidin, Aflahul",
+      "url": "https://muckrack.com/aflahul-abidin"
+    },
+    {
+      "name": "Achmad, Fajar Bahruddin",
+      "url": "https://muckrack.com/fajar-bahruddin-achmad"
+    },
+    {
+      "name": "Adhi, Satya",
+      "url": "https://muckrack.com/satya-adhi-1"
+    },
+    {
+      "name": "Adinda, Permata",
+      "url": "https://muckrack.com/permata-adinda"
+    },
+    {
+      "name": "Aditia, Andika",
+      "url": "https://muckrack.com/andika-aditia"
+    },
+    {
+      "name": "Aditya, Arys",
+      "url": "https://muckrack.com/arys-aditya"
+    },
+    {
+      "name": "Adityarani, Ratri",
+      "url": "https://muckrack.com/ratri-adityarani"
+    },
+    {
+      "name": "Adri, Aguido",
+      "url": "https://muckrack.com/aguido-adri"
+    },
+    {
+      "name": "Aeni, Siti Nur",
+      "url": "https://muckrack.com/siti-nur-aeni"
+    },
+    {
+      "name": "Agestu, Ike",
+      "url": "https://muckrack.com/ike-agestu"
+    },
+    {
+      "name": "Agustina, Tria",
+      "url": "https://muckrack.com/tria-agustina"
+    },
+    {
+      "name": "Agustino, Gerald Leonardo",
+      "url": "https://muckrack.com/gerald-leonardo-agustino"
+    },
+    {
+      "name": "Ahyar, Ahmad",
+      "url": "https://muckrack.com/ahmad-ahyar"
+    },
+    {
+      "name": "Ajengrastri, Astudestra",
+      "url": "https://muckrack.com/astudestra-ajengrastri"
+    },
+    {
+      "name": "Akbar, Habibullah",
+      "url": "https://muckrack.com/habibullah-akbar"
+    },
+    {
+      "name": "Al Azhari, Muhamad",
+      "url": "https://muckrack.com/muhamad-al-azhari"
+    },
+    {
+      "name": "Al Fajri, Fitriyandi",
+      "url": "https://muckrack.com/fitriyandi-al-fajri-1"
+    },
+    {
+      "name": "Al Hasan, Adil",
+      "url": "https://muckrack.com/adil-al-hasan"
+    },
+    {
+      "name": "Alpito, Agustinus Shindu",
+      "url": "https://muckrack.com/agustinus-shindu-alpito"
+    },
+    {
+      "name": "Amanda, Gita",
+      "url": "https://muckrack.com/gita-amanda"
+    },
+    {
+      "name": "Amurwonegoro, Adrian",
+      "url": "https://muckrack.com/adrian-amurwonegoro"
+    },
+    {
+      "name": "Andina, Rifa",
+      "url": "https://muckrack.com/rifa-andina"
+    },
+    {
+      "name": "Andita, Ikhsan",
+      "url": "https://muckrack.com/ikhsan-andita"
+    },
+    {
+      "name": "Andriana, Kiki",
+      "url": "https://muckrack.com/kiki-andriana"
+    },
+    {
+      "name": "Anggraeni, Pingky Setiyo",
+      "url": "https://muckrack.com/pingky-setiyo-anggraeni"
+    },
+    {
+      "name": "Anggraeni, Rika",
+      "url": "https://muckrack.com/rika-anggraeni"
+    },
+    {
+      "name": "Anggraini, Miftah Aulia",
+      "url": "https://muckrack.com/miftah-aulia-anggraini"
+    },
+    {
+      "name": "Angraeni, Nining",
+      "url": "https://muckrack.com/nining-angraeni"
+    },
+    {
+      "name": "Anjani, Frida",
+      "url": "https://muckrack.com/frida-anjani"
+    },
+    {
+      "name": "Anna, Lusia Kus",
+      "url": "https://muckrack.com/lusia-kus-anna"
+    },
+    {
+      "name": "Annur, Cindy Mutia",
+      "url": "https://muckrack.com/cindy-mutia-annur"
+    },
+    {
+      "name": "Arby, Muhammad",
+      "url": "https://muckrack.com/muhammad-arby"
+    },
+    {
+      "name": "Ari, Santo",
+      "url": "https://muckrack.com/santo-ari"
+    },
+    {
+      "name": "Arifianto, iwan",
+      "url": "https://muckrack.com/iwan-arifianto"
+    },
+    {
+      "name": "Arifin, Choirul",
+      "url": "https://muckrack.com/choirul-arifin"
+    },
+    {
+      "name": "Arifin, Jawanto",
+      "url": "https://muckrack.com/jawanto-arifin"
+    },
+    {
+      "name": "Arifin, Zaenal",
+      "url": "https://muckrack.com/zaenal-arifin"
+    },
+    {
+      "name": "Arsika, Melati Putri",
+      "url": "https://muckrack.com/melati-putri-arsika"
+    },
+    {
+      "name": "Artanti, Annisa Ayu",
+      "url": "https://muckrack.com/annisa-ayu-artanti"
+    },
+    {
+      "name": "Arya, Wardhana",
+      "url": "https://muckrack.com/wardhana-arya"
+    },
+    {
+      "name": "Ashidiqi, Abdul Muis",
+      "url": "https://muckrack.com/abdul-muis-ashidiqi"
+    },
+    {
+      "name": "Asmaaysi, Alifian",
+      "url": "https://muckrack.com/alifian-asmaaysi"
+    },
+    {
+      "name": "Asmarini, Wilda",
+      "url": "https://muckrack.com/wilda-asmarini"
+    },
+    {
+      "name": "Asprihanto, Heru",
+      "url": "https://muckrack.com/heru-asprihanto"
+    },
+    {
+      "name": "Astuti, Indriyani",
+      "url": "https://muckrack.com/indriyani-astuti"
+    },
+    {
+      "name": "Aulia, Luki",
+      "url": "https://muckrack.com/luki-aulia"
+    },
+    {
+      "name": "Ayu, Dya",
+      "url": "https://muckrack.com/dya-ayu"
+    },
+    {
+      "name": "Ayuningtyas, Kusumasari",
+      "url": "https://muckrack.com/kusumasari-ayuningtyas"
+    },
+    {
+      "name": "Aziz, Abdul",
+      "url": "https://muckrack.com/abdul-aziz"
+    },
+    {
+      "name": "Azizah, Nora",
+      "url": "https://muckrack.com/nora-azizah"
+    },
+    {
+      "name": "Azzahra, Nabiila",
+      "url": "https://muckrack.com/nabiila-azzahra"
+    },
+    {
+      "name": "Azzahra, Nayla",
+      "url": "https://muckrack.com/nayla-azzahra"
+    },
+    {
+      "name": "Azzahro, Rara Khushshoh",
+      "url": "https://muckrack.com/rara-khushshoh-azzahro"
+    },
+    {
+      "name": "Bachri, Samsul",
+      "url": "https://muckrack.com/samsul-bachri"
+    },
+    {
+      "name": "Bachtiar, Yusuf",
+      "url": "https://muckrack.com/yusuf-bachtiar"
+    },
+    {
+      "name": "Bacirita, Manado",
+      "url": "https://muckrack.com/manado-bacirita"
+    },
+    {
+      "name": "Baehaqi, Ahmad Imam",
+      "url": "https://muckrack.com/ahmad-imam-baehaqi"
+    },
+    {
+      "name": "Bahar, Alvin",
+      "url": "https://muckrack.com/alvxb"
+    },
+    {
+      "name": "Bahri, Samsul",
+      "url": "https://muckrack.com/samsul-bahri"
+    },
+    {
+      "name": "Banirestu, Herning",
+      "url": "https://muckrack.com/herning-banirestu-"
+    },
+    {
+      "name": "Barker, Anne",
+      "url": "https://muckrack.com/anne-barker"
+    },
+    {
+      "name": "Baskoro, Rangga",
+      "url": "https://muckrack.com/rangga-baskoro"
+    },
+    {
+      "name": "Bratadharma, Angga",
+      "url": "https://muckrack.com/angga-bratadharma"
+    },
+    {
+      "name": "Buana, Rusna Djanur",
+      "url": "https://muckrack.com/rusna-djanur-buana"
+    },
+    {
+      "name": "Budianto, Ariadne",
+      "url": "https://muckrack.com/ariadne-budianto"
+    },
+    {
+      "name": "CC, Dedy Qurniawan",
+      "url": "https://muckrack.com/dedy-qurniawan-cc"
+    },
+    {
+      "name": "CC, M Zulkodri",
+      "url": "https://muckrack.com/m-zulkodri-cc"
+    },
+    {
+      "name": "Cheng, Hanson",
+      "url": "https://muckrack.com/hanson-cheng"
+    },
+    {
+      "name": "Coca, Nithin",
+      "url": "https://muckrack.com/nithincoca"
+    },
+    {
+      "name": "Corbuzier, Deddy",
+      "url": "https://muckrack.com/deddy-corbuzier"
+    },
+    {
+      "name": "Dahrul, Fathiya",
+      "url": "https://muckrack.com/fathiya-dahrul"
+    },
+    {
+      "name": "Dama, Alfred",
+      "url": "https://muckrack.com/alfred-dama"
+    },
+    {
+      "name": "Damazo-Santos, Jet",
+      "url": "https://muckrack.com/jetdsantos"
+    },
+    {
+      "name": "Daniswari, Dini",
+      "url": "https://muckrack.com/dini-daniswari"
+    },
+    {
+      "name": "Daniyanto, Endy",
+      "url": "https://muckrack.com/endy-daniyanto"
+    },
+    {
+      "name": "Darenti, Talitha Desena",
+      "url": "https://muckrack.com/talitha-desena-darenti"
+    },
+    {
+      "name": "Darling, Georgie",
+      "url": "https://muckrack.com/georgie-darling"
+    },
+    {
+      "name": "Darmawan, Reza Kurnia",
+      "url": "https://muckrack.com/reza-kurnia-darmawan"
+    },
+    {
+      "name": "Darwati, Erta",
+      "url": "https://muckrack.com/erta-darwati"
+    },
+    {
+      "name": "Dawangi, Handhika",
+      "url": "https://muckrack.com/handhika-dawangi"
+    },
+    {
+      "name": "Dennys, Ferril",
+      "url": "https://muckrack.com/ferril-dennys"
+    },
+    {
+      "name": "Dewanti, Yolanda Putri",
+      "url": "https://muckrack.com/yolanda-putri-dewanti"
+    },
+    {
+      "name": "Dewanto, Kelik",
+      "url": "https://muckrack.com/kelik-dewanto"
+    },
+    {
+      "name": "Dhini, Vega",
+      "url": "https://muckrack.com/vega-dhini"
+    },
+    {
+      "name": "Diela, Tabita",
+      "url": "https://muckrack.com/tabita-diela"
+    },
+    {
+      "name": "Djawahir, Kusnan",
+      "url": "https://muckrack.com/kusnan-djawahir"
+    },
+    {
+      "name": "Donovan, Gordy",
+      "url": "https://muckrack.com/gordy-donovan"
+    },
+    {
+      "name": "Dorimulu, Primus",
+      "url": "https://muckrack.com/primus-dorimulu-1"
+    },
+    {
+      "name": "Durado, Nielton",
+      "url": "https://muckrack.com/nielton-durado"
+    },
+    {
+      "name": "Dwiastono, Rivan",
+      "url": "https://muckrack.com/rivan-dwiastono"
+    },
+    {
+      "name": "Eka Pribadi, Sigit",
+      "url": "https://muckrack.com/vicksigit"
+    },
+    {
+      "name": "Endra, Hermawan",
+      "url": "https://muckrack.com/hermawan-endra"
+    },
+    {
+      "name": "Erdianto, Kristian",
+      "url": "https://muckrack.com/kristian-erdianto"
+    },
+    {
+      "name": "Erlanti, Mutiara Suci",
+      "url": "https://muckrack.com/mutiara-suci-erlanti"
+    },
+    {
+      "name": "Ertato, Agung Dwi",
+      "url": "https://muckrack.com/agung-dwi-e"
+    },
+    {
+      "name": "Fachrizal, Rafki",
+      "url": "https://muckrack.com/rafki-fachrizal"
+    },
+    {
+      "name": "Fadhilah, Umi Nur",
+      "url": "https://muckrack.com/umi-nur-fadhilah"
+    },
+    {
+      "name": "Fadilah, Sartika Rizki",
+      "url": "https://muckrack.com/sartika-rizki-fadilah"
+    },
+    {
+      "name": "Fairoussaniy, Mohammad",
+      "url": "https://muckrack.com/mohammad-fairoussaniy"
+    },
+    {
+      "name": "Fajar, Jay",
+      "url": "https://muckrack.com/jay-fajar"
+    },
+    {
+      "name": "Fajrianty, Laily",
+      "url": "https://muckrack.com/laily-fajrianty"
+    },
+    {
+      "name": "Fansuri, Firkah",
+      "url": "https://muckrack.com/firkah-fansuri"
+    },
+    {
+      "name": "Faradilla, Adinda",
+      "url": "https://muckrack.com/adinda-faradilla"
+    },
+    {
+      "name": "Farisa, Fitria Chusna",
+      "url": "https://muckrack.com/fitria-chusna-farisa"
+    },
+    {
+      "name": "Fatimarahma, Szalma",
+      "url": "https://muckrack.com/szalma-fatimarahma"
+    },
+    {
+      "name": "Fauzan, Rahmad",
+      "url": "https://muckrack.com/rahmad-fauzan"
+    },
+    {
+      "name": "Fauzi, Rully",
+      "url": "https://muckrack.com/rully-fauzi"
+    },
+    {
+      "name": "Fauzian, Rizkie",
+      "url": "https://muckrack.com/rizkie-fauzian"
+    },
+    {
+      "name": "Fauziyah, Najla Nur",
+      "url": "https://muckrack.com/najla-nur-fauziyah"
+    },
+    {
+      "name": "Fauzy, Naufal",
+      "url": "https://muckrack.com/naufal-fauzy"
+    },
+    {
+      "name": "Fawdi, Maulana Ilhami",
+      "url": "https://muckrack.com/maulana-ilhami-fawdi"
+    },
+    {
+      "name": "Febiola, Annisa",
+      "url": "https://muckrack.com/annisa-febiola"
+    },
+    {
+      "name": "Febriana, Nanda Bella",
+      "url": "https://muckrack.com/nanda-bella-febriana"
+    },
+    {
+      "name": "Febrianti, Vivi",
+      "url": "https://muckrack.com/vivi-febrianti"
+    },
+    {
+      "name": "Felis, Febrianus",
+      "url": "https://muckrack.com/febrianus-felis"
+    },
+    {
+      "name": "Fikri, Muhammad Shohibul",
+      "url": "https://muckrack.com/muhammad-shohibul-fikri"
+    },
+    {
+      "name": "Fikria, Syahaamah",
+      "url": "https://muckrack.com/syahaamah-fikria"
+    },
+    {
+      "name": "Firdaus, Farid",
+      "url": "https://muckrack.com/farid-firdaus-1"
+    },
+    {
+      "name": "Fitrianggraeni, Setyawati",
+      "url": "https://muckrack.com/setyawati-fitrianggraeni"
+    },
+    {
+      "name": "Freischlad, Nadineq",
+      "url": "https://muckrack.com/nfreischlad"
+    },
+    {
+      "name": "Futari, Hana",
+      "url": "https://muckrack.com/hana-futari"
+    },
+    {
+      "name": "Galih, Bayu",
+      "url": "https://muckrack.com/bayu-galih"
+    },
+    {
+      "name": "Gewati, Mikhael",
+      "url": "https://muckrack.com/mikhael-gewati"
+    },
+    {
+      "name": "Ghifari, Deni",
+      "url": "https://muckrack.com/deni-ghifari"
+    },
+    {
+      "name": "Ghozali, Ahmad Sulton",
+      "url": "https://muckrack.com/ahmad-sulton-ghozali"
+    },
+    {
+      "name": "Ginanjar, Prasetyo Agung",
+      "url": "https://muckrack.com/prasetyo-agung-ginanjar"
+    },
+    {
+      "name": "Gokkon, Basten",
+      "url": "https://muckrack.com/basten-gokkon"
+    },
+    {
+      "name": "Guhuhuku, Ferdi",
+      "url": "https://muckrack.com/ferdi-guhuhuku"
+    },
+    {
+      "name": "Gunarto, Hari",
+      "url": "https://muckrack.com/hari-gunarto"
+    },
+    {
+      "name": "Gunawan, Hendra",
+      "url": "https://muckrack.com/hendra-gunawan"
+    },
+    {
+      "name": "Gunawan, Virginia",
+      "url": "https://muckrack.com/virginia-gunawan"
+    },
+    {
+      "name": "Gusmulyadi, Hendri",
+      "url": "https://muckrack.com/hendri-gusmulyadi"
+    },
+    {
+      "name": "Hadi, Samsul",
+      "url": "https://muckrack.com/samsul-hadi"
+    },
+    {
+      "name": "Hafiez, Fachri Audhia",
+      "url": "https://muckrack.com/fachri-audhia-hafiez"
+    },
+    {
+      "name": "Hafiz, Abdul M.",
+      "url": "https://muckrack.com/abdul-m-hafiz"
+    },
+    {
+      "name": "Hakim, Annas Furqon",
+      "url": "https://muckrack.com/annas-furqon-hakim"
+    },
+    {
+      "name": "Halim, Kautsar",
+      "url": "https://muckrack.com/kautsar-halim"
+    },
+    {
+      "name": "Hamdani, Trio",
+      "url": "https://muckrack.com/trio-hamdani"
+    },
+    {
+      "name": "Handoko, Ridwan",
+      "url": "https://muckrack.com/ridwan-handoko"
+    },
+    {
+      "name": "Hapsari, Natalia Endah",
+      "url": "https://muckrack.com/natalia-endah-hapsari"
+    },
+    {
+      "name": "Haris, Ahmad",
+      "url": "https://muckrack.com/ahmad-haris"
+    },
+    {
+      "name": "Harper, Sarid",
+      "url": "https://muckrack.com/sarid-harper"
+    },
+    {
+      "name": "Harsono, Norman",
+      "url": "https://muckrack.com/norman-harsono"
+    },
+    {
+      "name": "Harususilo, Yohanes Enggar",
+      "url": "https://muckrack.com/yohanes-enggar-harususilo"
+    },
+    {
+      "name": "Haryono, Willy",
+      "url": "https://muckrack.com/willy-haryono"
+    },
+    {
+      "name": "Hatta, Arif",
+      "url": "https://muckrack.com/arif-hatta"
+    },
+    {
+      "name": "Hatta, Muhammad Hizri",
+      "url": "https://muckrack.com/muhammad-hizri-hatta"
+    },
+    {
+      "name": "Hermansyah, Ilham",
+      "url": "https://muckrack.com/ilham-hermansyah-1"
+    },
+    {
+      "name": "Hibaturrahman, Novaldi",
+      "url": "https://muckrack.com/novaldi-hibaturrahman"
+    },
+    {
+      "name": "Hidayah, Mohammad Nurul",
+      "url": "https://muckrack.com/mohammad-nurul-hidayah"
+    },
+    {
+      "name": "Hidayat, Rahmat",
+      "url": "https://muckrack.com/rahmat-hidayat"
+    },
+    {
+      "name": "Ho, Yudith",
+      "url": "https://muckrack.com/yudith-ho"
+    },
+    {
+      "name": "Hodge, Amanda",
+      "url": "https://muckrack.com/hodgeamanda"
+    },
+    {
+      "name": "Hoi, Irfan",
+      "url": "https://muckrack.com/irfan-hoi"
+    },
+    {
+      "name": "Huda, Nurholis",
+      "url": "https://muckrack.com/nurholis-huda"
+    },
+    {
+      "name": "Hudoyo, Mimi",
+      "url": "https://muckrack.com/mimi-hudoyo"
+    },
+    {
+      "name": "Ibnumasy, M. Rifqi",
+      "url": "https://muckrack.com/m-rifqi-ibnumasy"
+    },
+    {
+      "name": "Ibrahim, Achmad",
+      "url": "https://muckrack.com/achmad-ibrahim"
+    },
+    {
+      "name": "Idris, Firzie A.",
+      "url": "https://muckrack.com/firzie-a-idris"
+    },
+    {
+      "name": "Ihsan, Muhamad",
+      "url": "https://muckrack.com/muhamad-ihsan"
+    },
+    {
+      "name": "Imtiyaaz, Faqih",
+      "url": "https://muckrack.com/faqih-imtiyaaz"
+    },
+    {
+      "name": "Indah, Ardhike",
+      "url": "https://muckrack.com/ardhike-indah"
+    },
+    {
+      "name": "Iqbal, Muhammad",
+      "url": "https://muckrack.com/muhammad-iqbal-5"
+    },
+    {
+      "name": "Iqbal, Muhammad",
+      "url": "https://muckrack.com/muhammad-iqbal-6"
+    },
+    {
+      "name": "Iradat, Damar",
+      "url": "https://muckrack.com/damariradat"
+    },
+    {
+      "name": "Islamiati, Widya",
+      "url": "https://muckrack.com/widya-islamiati"
+    },
+    {
+      "name": "Ismail, Saifulbahri",
+      "url": "https://muckrack.com/saifulbahri-ismail"
+    },
+    {
+      "name": "Isriadhi, Candra",
+      "url": "https://muckrack.com/candra-isriadhi"
+    },
+    {
+      "name": "Iswara, Made Anthony",
+      "url": "https://muckrack.com/madeanthonyiswara"
+    },
+    {
+      "name": "Jacobson, Philip",
+      "url": "https://muckrack.com/philip-jacobson"
+    },
+    {
+      "name": "Jamaluddin, Masrur",
+      "url": "https://muckrack.com/masrur-jamaluddin"
+    },
+    {
+      "name": "Januarita, Jenny",
+      "url": "https://muckrack.com/jenny-januarita"
+    },
+    {
+      "name": "Jaya, Eris Eka",
+      "url": "https://muckrack.com/eris-eka-jaya"
+    },
+    {
+      "name": "Jefriando, Maikel",
+      "url": "https://muckrack.com/maikel-jefriando"
+    },
+    {
+      "name": "Jessica, Lysia",
+      "url": "https://muckrack.com/lysia-jessica"
+    },
+    {
+      "name": "Johansen, Michael Friis",
+      "url": "https://muckrack.com/michael-friis-johansen"
+    },
+    {
+      "name": "Julianta Trijaka, Ary",
+      "url": "https://muckrack.com/ary-julianta-trijaka"
+    },
+    {
+      "name": "Julianto, Ary",
+      "url": "https://muckrack.com/ary-julianto"
+    },
+    {
+      "name": "Junita, Nancy",
+      "url": "https://muckrack.com/nancy-junita"
+    },
+    {
+      "name": "Juwita, Ruth Dea",
+      "url": "https://muckrack.com/ruth-dea-juwita"
+    },
+    {
+      "name": "Kamalina, Annasa Rizki",
+      "url": "https://muckrack.com/annasa-rizki-kamalina"
+    },
+    {
+      "name": "Kartikasari, Bunga",
+      "url": "https://muckrack.com/bunga-kartikasari"
+    },
+    {
+      "name": "kesuma, Dwi putra",
+      "url": "https://muckrack.com/dwi-putra-kesuma"
+    },
+    {
+      "name": "Kevin, Hesikios",
+      "url": "https://muckrack.com/hesikios-kevin"
+    },
+    {
+      "name": "Kosala, Rangga",
+      "url": "https://muckrack.com/rangga-kosala"
+    },
+    {
+      "name": "Kosasih, Engkos",
+      "url": "https://muckrack.com/engkos-kosasih"
+    },
+    {
+      "name": "Kunto, Nisya",
+      "url": "https://muckrack.com/nisya-kunto"
+    },
+    {
+      "name": "Kurmala, Azis",
+      "url": "https://muckrack.com/azis-kurmala"
+    },
+    {
+      "name": "Kurniasari, Desy",
+      "url": "https://muckrack.com/desy-kurniasari"
+    },
+    {
+      "name": "Kurniawan, Al Fandy",
+      "url": "https://muckrack.com/al-fandy-kurniawan"
+    },
+    {
+      "name": "Kurniawan, Iqbal",
+      "url": "https://muckrack.com/iqbal-kurniawan"
+    },
+    {
+      "name": "Kurniawan, Kukuh",
+      "url": "https://muckrack.com/kukuh-kurniawan"
+    },
+    {
+      "name": "Kurniawan, Noval",
+      "url": "https://muckrack.com/noval-kurniawan"
+    },
+    {
+      "name": "Kusuma, Danendra",
+      "url": "https://muckrack.com/danendra-kusuma"
+    },
+    {
+      "name": "Kusumaningrum, Pramita",
+      "url": "https://muckrack.com/pramita-kusumaningrum"
+    },
+    {
+      "name": "Kusumawardana, Danendra",
+      "url": "https://muckrack.com/danendra-kusumawardana"
+    },
+    {
+      "name": "La Batu, Safrin",
+      "url": "https://muckrack.com/safrin-la-batu"
+    },
+    {
+      "name": "Lai, Yerica",
+      "url": "https://muckrack.com/yericalai"
+    },
+    {
+      "name": "Lakshmi, A. Anantha",
+      "url": "https://muckrack.com/ananthalakshmia"
+    },
+    {
+      "name": "Lamb, Kate",
+      "url": "https://muckrack.com/kate-lamb"
+    },
+    {
+      "name": "Lela, Marselinus Labu",
+      "url": "https://muckrack.com/marselinus-labu-lela"
+    },
+    {
+      "name": "Lestari, Hesti Puji",
+      "url": "https://muckrack.com/hesti-puji-lestari"
+    },
+    {
+      "name": "Lestari, Sri Handi",
+      "url": "https://muckrack.com/sri-handi-lestari"
+    },
+    {
+      "name": "Lismini, Rita",
+      "url": "https://muckrack.com/rita-lismini"
+    },
+    {
+      "name": "Lisnawati, Firdia",
+      "url": "https://muckrack.com/firdia-lisnawati"
+    },
+    {
+      "name": "Listiyorini, Eko",
+      "url": "https://muckrack.com/eko-listiyorini"
+    },
+    {
+      "name": "Lubis, Rifki Setiawan",
+      "url": "https://muckrack.com/rifki-setiawan-lubis"
+    },
+    {
+      "name": "Madrim, Sasmito",
+      "url": "https://muckrack.com/sasmito-madrim"
+    },
+    {
+      "name": "Maghiszha, Dinar Fitra",
+      "url": "https://muckrack.com/dirghiz"
+    },
+    {
+      "name": "Mahar, Muhammad Ikhsan",
+      "url": "https://muckrack.com/muhammad-ikhsan-mahar"
+    },
+    {
+      "name": "Mahendra, Rendi",
+      "url": "https://muckrack.com/rendi-mahendra"
+    },
+    {
+      "name": "Mangunsong, Lydia Tesaloni",
+      "url": "https://muckrack.com/lydia-tesaloni-mangunsong"
+    },
+    {
+      "name": "Mappanganro, Jumadi",
+      "url": "https://muckrack.com/jumadi-mappanganro"
+    },
+    {
+      "name": "Mariani, Evi",
+      "url": "https://muckrack.com/evi-mariani"
+    },
+    {
+      "name": "Marlianto, Cepi",
+      "url": "https://muckrack.com/cepi-marlianto"
+    },
+    {
+      "name": "Mart\u00ednez, Osiris",
+      "url": "https://muckrack.com/osiris-martinez"
+    },
+    {
+      "name": "Martinus, Alpen",
+      "url": "https://muckrack.com/alpen-martinus"
+    },
+    {
+      "name": "Masroni, Sara",
+      "url": "https://muckrack.com/sara-masroni"
+    },
+    {
+      "name": "Maulana, Aditya",
+      "url": "https://muckrack.com/aditya-maulana"
+    },
+    {
+      "name": "Maullana, Irfan",
+      "url": "https://muckrack.com/irfan-maullana"
+    },
+    {
+      "name": "McRobs, Alex",
+      "url": "https://muckrack.com/alex-mcrobs"
+    },
+    {
+      "name": "Medianti, Uji Sukma",
+      "url": "https://muckrack.com/uji-sukma-medianti"
+    },
+    {
+      "name": "Mei, Elisabeth Eklesia",
+      "url": "https://muckrack.com/elisabeth-eklesia-mei"
+    },
+    {
+      "name": "Merchant, Krishna",
+      "url": "https://muckrack.com/krishna-merchant"
+    },
+    {
+      "name": "Michaella, Sonya",
+      "url": "https://muckrack.com/sonya-michaella"
+    },
+    {
+      "name": "Miftahudin, Husen",
+      "url": "https://muckrack.com/husen-miftahudin"
+    },
+    {
+      "name": "Milko, Victoria",
+      "url": "https://muckrack.com/victoria-milko"
+    },
+    {
+      "name": "Millah, Syaiful",
+      "url": "https://muckrack.com/syaiful-millah"
+    },
+    {
+      "name": "Misgio, Syaiful",
+      "url": "https://muckrack.com/syaiful-misgio"
+    },
+    {
+      "name": "Mokhtar, Hafiizh",
+      "url": "https://muckrack.com/hafiizh-mokhtar"
+    },
+    {
+      "name": "Monica, Sienty Ayu",
+      "url": "https://muckrack.com/sienty-ayu-monica"
+    },
+    {
+      "name": "Mukuan, Fistel",
+      "url": "https://muckrack.com/fistel-mukuan"
+    },
+    {
+      "name": "Mulyani, Zelisa",
+      "url": "https://muckrack.com/zelisa-mulyani"
+    },
+    {
+      "name": "Mulyanto, Randy",
+      "url": "https://muckrack.com/randymulyanto"
+    },
+    {
+      "name": "Mulyati, Sri",
+      "url": "https://muckrack.com/sri-mulyati"
+    },
+    {
+      "name": "Munikartono, Derry",
+      "url": "https://muckrack.com/derry-munikartono-1"
+    },
+    {
+      "name": "Munindra, Mevira",
+      "url": "https://muckrack.com/mevira-munindra-1"
+    },
+    {
+      "name": "Munir, Miftahul",
+      "url": "https://muckrack.com/miftahul-munir"
+    },
+    {
+      "name": "Muntu, Ismelya",
+      "url": "https://muckrack.com/ismelya-muntu"
+    },
+    {
+      "name": "Murti, Bagas Reza",
+      "url": "https://muckrack.com/bagas-reza-murti"
+    },
+    {
+      "name": "Nabila, Firli Athiah",
+      "url": "https://muckrack.com/firli-athiah-nabila"
+    },
+    {
+      "name": "Nabila, Mutiara",
+      "url": "https://muckrack.com/mutiara-nabila"
+    },
+    {
+      "name": "Nan Cengka, Gombang",
+      "url": "https://muckrack.com/gombang"
+    },
+    {
+      "name": "Nangoy, Fransiska",
+      "url": "https://muckrack.com/fransiska-nangoy"
+    },
+    {
+      "name": "Nawangsari, Cahyanti",
+      "url": "https://muckrack.com/cahyanti-nawangsari"
+    },
+    {
+      "name": "Nawiroh, Siti",
+      "url": "https://muckrack.com/siti-nawiroh"
+    },
+    {
+      "name": "Ningsih, Widya Lestari",
+      "url": "https://muckrack.com/widya-lestari-ningsih"
+    },
+    {
+      "name": "Nito, Sofy",
+      "url": "https://muckrack.com/sofy-nito"
+    },
+    {
+      "name": "Nong, Ryan",
+      "url": "https://muckrack.com/ryan-nong"
+    },
+    {
+      "name": "Noor, Ahmad Fikri",
+      "url": "https://muckrack.com/ahmad-fikri-noor"
+    },
+    {
+      "name": "Noprianto, Danang",
+      "url": "https://muckrack.com/danang-noprianto"
+    },
+    {
+      "name": "Nugraha, Fajar",
+      "url": "https://muckrack.com/fajar-nugraha"
+    },
+    {
+      "name": "Nugroho, Aprianto Cahyo",
+      "url": "https://muckrack.com/aprianto-cahyo-nugroho"
+    },
+    {
+      "name": "Nugroho, Edy",
+      "url": "https://muckrack.com/edy-nugroho"
+    },
+    {
+      "name": "Nugroho, Rizal Setyo",
+      "url": "https://muckrack.com/rizal-setyo-nugroho"
+    },
+    {
+      "name": "Nugroho, Sigit",
+      "url": "https://muckrack.com/sigit-nugroho"
+    },
+    {
+      "name": "Nur Hakim, Lukman",
+      "url": "https://muckrack.com/lukman-nur-hakim"
+    },
+    {
+      "name": "Nurbaiti, Alya",
+      "url": "https://muckrack.com/alya-nurbaiti"
+    },
+    {
+      "name": "Nurchayanti, Christine Ayu",
+      "url": "https://muckrack.com/christine-ayu-nurchayanti"
+    },
+    {
+      "name": "Nurdifa, Afiffah Rahmah",
+      "url": "https://muckrack.com/afiffah-rahmah-nurdifa"
+    },
+    {
+      "name": "Nurkarim, Ikbal",
+      "url": "https://muckrack.com/ikbal-nurkarim"
+    },
+    {
+      "name": "Nurmalitasari, Adelina",
+      "url": "https://muckrack.com/adelina-nurmalitasari"
+    },
+    {
+      "name": "Olavia, Lona",
+      "url": "https://muckrack.com/lona-olavia"
+    },
+    {
+      "name": "Otto, Ben",
+      "url": "https://muckrack.com/ben-otto"
+    },
+    {
+      "name": "Pahlevy, Rizky Irianda",
+      "url": "https://muckrack.com/rizky-irianda-pahlevy"
+    },
+    {
+      "name": "Pambudi, Rezki Alif",
+      "url": "https://muckrack.com/rezki-alif-pambudi"
+    },
+    {
+      "name": "Pamuji, Anugerah",
+      "url": "https://muckrack.com/anugerah-pamuji"
+    },
+    {
+      "name": "Pamungkas, Andreas Rio",
+      "url": "https://muckrack.com/andreas-rio-pamungkas-pamungkas"
+    },
+    {
+      "name": "Panigoro, Indry",
+      "url": "https://muckrack.com/indry-panigoro"
+    },
+    {
+      "name": "Pattiasina, Tanita",
+      "url": "https://muckrack.com/tanita-pattiasina"
+    },
+    {
+      "name": "Pausiah, Andi",
+      "url": "https://muckrack.com/andi-pausiah"
+    },
+    {
+      "name": "Pello, Hermina",
+      "url": "https://muckrack.com/hermina-pello"
+    },
+    {
+      "name": "Perwitasari, Anna Suci",
+      "url": "https://muckrack.com/anna-suci-perwitasari"
+    },
+    {
+      "name": "Posumah, Rizali",
+      "url": "https://muckrack.com/rizali-posumah"
+    },
+    {
+      "name": "Prabowo, Dani",
+      "url": "https://muckrack.com/dani-prabowo"
+    },
+    {
+      "name": "Prabowo, Kautsar Widya",
+      "url": "https://muckrack.com/kautsar-widya-prabowo"
+    },
+    {
+      "name": "Prambadi, Gilang Akbar",
+      "url": "https://muckrack.com/gilang-akbar-prambadi"
+    },
+    {
+      "name": "Pramita, Dini",
+      "url": "https://muckrack.com/dini-pramita"
+    },
+    {
+      "name": "Pramudyani, Yashinta Difa",
+      "url": "https://muckrack.com/yashinta-difa-pramudyani"
+    },
+    {
+      "name": "Prananto, Yossie Dwi",
+      "url": "https://muckrack.com/yossie-dwi-prananto"
+    },
+    {
+      "name": "Prasidya, Yunindita",
+      "url": "https://muckrack.com/yunindita-prasidya"
+    },
+    {
+      "name": "Pratama, Aditya Hadi",
+      "url": "https://muckrack.com/aditya-hadi-pratama"
+    },
+    {
+      "name": "Pratama, Akhdi Martin",
+      "url": "https://muckrack.com/akhdi-martin-pratama"
+    },
+    {
+      "name": "Pratama, Eka Riztha",
+      "url": "https://muckrack.com/eka-riztha-pratama"
+    },
+    {
+      "name": "Pratama, Rahmat Rusma",
+      "url": "https://muckrack.com/rahmat-rusma-pratama"
+    },
+    {
+      "name": "Pratiwi, Reni Dwi",
+      "url": "https://muckrack.com/reni-dwi-pratiwi"
+    },
+    {
+      "name": "Pratomo, Muhammad Ari",
+      "url": "https://muckrack.com/muhammadarilaw"
+    },
+    {
+      "name": "Prilatama, Muhamad Nandri",
+      "url": "https://muckrack.com/muhamad-nandri-prilatama"
+    },
+    {
+      "name": "Primaresti, Noviana",
+      "url": "https://muckrack.com/noviana-primaresti"
+    },
+    {
+      "name": "Purdey, Jemma",
+      "url": "https://muckrack.com/jemma-purdey"
+    },
+    {
+      "name": "Purnomo, Edy",
+      "url": "https://muckrack.com/edypurnomo_pix"
+    },
+    {
+      "name": "Puspa, Atalya",
+      "url": "https://muckrack.com/atalya-puspa"
+    },
+    {
+      "name": "Puspawardhani, Stania",
+      "url": "https://muckrack.com/stania-puspawardhani"
+    },
+    {
+      "name": "Putra, Bima",
+      "url": "https://muckrack.com/bima-putra"
+    },
+    {
+      "name": "Putra, Nandito",
+      "url": "https://muckrack.com/nandito-putra"
+    },
+    {
+      "name": "Putra, Yusron Naufal",
+      "url": "https://muckrack.com/yusron-naufal-putra"
+    },
+    {
+      "name": "Putri, Gloria Setyvani",
+      "url": "https://muckrack.com/gloria-setyvani-putri"
+    },
+    {
+      "name": "Putri, Thalia Amanda",
+      "url": "https://muckrack.com/thalia-amanda-putri"
+    },
+    {
+      "name": "Putu Iskandar, Agung",
+      "url": "https://muckrack.com/agung-putu-iskandar"
+    },
+    {
+      "name": "Q, Ramadhan L",
+      "url": "https://muckrack.com/ramadhan-l-q"
+    },
+    {
+      "name": "Qomariyah, Nurul",
+      "url": "https://muckrack.com/nurul-qomariyah"
+    },
+    {
+      "name": "Qothrunnada, Kholida",
+      "url": "https://muckrack.com/kholida-qothrunnada"
+    },
+    {
+      "name": "Rahadiana, Rieka",
+      "url": "https://muckrack.com/rieka-rahadiana"
+    },
+    {
+      "name": "Raharja, Ekawan",
+      "url": "https://muckrack.com/ekawan-raharja"
+    },
+    {
+      "name": "raharjo, Agus",
+      "url": "https://muckrack.com/agus-raharjo"
+    },
+    {
+      "name": "Raharjo, Anton",
+      "url": "https://muckrack.com/anton-raharjo-1"
+    },
+    {
+      "name": "Rahma, Khopida",
+      "url": "https://muckrack.com/khopida-rahma"
+    },
+    {
+      "name": "Rahmasari, Irma",
+      "url": "https://muckrack.com/irma-rahmasari"
+    },
+    {
+      "name": "Rama, Hironimus",
+      "url": "https://muckrack.com/hironimus-rama"
+    },
+    {
+      "name": "Ramadani, Febrianto",
+      "url": "https://muckrack.com/febrianto-ramadani"
+    },
+    {
+      "name": "Ramadhan, Muhammad Syahrul",
+      "url": "https://muckrack.com/muhammad-syahrul-ramadhan"
+    },
+    {
+      "name": "Ramadhaniswara, Khistian Tauqid",
+      "url": "https://muckrack.com/khistian-tauqid-ramadhaniswara"
+    },
+    {
+      "name": "Ramli, Fahrun",
+      "url": "https://muckrack.com/fahrun-ramli"
+    },
+    {
+      "name": "Randy, Anjas",
+      "url": "https://muckrack.com/anjas-randy"
+    },
+    {
+      "name": "Regina, Salma Dinda",
+      "url": "https://muckrack.com/salma-dinda-regina"
+    },
+    {
+      "name": "Riadi, Yosef",
+      "url": "https://muckrack.com/yosef-riadi"
+    },
+    {
+      "name": "Rianto, Surya",
+      "url": "https://muckrack.com/surya-rianto"
+    },
+    {
+      "name": "Ridho, Muhammad",
+      "url": "https://muckrack.com/muhammad-ridho"
+    },
+    {
+      "name": "Ridwan, Muhammad",
+      "url": "https://muckrack.com/muhammad-ridwan"
+    },
+    {
+      "name": "Riki, Muhammad Syaiful",
+      "url": "https://muckrack.com/muhammad-syaiful-riki"
+    },
+    {
+      "name": "Ripai, Ahmad",
+      "url": "https://muckrack.com/ahmad-ripai"
+    },
+    {
+      "name": "Risanto, Ode Alfin",
+      "url": "https://muckrack.com/ode-alfin-risanto"
+    },
+    {
+      "name": "RIVET, J\u00e9r\u00f4me",
+      "url": "https://muckrack.com/jerome-rivet"
+    },
+    {
+      "name": "Rohmah, Idayatul",
+      "url": "https://muckrack.com/idayatul-rohmah"
+    },
+    {
+      "name": "Romadoni, Mohammad",
+      "url": "https://muckrack.com/mohammad-romadoni"
+    },
+    {
+      "name": "Rompies, Karuni",
+      "url": "https://muckrack.com/karuni-rompies"
+    },
+    {
+      "name": "Rose, Leyla",
+      "url": "https://muckrack.com/leyla-rose"
+    },
+    {
+      "name": "Rosendar, Yessar",
+      "url": "https://muckrack.com/yessar-rosendar"
+    },
+    {
+      "name": "Rosikin, Ahmad Nur",
+      "url": "https://muckrack.com/ahmad-nur-rosikin"
+    },
+    {
+      "name": "Rosmasari, Titin",
+      "url": "https://muckrack.com/titin-rosmasari-1"
+    },
+    {
+      "name": "Rostanti, Qommarria",
+      "url": "https://muckrack.com/qommarria-rostanti"
+    },
+    {
+      "name": "Rukmini, Dewi",
+      "url": "https://muckrack.com/dewi-rukmini"
+    },
+    {
+      "name": "Ruliansyah, Muh",
+      "url": "https://muckrack.com/muh-ruliansyah"
+    },
+    {
+      "name": "Rusiana, Dita Angga",
+      "url": "https://muckrack.com/dita-angga-rusiana"
+    },
+    {
+      "name": "S, Misbahul Munir",
+      "url": "https://muckrack.com/misbahul-munir-s"
+    },
+    {
+      "name": "Sabarini, Prodita",
+      "url": "https://muckrack.com/prodita-sabarini-1"
+    },
+    {
+      "name": "Sadewo, Joko",
+      "url": "https://muckrack.com/joko-sadewo"
+    },
+    {
+      "name": "Safutra, Ilham",
+      "url": "https://muckrack.com/ilham-safutra"
+    },
+    {
+      "name": "Saksena, Indar",
+      "url": "https://muckrack.com/indar-saksena"
+    },
+    {
+      "name": "Salamah, Putri",
+      "url": "https://muckrack.com/putri-salamah"
+    },
+    {
+      "name": "Santosa, Novan Iman",
+      "url": "https://muckrack.com/novan-iman-santosa"
+    },
+    {
+      "name": "Sari, Nursita",
+      "url": "https://muckrack.com/nursita-sari"
+    },
+    {
+      "name": "Sari, Sintya Alfatika",
+      "url": "https://muckrack.com/sintya-alfatika-sari"
+    },
+    {
+      "name": "Saturi, Sapariah",
+      "url": "https://muckrack.com/sapariah-saturi"
+    },
+    {
+      "name": "Saujana, Panca",
+      "url": "https://muckrack.com/panca-saujana"
+    },
+    {
+      "name": "Sekarini, Danti Ayu",
+      "url": "https://muckrack.com/danti-ayu-sekarini"
+    },
+    {
+      "name": "Selly, Widya",
+      "url": "https://muckrack.com/widya-selly"
+    },
+    {
+      "name": "Septiana, Wahyu",
+      "url": "https://muckrack.com/wahyu-septiana"
+    },
+    {
+      "name": "Setiawan, Ferdi",
+      "url": "https://muckrack.com/ferdi-setiawan"
+    },
+    {
+      "name": "Setiawan, Tri Susanto",
+      "url": "https://muckrack.com/tri-susanto-setiawan"
+    },
+    {
+      "name": "Setyaningrum, Puspasari",
+      "url": "https://muckrack.com/puspasari-setyaningrum"
+    },
+    {
+      "name": "Setyorini, Virna P",
+      "url": "https://muckrack.com/virna-p-setyorini-1"
+    },
+    {
+      "name": "Sinaga, Yuni Arisandy",
+      "url": "https://muckrack.com/yuni-arisandy-sinaga"
+    },
+    {
+      "name": "Slamet, M Fahroni",
+      "url": "https://muckrack.com/m-fahroni-slamet"
+    },
+    {
+      "name": "Soeriaatmadja, Wahyudi",
+      "url": "https://muckrack.com/wahyudi-soeriaatmadja"
+    },
+    {
+      "name": "Subarkah, Tri",
+      "url": "https://muckrack.com/akah"
+    },
+    {
+      "name": "Sucahyo, Nurhadi",
+      "url": "https://muckrack.com/nurhadi-sucahyo"
+    },
+    {
+      "name": "Sucipto, Theofilus Ifan",
+      "url": "https://muckrack.com/theofilus-ifan-sucipto"
+    },
+    {
+      "name": "Sudarsono, M.",
+      "url": "https://muckrack.com/m-sudarsono"
+    },
+    {
+      "name": "Sudrajat, Hery",
+      "url": "https://muckrack.com/hery-sudrajat"
+    },
+    {
+      "name": "Sufa, Ira Guslina",
+      "url": "https://muckrack.com/ira-guslina-sufa"
+    },
+    {
+      "name": "Sugandika, Ahmad Wawan",
+      "url": "https://muckrack.com/ahmad-wawan-sugandika"
+    },
+    {
+      "name": "Sukma, Anshary Madya",
+      "url": "https://muckrack.com/anshary-madya-sukma"
+    },
+    {
+      "name": "Sukmana, Yoga",
+      "url": "https://muckrack.com/yoga-sukmana"
+    },
+    {
+      "name": "Sulaiman, Stefanno Reinard",
+      "url": "https://muckrack.com/stefanno-reinard-sulaiman"
+    },
+    {
+      "name": "Supriyanto, Joko",
+      "url": "https://muckrack.com/joko-supriyanto"
+    },
+    {
+      "name": "Suputra, Eka Mita",
+      "url": "https://muckrack.com/eka-mita-suputra"
+    },
+    {
+      "name": "Suroyo, Gayatri",
+      "url": "https://muckrack.com/gayatri-suroyo"
+    },
+    {
+      "name": "Suryadi, Ardhi",
+      "url": "https://muckrack.com/ardhi-suryadi-1"
+    },
+    {
+      "name": "Suryo, Hanif",
+      "url": "https://muckrack.com/hanif-suryo"
+    },
+    {
+      "name": "Susanti, Reni",
+      "url": "https://muckrack.com/reni-susanti"
+    },
+    {
+      "name": "Swastika, Virginia",
+      "url": "https://muckrack.com/virginia-swastika"
+    },
+    {
+      "name": "Swasty, Renatha",
+      "url": "https://muckrack.com/renatha-swasty"
+    },
+    {
+      "name": "Syarifah, Feby",
+      "url": "https://muckrack.com/feby-syarifah"
+    },
+    {
+      "name": "Syarifudin, Ahmad",
+      "url": "https://muckrack.com/ahmad-syarifudin"
+    },
+    {
+      "name": "Syofyan, Almurfi",
+      "url": "https://muckrack.com/almurfi-syofyan"
+    },
+    {
+      "name": "Syuflana, Tatan",
+      "url": "https://muckrack.com/tatan-syuflana"
+    },
+    {
+      "name": "Tajudin, Ahmad",
+      "url": "https://muckrack.com/ahmad-tajudin"
+    },
+    {
+      "name": "Tanhati, Sysilia",
+      "url": "https://muckrack.com/sysilia-tanhati"
+    },
+    {
+      "name": "Tarigan, Edna",
+      "url": "https://muckrack.com/edna-tarigan"
+    },
+    {
+      "name": "Taufik, M",
+      "url": "https://muckrack.com/m-taufik"
+    },
+    {
+      "name": "Teo, Angie",
+      "url": "https://muckrack.com/angie-teo"
+    },
+    {
+      "name": "Threestayanti, Liana",
+      "url": "https://muckrack.com/liana-threestayanti"
+    },
+    {
+      "name": "Topami, Wahyu",
+      "url": "https://muckrack.com/wahyu-topami-1"
+    },
+    {
+      "name": "Tuasikal, Rio",
+      "url": "https://muckrack.com/rio-tuasikal-1"
+    },
+    {
+      "name": "Umnah, Siti",
+      "url": "https://muckrack.com/siti-umnah"
+    },
+    {
+      "name": "Untari, Pernita Hestin",
+      "url": "https://muckrack.com/pernita-hestin-untari"
+    },
+    {
+      "name": "Ustin, Firdha",
+      "url": "https://muckrack.com/firdha-ustin"
+    },
+    {
+      "name": "Utami, Jayanti Tri",
+      "url": "https://muckrack.com/jayanti-tri-utami"
+    },
+    {
+      "name": "Utami, Sri",
+      "url": "https://muckrack.com/sri-utami"
+    },
+    {
+      "name": "Utomo, Ardi Priyatno",
+      "url": "https://muckrack.com/ardi-priyatno-utomo"
+    },
+    {
+      "name": "Utomo, Sylvanto Budi",
+      "url": "https://muckrack.com/sylvanto-budi-utomo"
+    },
+    {
+      "name": "Valenta, Elisa",
+      "url": "https://muckrack.com/elisa-valenta"
+    },
+    {
+      "name": "Vatvani, Chandni",
+      "url": "https://muckrack.com/chandni-vatvani"
+    },
+    {
+      "name": "Verry, Valentino",
+      "url": "https://muckrack.com/valentino-verry"
+    },
+    {
+      "name": "Viktriani, Putu Kartika",
+      "url": "https://muckrack.com/putu-kartika-viktriani"
+    },
+    {
+      "name": "Violleta, Prisca Triferna",
+      "url": "https://muckrack.com/prisca-triferna-violleta"
+    },
+    {
+      "name": "Wahyudi, Muchamad Zaid",
+      "url": "https://muckrack.com/muchamad-zaid-wahyudi"
+    },
+    {
+      "name": "Wahyudi, Nyoman Ary",
+      "url": "https://muckrack.com/nyoman-ary-wahyudi"
+    },
+    {
+      "name": "Wahyuni, Ayu Sri",
+      "url": "https://muckrack.com/ayu-sri-wahyuni"
+    },
+    {
+      "name": "Waluyas, Vembri",
+      "url": "https://muckrack.com/vembri-waluyas"
+    },
+    {
+      "name": "Waluyo, Djoko",
+      "url": "https://muckrack.com/djoko-waluyo"
+    },
+    {
+      "name": "Wang, Lynn",
+      "url": "https://muckrack.com/lynn-wang"
+    },
+    {
+      "name": "Wardhanie, Irine",
+      "url": "https://muckrack.com/irine-wardhanie"
+    },
+    {
+      "name": "Waworuntu, Amira",
+      "url": "https://muckrack.com/amira-waworuntu-1"
+    },
+    {
+      "name": "Wenda, Benny",
+      "url": "https://muckrack.com/benny-wenda"
+    },
+    {
+      "name": "Wicaksono, Erwin",
+      "url": "https://muckrack.com/erwin-wicaksono"
+    },
+    {
+      "name": "Wicaksono, Krisna",
+      "url": "https://muckrack.com/krisna-wicaksono"
+    },
+    {
+      "name": "Wicaksono, Rifky Pratama",
+      "url": "https://muckrack.com/rifky-pratama-wicaksono"
+    },
+    {
+      "name": "Widadio, Nicky Aulia",
+      "url": "https://muckrack.com/nickywidadio"
+    },
+    {
+      "name": "Widarti, Peni",
+      "url": "https://muckrack.com/peni-widarti"
+    },
+    {
+      "name": "Widayanti, Irena Pretika",
+      "url": "https://muckrack.com/irena-pretika-widayanti"
+    },
+    {
+      "name": "Widianto, Stanley",
+      "url": "https://muckrack.com/stanley-widianto"
+    },
+    {
+      "name": "Widiyanto, Mardon",
+      "url": "https://muckrack.com/mardon-widiyanto"
+    },
+    {
+      "name": "Widjojo, Conchita",
+      "url": "https://muckrack.com/conchita-widjojo"
+    },
+    {
+      "name": "Widodo, Tri",
+      "url": "https://muckrack.com/tri-widodo"
+    },
+    {
+      "name": "Williams, Andy",
+      "url": "https://muckrack.com/andy-williams-13"
+    },
+    {
+      "name": "Winahyu, Atikah Ishmah",
+      "url": "https://muckrack.com/atikah-ishmah-winahyu"
+    },
+    {
+      "name": "Windar Pratama, Gigih",
+      "url": "https://muckrack.com/gigih-windar-pratama"
+    },
+    {
+      "name": "Wuri, Ageng",
+      "url": "https://muckrack.com/ageng-wuri"
+    },
+    {
+      "name": "Yafiz, Ilham",
+      "url": "https://muckrack.com/ilham-yafiz"
+    },
+    {
+      "name": "Yahya, Ferlianus Tedi",
+      "url": "https://muckrack.com/ferlianus-tedi-yahya"
+    },
+    {
+      "name": "Yanto, Robbi",
+      "url": "https://muckrack.com/robbi-yanto"
+    },
+    {
+      "name": "Yolandha, Friska",
+      "url": "https://muckrack.com/friska-yolandha"
+    },
+    {
+      "name": "Yuliani, Putri Anisa",
+      "url": "https://muckrack.com/putri-anisa-yuliani"
+    },
+    {
+      "name": "Yulianto, Eki",
+      "url": "https://muckrack.com/eki-yulianto"
+    },
+    {
+      "name": "Yumna, Mecca",
+      "url": "https://muckrack.com/mecca-yumna"
+    },
+    {
+      "name": "Yunianto, Roni",
+      "url": "https://muckrack.com/roni-yunianto"
+    },
+    {
+      "name": "Yuniar, Resty Woro",
+      "url": "https://muckrack.com/resty-yuniar"
+    },
+    {
+      "name": "Zulbachri, Santi",
+      "url": "https://muckrack.com/santi-zulbachri"
+    }
+  ]
+}

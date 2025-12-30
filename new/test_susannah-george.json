@@ -1,0 +1,96 @@
+{
+  "url": "https://muckrack.com/susannah-george",
+  "profile": {
+    "avatar": "https://media.muckrack.com/profile/images/123093/susannah-george.jpeg.256x256_q100_crop-smart.jpg",
+    "name": "Susannah George",
+    "verified": true,
+    "jobs": [
+      {
+        "title": "International Correspondent",
+        "outlet": "The Washington Post",
+        "outletLink": "https://muckrack.com/media-outlet/washpost"
+      }
+    ],
+    "location": "East Coast United States",
+    "beats": [
+      {
+        "name": "Afghanistan",
+        "link": "https://muckrack.com/beat/afghanistan"
+      },
+      {
+        "name": "Middle East",
+        "link": "https://muckrack.com/beat/middleeast"
+      },
+      {
+        "name": "Military",
+        "link": "https://muckrack.com/beat/military"
+      },
+      {
+        "name": "Pakistan",
+        "link": "https://muckrack.com/beat/pakistan"
+      },
+      {
+        "name": "U.S.",
+        "link": "https://muckrack.com/beat/natlnews"
+      },
+      {
+        "name": "World",
+        "link": "https://muckrack.com/beat/intl"
+      }
+    ],
+    "asSeenIn": [
+      {
+        "name": "The Washington Post",
+        "link": "https://muckrack.com/media-outlet/washpost"
+      },
+      {
+        "name": "Business Insider",
+        "link": "https://muckrack.com/media-outlet/bizinsider"
+      },
+      {
+        "name": "Daily Mail",
+        "link": "https://muckrack.com/media-outlet/dailymail"
+      },
+      {
+        "name": "Estadão",
+        "link": "https://muckrack.com/media-outlet/estadao"
+      },
+      {
+        "name": "Fox News",
+        "link": "https://muckrack.com/media-outlet/fox"
+      },
+      {
+        "name": "MSN",
+        "link": "https://muckrack.com/media-outlet/msn"
+      },
+      {
+        "name": "MSN Canada",
+        "link": "https://muckrack.com/media-outlet/msn-canada"
+      },
+      {
+        "name": "MSN South Africa",
+        "link": "https://muckrack.com/media-outlet/msn-za"
+      },
+      {
+        "name": "MSN UK",
+        "link": "https://muckrack.com/media-outlet/msn-uk"
+      },
+      {
+        "name": "The Independent (UK)",
+        "link": "https://muckrack.com/media-outlet/independent"
+      },
+      {
+        "name": "TIME",
+        "link": "https://muckrack.com/media-outlet/time"
+      }
+    ],
+    "covers": "International desk correspondent@washingtonpost, previously Afghanistan, Pakistan & Iraq contact: Susannah.George (at) washpost (dot) com",
+    "doesntCover": "",
+    "socialHandles": [
+      {
+        "handle": "@washingtonpost",
+        "link": "https://twitter.com/washingtonpost"
+      }
+    ]
+  }
+}

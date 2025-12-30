@@ -1,0 +1,2455 @@
+{
+  "location": "japan",
+  "url": "https://muckrack.com/beat/japan",
+  "total_journalists": 612,
+  "journalists": [
+    {
+      "name": "Abe, Shuji",
+      "url": "https://muckrack.com/shuji-abe"
+    },
+    {
+      "name": "Abe, Tetsuya",
+      "url": "https://muckrack.com/tetsuya-abe-1"
+    },
+    {
+      "name": "Abosch, Kevin",
+      "url": "https://muckrack.com/kevin-abosch"
+    },
+    {
+      "name": "Adelstein, Jake",
+      "url": "https://muckrack.com/jakeadelstein"
+    },
+    {
+      "name": "Akai, Kunihiko",
+      "url": "https://muckrack.com/kunihiko-akai"
+    },
+    {
+      "name": "Akama, Kenichi",
+      "url": "https://muckrack.com/kenichi-akama-1"
+    },
+    {
+      "name": "Akihide, Iriyama",
+      "url": "https://muckrack.com/iriyama-akihide"
+    },
+    {
+      "name": "Ako, Tanaka",
+      "url": "https://muckrack.com/tanaka-ako"
+    },
+    {
+      "name": "Allan, Gareth",
+      "url": "https://muckrack.com/gareth-allan"
+    },
+    {
+      "name": "Allard ACS, Matthew",
+      "url": "https://muckrack.com/matthew-allard-acs"
+    },
+    {
+      "name": "Amano, Takashi",
+      "url": "https://muckrack.com/takashi-amano"
+    },
+    {
+      "name": "Amoroso, Phoebe",
+      "url": "https://muckrack.com/phoebe-amoroso"
+    },
+    {
+      "name": "Ando, Ritsuko",
+      "url": "https://muckrack.com/ritsukoandos"
+    },
+    {
+      "name": "Arakawa, Daisuke",
+      "url": "https://muckrack.com/daisuke-arakawa"
+    },
+    {
+      "name": "Araki, Rei",
+      "url": "https://muckrack.com/rei-araki"
+    },
+    {
+      "name": "Arimori, Takeshi",
+      "url": "https://muckrack.com/takeshi-arimori"
+    },
+    {
+      "name": "Arnaud, R\u00e9gis",
+      "url": "https://muckrack.com/regis-arnaud"
+    },
+    {
+      "name": "Arudou, Debito",
+      "url": "https://muckrack.com/arudoudebito"
+    },
+    {
+      "name": "Asai, Eiji",
+      "url": "https://muckrack.com/eiji-asai"
+    },
+    {
+      "name": "Asano, Hirotoshi",
+      "url": "https://muckrack.com/hirotoshi-asano-1"
+    },
+    {
+      "name": "Asayama, Ryo",
+      "url": "https://muckrack.com/ryo-asayama"
+    },
+    {
+      "name": "Asif, Hinza",
+      "url": "https://muckrack.com/hinza-asif"
+    },
+    {
+      "name": "Aura, Vanessa",
+      "url": "https://muckrack.com/vanessa-aura"
+    },
+    {
+      "name": "Auvray, Daniele",
+      "url": "https://muckrack.com/daniele-auvray"
+    },
+    {
+      "name": "Baba, Takeo",
+      "url": "https://muckrack.com/takeo-baba-1"
+    },
+    {
+      "name": "Bachmann, Thomas",
+      "url": "https://muckrack.com/thomas-bachmann"
+    },
+    {
+      "name": "Baggett, Aaron",
+      "url": "https://muckrack.com/aaron-baggett"
+    },
+    {
+      "name": "Bailey, Mark",
+      "url": "https://muckrack.com/mark-bailey-53"
+    },
+    {
+      "name": "Balfe, Patrick",
+      "url": "https://muckrack.com/patrick-balfe"
+    },
+    {
+      "name": "Barder, Ollie",
+      "url": "https://muckrack.com/olliebarder"
+    },
+    {
+      "name": "Baseel, Casey",
+      "url": "https://muckrack.com/casey-baseel"
+    },
+    {
+      "name": "Bergstr\u00f6m, Kim",
+      "url": "https://muckrack.com/kim-bergstrom"
+    },
+    {
+      "name": "Betsui, Takashi",
+      "url": "https://muckrack.com/takashi-betsui"
+    },
+    {
+      "name": "Beyer, Vicki L.",
+      "url": "https://muckrack.com/vicki-l-beyer"
+    },
+    {
+      "name": "Bhagan, Suzanne",
+      "url": "https://muckrack.com/suzanne-bhagan-2"
+    },
+    {
+      "name": "Bird, Winifred",
+      "url": "https://muckrack.com/winifred-bird"
+    },
+    {
+      "name": "Bivens, Danny",
+      "url": "https://muckrack.com/danny-bivens"
+    },
+    {
+      "name": "Bizinger, Joey",
+      "url": "https://muckrack.com/joey-bizinger"
+    },
+    {
+      "name": "Bonhomme, Matthieu",
+      "url": "https://muckrack.com/matthieu-bonhomme"
+    },
+    {
+      "name": "Brady, Ryan",
+      "url": "https://muckrack.com/ryan-brady-12"
+    },
+    {
+      "name": "Bregere, Alexis",
+      "url": "https://muckrack.com/alexis-bregere"
+    },
+    {
+      "name": "Bridge, Anton",
+      "url": "https://muckrack.com/anton-bridge"
+    },
+    {
+      "name": "Brockhaus, Alea",
+      "url": "https://muckrack.com/alea-brockhaus"
+    },
+    {
+      "name": "Brooke, Alex",
+      "url": "https://muckrack.com/alex-brooke-1"
+    },
+    {
+      "name": "Bull, Brett",
+      "url": "https://muckrack.com/brett-bull-1"
+    },
+    {
+      "name": "Burke, Kinsey",
+      "url": "https://muckrack.com/kinsey-burke"
+    },
+    {
+      "name": "Burke, Matthew",
+      "url": "https://muckrack.com/matthew-burke"
+    },
+    {
+      "name": "Byford, Sam",
+      "url": "https://muckrack.com/345triangle"
+    },
+    {
+      "name": "Candle, Keita",
+      "url": "https://muckrack.com/keita-candle"
+    },
+    {
+      "name": "Caprara, David",
+      "url": "https://muckrack.com/david-caprara-1"
+    },
+    {
+      "name": "Chan, Edwin",
+      "url": "https://muckrack.com/edwin-chan"
+    },
+    {
+      "name": "Charlton, James",
+      "url": "https://muckrack.com/james-charlton-2"
+    },
+    {
+      "name": "Chavez, Amy",
+      "url": "https://muckrack.com/amy-chavez-2"
+    },
+    {
+      "name": "Clenfield, Jason",
+      "url": "https://muckrack.com/jason-clenfield"
+    },
+    {
+      "name": "Cohen, Elo\u00efse",
+      "url": "https://muckrack.com/eloise-cohen"
+    },
+    {
+      "name": "Coleman, Zach",
+      "url": "https://muckrack.com/zach-coleman"
+    },
+    {
+      "name": "Cooper, Chris",
+      "url": "https://muckrack.com/chris-cooper"
+    },
+    {
+      "name": "Cortez, David",
+      "url": "https://muckrack.com/david-cortez-9"
+    },
+    {
+      "name": "Cousins, Jon",
+      "url": "https://muckrack.com/eigotaku"
+    },
+    {
+      "name": "Crane, Rachel",
+      "url": "https://muckrack.com/rachel-crane-5"
+    },
+    {
+      "name": "Crozier, Ry",
+      "url": "https://muckrack.com/ry-crozier"
+    },
+    {
+      "name": "Cunningham, Edward",
+      "url": "https://muckrack.com/ed-cunningham-2"
+    },
+    {
+      "name": "Dalal, Manju",
+      "url": "https://muckrack.com/manju-dalal"
+    },
+    {
+      "name": "Dam, Sokea",
+      "url": "https://muckrack.com/sokea-dam"
+    },
+    {
+      "name": "Davis, River",
+      "url": "https://muckrack.com/river-davis"
+    },
+    {
+      "name": "Dayman, Lucy",
+      "url": "https://muckrack.com/lucy-dayman-1"
+    },
+    {
+      "name": "de Lame, Justine",
+      "url": "https://muckrack.com/justine-de-lame"
+    },
+    {
+      "name": "de Lazzer, Pierre-Etienne",
+      "url": "https://muckrack.com/pierre-etienne-de-lazzer-2"
+    },
+    {
+      "name": "Del Greco, Marcelo",
+      "url": "https://muckrack.com/marcelo-delgreco"
+    },
+    {
+      "name": "Demetriou, Danielle",
+      "url": "https://muckrack.com/danielle-demetriou"
+    },
+    {
+      "name": "Ditzler, Joseph",
+      "url": "https://muckrack.com/joseph-ditzler"
+    },
+    {
+      "name": "Doman, Gabrielle",
+      "url": "https://muckrack.com/gabrielle-doman"
+    },
+    {
+      "name": "Dooley, Ben",
+      "url": "https://muckrack.com/ben-dooley"
+    },
+    {
+      "name": "Douglas, Jason",
+      "url": "https://muckrack.com/jason-douglas"
+    },
+    {
+      "name": "Du, Lisa",
+      "url": "https://muckrack.com/lisadont"
+    },
+    {
+      "name": "Duc Tran, Trung",
+      "url": "https://muckrack.com/trung-duc-tran"
+    },
+    {
+      "name": "Duits, Kjeld",
+      "url": "https://muckrack.com/kjeldduits"
+    },
+    {
+      "name": "Ehrenreich, Alex",
+      "url": "https://muckrack.com/alex-ehrenreich"
+    },
+    {
+      "name": "Elstrom, Peter",
+      "url": "https://muckrack.com/peter-elstrom"
+    },
+    {
+      "name": "Endo, Ayaka",
+      "url": "https://muckrack.com/ayaka-endo-1"
+    },
+    {
+      "name": "Enomoto, Kenta",
+      "url": "https://muckrack.com/kenta-enomoto"
+    },
+    {
+      "name": "Fackler, Martin",
+      "url": "https://muckrack.com/martfack"
+    },
+    {
+      "name": "Fahey, Rob",
+      "url": "https://muckrack.com/rob-fahey"
+    },
+    {
+      "name": "Feit, Diamond",
+      "url": "https://muckrack.com/diamondfeit"
+    },
+    {
+      "name": "Filleul, Ynes",
+      "url": "https://muckrack.com/ynes-filleul"
+    },
+    {
+      "name": "Fincher, Alison",
+      "url": "https://muckrack.com/alison-fincher"
+    },
+    {
+      "name": "Finn, Carey",
+      "url": "https://muckrack.com/carey-finn"
+    },
+    {
+      "name": "Firman Ali, Mohammad Maulana",
+      "url": "https://muckrack.com/maul-firman12"
+    },
+    {
+      "name": "Fischer, Robert",
+      "url": "https://muckrack.com/robert-fischer"
+    },
+    {
+      "name": "Flanagan, Damian",
+      "url": "https://muckrack.com/damian-flanagan"
+    },
+    {
+      "name": "Fleuri, Johann",
+      "url": "https://muckrack.com/johann-fleuri"
+    },
+    {
+      "name": "Fong, Philip",
+      "url": "https://muckrack.com/philip-fong"
+    },
+    {
+      "name": "Forster, Katie",
+      "url": "https://muckrack.com/katie-forster"
+    },
+    {
+      "name": "Foster, Scott",
+      "url": "https://muckrack.com/scott-foster-13"
+    },
+    {
+      "name": "Fournier-Brestakova, Magdalena",
+      "url": "https://muckrack.com/magdalena-fournier-brestakova-1"
+    },
+    {
+      "name": "Fowler, Brian",
+      "url": "https://muckrack.com/brian-fowler"
+    },
+    {
+      "name": "Frischkorn, Bradford",
+      "url": "https://muckrack.com/bradford-frischkorn"
+    },
+    {
+      "name": "Fujikawa, Megumi",
+      "url": "https://muckrack.com/megumifujikawa"
+    },
+    {
+      "name": "Fujioka, Tatsushi",
+      "url": "https://muckrack.com/tatushi-fujioka"
+    },
+    {
+      "name": "Fujioka, Toru",
+      "url": "https://muckrack.com/toru-fujioka"
+    },
+    {
+      "name": "Fujita, Yuji",
+      "url": "https://muckrack.com/yuji-fujita-6"
+    },
+    {
+      "name": "FUJITANI, TAKESHI",
+      "url": "https://muckrack.com/takeshi-fujitani"
+    },
+    {
+      "name": "Fujiwara, Akira",
+      "url": "https://muckrack.com/fujixx"
+    },
+    {
+      "name": "Fukasawa, Yoshihito",
+      "url": "https://muckrack.com/yoshihito-fukasawa-1"
+    },
+    {
+      "name": "Fukushima, Kurumi",
+      "url": "https://muckrack.com/rumireports"
+    },
+    {
+      "name": "Fukutomi, Satoshi",
+      "url": "https://muckrack.com/satoshi-fukutomi-1"
+    },
+    {
+      "name": "Fukutsu, Kurumi",
+      "url": "https://muckrack.com/kurumi-fukutsu"
+    },
+    {
+      "name": "Furuno, Makoto",
+      "url": "https://muckrack.com/makoto-furuno"
+    },
+    {
+      "name": "Fushimi, Manabu",
+      "url": "https://muckrack.com/manabu-fushimi"
+    },
+    {
+      "name": "Gale, Alastair",
+      "url": "https://muckrack.com/alastairgale"
+    },
+    {
+      "name": "Gardin, Caroline",
+      "url": "https://muckrack.com/caroline-gardin"
+    },
+    {
+      "name": "Gattig, Nicolas",
+      "url": "https://muckrack.com/nicolas-gattig"
+    },
+    {
+      "name": "Geddie, John",
+      "url": "https://muckrack.com/john-geddie"
+    },
+    {
+      "name": "Geni, Joe",
+      "url": "https://muckrack.com/joe-geni"
+    },
+    {
+      "name": "Gillen, Red",
+      "url": "https://muckrack.com/red-gillen"
+    },
+    {
+      "name": "Godoy, Tiffany",
+      "url": "https://muckrack.com/tiffany-godoy"
+    },
+    {
+      "name": "Goodmacher, Greg",
+      "url": "https://muckrack.com/greg-goodmacher"
+    },
+    {
+      "name": "Goss, Rob",
+      "url": "https://muckrack.com/rob-goss-1"
+    },
+    {
+      "name": "Goto, Hiroshige",
+      "url": "https://muckrack.com/hiroshige-goto-1"
+    },
+    {
+      "name": "Greimel, Hans",
+      "url": "https://muckrack.com/hans-greimel"
+    },
+    {
+      "name": "Ha, Thu-Huong",
+      "url": "https://muckrack.com/thu-huong-ha"
+    },
+    {
+      "name": "Hagiwara, Yuki",
+      "url": "https://muckrack.com/yuki-hagiwara"
+    },
+    {
+      "name": "Harding, Daryl",
+      "url": "https://muckrack.com/daryl-harding"
+    },
+    {
+      "name": "Hartwick, Rachel",
+      "url": "https://muckrack.com/rachel-hartwick"
+    },
+    {
+      "name": "Hasegawa, Kyoko",
+      "url": "https://muckrack.com/kyoko-hasegawa"
+    },
+    {
+      "name": "Hasegawa, Tomoko",
+      "url": "https://muckrack.com/tomoko-hasegawa-33"
+    },
+    {
+      "name": "Hashida, Masaki",
+      "url": "https://muckrack.com/masaki-hashida"
+    },
+    {
+      "name": "Hashimoto, Miki",
+      "url": "https://muckrack.com/miki-hashimoto-8"
+    },
+    {
+      "name": "Hasumi, Nagiko",
+      "url": "https://muckrack.com/nagiko-hasumi"
+    },
+    {
+      "name": "Hatsumi, Sho",
+      "url": "https://muckrack.com/sho-hatsumi"
+    },
+    {
+      "name": "Hayashi, Shinjiro",
+      "url": "https://muckrack.com/shinjiro-hayashi"
+    },
+    {
+      "name": "Haydock, Ian",
+      "url": "https://muckrack.com/ian-haydock"
+    },
+    {
+      "name": "Hayes, Rupert Wingfield",
+      "url": "https://muckrack.com/rupert-wingfield-hayes"
+    },
+    {
+      "name": "Hern\u00e1ndez, Javier C.",
+      "url": "https://muckrack.com/javier-c-hernandez"
+    },
+    {
+      "name": "Herrera, Irene",
+      "url": "https://muckrack.com/ireneherrera"
+    },
+    {
+      "name": "Hida, Hikari Mae",
+      "url": "https://muckrack.com/hikarimaehida"
+    },
+    {
+      "name": "Hidaka, Nao",
+      "url": "https://muckrack.com/nao-hidaka"
+    },
+    {
+      "name": "Higaki, Arashi",
+      "url": "https://muckrack.com/arashi-higaki"
+    },
+    {
+      "name": "Hill, Greg",
+      "url": "https://muckrack.com/greg-hill-16"
+    },
+    {
+      "name": "Hilton, Sarah",
+      "url": "https://muckrack.com/sarah-hilton"
+    },
+    {
+      "name": "Hino, Sorato",
+      "url": "https://muckrack.com/sorato-hino"
+    },
+    {
+      "name": "Hiroi, Yoichiro",
+      "url": "https://muckrack.com/yoichiro-hiroi"
+    },
+    {
+      "name": "Hirokawa, Takashi",
+      "url": "https://muckrack.com/takashi-hirokawa"
+    },
+    {
+      "name": "Hiyama, Hiroshi",
+      "url": "https://muckrack.com/hiroshi-hiyama"
+    },
+    {
+      "name": "Hode, Yukihisa",
+      "url": "https://muckrack.com/yukihisa-hode-1"
+    },
+    {
+      "name": "Hokugo, Tatsuro",
+      "url": "https://muckrack.com/tatsuro-hokugo"
+    },
+    {
+      "name": "Hoon, Kim Kyung",
+      "url": "https://muckrack.com/kim-kyung-hoon-304648"
+    },
+    {
+      "name": "Hori, Mio",
+      "url": "https://muckrack.com/mio-hori"
+    },
+    {
+      "name": "Horie, Masatsugu",
+      "url": "https://muckrack.com/masatsugu-horie"
+    },
+    {
+      "name": "Horikoshi, Isao",
+      "url": "https://muckrack.com/isao-horikoshi"
+    },
+    {
+      "name": "Hornyak, Tim",
+      "url": "https://muckrack.com/tim-hornyak"
+    },
+    {
+      "name": "Hsu, Ben",
+      "url": "https://muckrack.com/ben-hsu"
+    },
+    {
+      "name": "Huang, Grace",
+      "url": "https://muckrack.com/grace-huang"
+    },
+    {
+      "name": "Hughes, Kimberly",
+      "url": "https://muckrack.com/kimberly-hughes"
+    },
+    {
+      "name": "Hunt, Joshua",
+      "url": "https://muckrack.com/joshua-hunt-4"
+    },
+    {
+      "name": "Hunter, Benks",
+      "url": "https://muckrack.com/benks-hunter"
+    },
+    {
+      "name": "Hunter, Paul",
+      "url": "https://muckrack.com/paul-hunter-4"
+    },
+    {
+      "name": "Huoth, Derek",
+      "url": "https://muckrack.com/derek-huoth-1"
+    },
+    {
+      "name": "Hurst, Daniel",
+      "url": "https://muckrack.com/danielle-hurst"
+    },
+    {
+      "name": "Hyuga, Takahiko",
+      "url": "https://muckrack.com/takahiko-hyuga"
+    },
+    {
+      "name": "Iba, Hitomi",
+      "url": "https://muckrack.com/hitomi-iba-6"
+    },
+    {
+      "name": "Ichimura, Hitoshi",
+      "url": "https://muckrack.com/hitoshi-ichimura-1"
+    },
+    {
+      "name": "Ida, Tetsuji",
+      "url": "https://muckrack.com/tetsuji-ida-1"
+    },
+    {
+      "name": "Iida, Kaori",
+      "url": "https://muckrack.com/kaori-iida-kishimoto-1"
+    },
+    {
+      "name": "Iida, Moeka",
+      "url": "https://muckrack.com/moeka-iida"
+    },
+    {
+      "name": "Iinuma, Kenichi",
+      "url": "https://muckrack.com/kenichi-iinuma"
+    },
+    {
+      "name": "Iisaka, Nobuko",
+      "url": "https://muckrack.com/nobuko-iisaka-1"
+    },
+    {
+      "name": "Imada, Kaila",
+      "url": "https://muckrack.com/kaila-imada"
+    },
+    {
+      "name": "Inada, Miho",
+      "url": "https://muckrack.com/miho-inada"
+    },
+    {
+      "name": "Inajima, Tsuyoshi",
+      "url": "https://muckrack.com/inajima17"
+    },
+    {
+      "name": "Inbe, Masafumi",
+      "url": "https://muckrack.com/masafumi-inbe-1"
+    },
+    {
+      "name": "Inokawa, Tom",
+      "url": "https://muckrack.com/tom-inokawa-33"
+    },
+    {
+      "name": "Inoue, Hiroshi",
+      "url": "https://muckrack.com/hiroshi-inoue"
+    },
+    {
+      "name": "Inoue, Miyuki",
+      "url": "https://muckrack.com/miyuki-inoue"
+    },
+    {
+      "name": "Inoue, Sho",
+      "url": "https://muckrack.com/sho-inoue"
+    },
+    {
+      "name": "Inuma, Julia Mio",
+      "url": "https://muckrack.com/julia-mio-inuma"
+    },
+    {
+      "name": "Ishida, Eiji",
+      "url": "https://muckrack.com/eiji-ishida-1"
+    },
+    {
+      "name": "Ishida, Jun",
+      "url": "https://muckrack.com/jun-ishida"
+    },
+    {
+      "name": "Ishida, Michiyo",
+      "url": "https://muckrack.com/michiyo-ishida"
+    },
+    {
+      "name": "Ishikawa, Akihito",
+      "url": "https://muckrack.com/akihito-ishikawa"
+    },
+    {
+      "name": "Ishino, Junya",
+      "url": "https://muckrack.com/junya-ishino"
+    },
+    {
+      "name": "Ishiyama, Kenkichi",
+      "url": "https://muckrack.com/kenkichi-ishiyama"
+    },
+    {
+      "name": "Ishizaka, Noriko",
+      "url": "https://muckrack.com/noriko-ishizaka-1"
+    },
+    {
+      "name": "isshiki, takanori",
+      "url": "https://muckrack.com/takanori-isshiki-1"
+    },
+    {
+      "name": "Itani, Ali",
+      "url": "https://muckrack.com/ali-itani"
+    },
+    {
+      "name": "Ito, Mimei",
+      "url": "https://muckrack.com/mimei-ito-1"
+    },
+    {
+      "name": "Iwabuchi, Teiya",
+      "url": "https://muckrack.com/teiya-iwabuchi-1"
+    },
+    {
+      "name": "Iwamura, Yuki",
+      "url": "https://muckrack.com/yuki-iwamura"
+    },
+    {
+      "name": "Iwanaga, Naoko",
+      "url": "https://muckrack.com/naoko-iwanaga"
+    },
+    {
+      "name": "Iwata, Keishi",
+      "url": "https://muckrack.com/keishi-iwata"
+    },
+    {
+      "name": "Jackman, Sophie",
+      "url": "https://muckrack.com/sophie-jackman"
+    },
+    {
+      "name": "Jackson, Brooke",
+      "url": "https://muckrack.com/brooke-jackson"
+    },
+    {
+      "name": "Jarvis, Stephan",
+      "url": "https://muckrack.com/stephan-jarvis"
+    },
+    {
+      "name": "Jenkins, Jason",
+      "url": "https://muckrack.com/jason-jenkins"
+    },
+    {
+      "name": "Jensen, Jens",
+      "url": "https://muckrack.com/jens-jensen"
+    },
+    {
+      "name": "Johnson, Jesse",
+      "url": "https://muckrack.com/jljzen"
+    },
+    {
+      "name": "Jones, C Bryan",
+      "url": "https://muckrack.com/cbryanjones"
+    },
+    {
+      "name": "Jozuka, Emiko",
+      "url": "https://muckrack.com/emiko-jozuka"
+    },
+    {
+      "name": "Kagami, Takahito",
+      "url": "https://muckrack.com/takahito-kagami"
+    },
+    {
+      "name": "Kageyama, Yuri",
+      "url": "https://muckrack.com/yuri-kageyama"
+    },
+    {
+      "name": "Kahan, Kim",
+      "url": "https://muckrack.com/kimjakahan"
+    },
+    {
+      "name": "Kajimoto, Tetsushi",
+      "url": "https://muckrack.com/tetsushi-kajimoto"
+    },
+    {
+      "name": "Kajiyama, Shuji",
+      "url": "https://muckrack.com/shuji-kajiyama"
+    },
+    {
+      "name": "Kamata, Suzanne",
+      "url": "https://muckrack.com/suzanne-kamata"
+    },
+    {
+      "name": "Kamimoto, Yuki",
+      "url": "https://muckrack.com/yuki-kamimoto"
+    },
+    {
+      "name": "Kaminishikawara, Jun",
+      "url": "https://muckrack.com/jun-kaminishikawara"
+    },
+    {
+      "name": "Kamiya, Akira",
+      "url": "https://muckrack.com/akira-kamiya"
+    },
+    {
+      "name": "Kamoshida, Takumi",
+      "url": "https://muckrack.com/takumi-kamoshida"
+    },
+    {
+      "name": "Kaneko, Reito",
+      "url": "https://muckrack.com/reito-kaneko"
+    },
+    {
+      "name": "Kanemaru, Tomomi",
+      "url": "https://muckrack.com/tomomi-kanemaru-10"
+    },
+    {
+      "name": "Kaneta, Yu",
+      "url": "https://muckrack.com/yu-kaneta-1"
+    },
+    {
+      "name": "Kashima, Yui",
+      "url": "https://muckrack.com/yui-kashima"
+    },
+    {
+      "name": "Kashiwagi, Akiko",
+      "url": "https://muckrack.com/akiko-kashiwagi"
+    },
+    {
+      "name": "Kashiwai, Azumi",
+      "url": "https://muckrack.com/azumi-kashiwai-2"
+    },
+    {
+      "name": "Kasuga, Yoshiaki",
+      "url": "https://muckrack.com/yoshiaki-kasuga"
+    },
+    {
+      "name": "Katanuma, Marika",
+      "url": "https://muckrack.com/marika-katanuma"
+    },
+    {
+      "name": "Kato, Issei",
+      "url": "https://muckrack.com/issei-kato"
+    },
+    {
+      "name": "Kato, Miki",
+      "url": "https://muckrack.com/miki-kato"
+    },
+    {
+      "name": "Kato, Shinya",
+      "url": "https://muckrack.com/shinya-kato-1"
+    },
+    {
+      "name": "Katsuda, Keno",
+      "url": "https://muckrack.com/keno"
+    },
+    {
+      "name": "Katsumura, Mariko",
+      "url": "https://muckrack.com/mariko-katsumura"
+    },
+    {
+      "name": "Katsumura, Takuya",
+      "url": "https://muckrack.com/takuya-katsumura"
+    },
+    {
+      "name": "Kawabata, Yumi",
+      "url": "https://muckrack.com/yumi-kawabata"
+    },
+    {
+      "name": "Keatinge, Colin",
+      "url": "https://muckrack.com/colin-keatinge"
+    },
+    {
+      "name": "Kelly, Tim",
+      "url": "https://muckrack.com/kellyjapan"
+    },
+    {
+      "name": "Kennedy, Mark",
+      "url": "https://muckrack.com/mark-kennedy-120"
+    },
+    {
+      "name": "Kew, Trevor",
+      "url": "https://muckrack.com/trevor-kew"
+    },
+    {
+      "name": "Keyue, Xu",
+      "url": "https://muckrack.com/xu-keyue"
+    },
+    {
+      "name": "Khalil, Shaimaa",
+      "url": "https://muckrack.com/shaimaakhalil"
+    },
+    {
+      "name": "Khomenko, Yurii",
+      "url": "https://muckrack.com/yurii-khomenko"
+    },
+    {
+      "name": "Kida, Kazuhiro",
+      "url": "https://muckrack.com/kazuhiro-kida"
+    },
+    {
+      "name": "Kida, Ryuko",
+      "url": "https://muckrack.com/ryuko-kida-2"
+    },
+    {
+      "name": "Kidd, Aaron",
+      "url": "https://muckrack.com/aaron-kidd"
+    },
+    {
+      "name": "Kihara, Leika",
+      "url": "https://muckrack.com/leika-kihara"
+    },
+    {
+      "name": "Kikuchi, Daisuke",
+      "url": "https://muckrack.com/daisuke-kikuchi"
+    },
+    {
+      "name": "Kikuchi, Yukiko",
+      "url": "https://muckrack.com/yukiko-kikuchi"
+    },
+    {
+      "name": "Kim, Chang-Ran",
+      "url": "https://muckrack.com/chang-ran-kim"
+    },
+    {
+      "name": "Kim, Lisa",
+      "url": "https://muckrack.com/lisa-e-kim"
+    },
+    {
+      "name": "Kimura, Masahide",
+      "url": "https://muckrack.com/masahide-kimura"
+    },
+    {
+      "name": "Kimura, Naonori",
+      "url": "https://muckrack.com/naonori-kimura-1"
+    },
+    {
+      "name": "King, Kerri",
+      "url": "https://muckrack.com/kerri-king"
+    },
+    {
+      "name": "Kirshner, Hannah",
+      "url": "https://muckrack.com/hannah-kirshner"
+    },
+    {
+      "name": "Kitagawa, Jane",
+      "url": "https://muckrack.com/msjktko"
+    },
+    {
+      "name": "Kitashima, Mikio",
+      "url": "https://muckrack.com/mikio-kitashima"
+    },
+    {
+      "name": "Klein, Jamie",
+      "url": "https://muckrack.com/jamie-klein-1"
+    },
+    {
+      "name": "Kobayashi, Catherine",
+      "url": "https://muckrack.com/catherinenhk"
+    },
+    {
+      "name": "Kobayashi, Kaori",
+      "url": "https://muckrack.com/kaori-kobayashi-1"
+    },
+    {
+      "name": "Kobayashi, Kazuhisa",
+      "url": "https://muckrack.com/kaz_kobayan"
+    },
+    {
+      "name": "Kodaira, Ryushiro",
+      "url": "https://muckrack.com/ryushiro-kodaira"
+    },
+    {
+      "name": "Kogami, Jay",
+      "url": "https://muckrack.com/jay-kogami"
+    },
+    {
+      "name": "Koh, Joyce",
+      "url": "https://muckrack.com/joyce__koh"
+    },
+    {
+      "name": "K\u00f6lling, Martin",
+      "url": "https://muckrack.com/martin-kolling"
+    },
+    {
+      "name": "Komiya, Hiroko",
+      "url": "https://muckrack.com/hiroko-komiya"
+    },
+    {
+      "name": "Komiya, Kantaro",
+      "url": "https://muckrack.com/kantaro-komiya"
+    },
+    {
+      "name": "Komuro, Tom",
+      "url": "https://muckrack.com/tom-komuro-1"
+    },
+    {
+      "name": "Konishi, Toshiaki",
+      "url": "https://muckrack.com/toshiaki-konishi-1"
+    },
+    {
+      "name": "Konno, Hiroko",
+      "url": "https://muckrack.com/hiroko-konno"
+    },
+    {
+      "name": "Kozuka, Jessica",
+      "url": "https://muckrack.com/jessica-kozuka"
+    },
+    {
+      "name": "Kra\u00df, Sabrina",
+      "url": "https://muckrack.com/sabrina-kra"
+    },
+    {
+      "name": "Krietsch, Robin",
+      "url": "https://muckrack.com/robin-krietsch"
+    },
+    {
+      "name": "Krueger, Jeff",
+      "url": "https://muckrack.com/jeff-krueger"
+    },
+    {
+      "name": "Kubo, Satoshi",
+      "url": "https://muckrack.com/satoshi-kubo"
+    },
+    {
+      "name": "Kudaka, Shoji",
+      "url": "https://muckrack.com/shoji-kudaka"
+    },
+    {
+      "name": "Kumamoto, Yusuke",
+      "url": "https://muckrack.com/yusuke-kumamoto-2"
+    },
+    {
+      "name": "Kumazawa, Taeko",
+      "url": "https://muckrack.com/taeko-kumazawa"
+    },
+    {
+      "name": "Kuramata, Toshio",
+      "url": "https://muckrack.com/toshio-kuramata"
+    },
+    {
+      "name": "Kuramoto, Kota",
+      "url": "https://muckrack.com/kota-kuramoto"
+    },
+    {
+      "name": "Kurtenbach, Elaine",
+      "url": "https://muckrack.com/elaine-kurtenbach"
+    },
+    {
+      "name": "Kusano, Kenichi",
+      "url": "https://muckrack.com/kenichi-kusano-1"
+    },
+    {
+      "name": "Lace, Felix",
+      "url": "https://muckrack.com/felix-lace"
+    },
+    {
+      "name": "Lagorce, Kallie",
+      "url": "https://muckrack.com/kallie-lagorce"
+    },
+    {
+      "name": "Landers, Peter",
+      "url": "https://muckrack.com/peter-landers"
+    },
+    {
+      "name": "Langley Chi Chi, Zach",
+      "url": "https://muckrack.com/zach-langley-chi-chi"
+    },
+    {
+      "name": "Lee, Gangbok",
+      "url": "https://muckrack.com/gangbok-lee-18"
+    },
+    {
+      "name": "Lee, Michelle Ye Hee",
+      "url": "https://muckrack.com/myhlee"
+    },
+    {
+      "name": "Lee, Min-Jeong",
+      "url": "https://muckrack.com/leeminjeong83"
+    },
+    {
+      "name": "Leisek, Phoebe",
+      "url": "https://muckrack.com/phoebe-leisek"
+    },
+    {
+      "name": "Leonard, Abigail",
+      "url": "https://muckrack.com/abigail-leonard-1"
+    },
+    {
+      "name": "Leuci, Adrien",
+      "url": "https://muckrack.com/adrien-leuci"
+    },
+    {
+      "name": "Leussink, Daniel",
+      "url": "https://muckrack.com/daniel-leussink"
+    },
+    {
+      "name": "Lewis, Leo",
+      "url": "https://muckrack.com/leo-lewis-2"
+    },
+    {
+      "name": "Ligon, Joanna",
+      "url": "https://muckrack.com/joanna-ligon"
+    },
+    {
+      "name": "Lloyd Parry, Richard",
+      "url": "https://muckrack.com/dicklp"
+    },
+    {
+      "name": "Loiret, Guillaume",
+      "url": "https://muckrack.com/guillaume-loiret"
+    },
+    {
+      "name": "Lyon, Peter",
+      "url": "https://muckrack.com/peter-lyon"
+    },
+    {
+      "name": "Machida, Keita",
+      "url": "https://muckrack.com/keita-machida"
+    },
+    {
+      "name": "Machiyama, Shohei",
+      "url": "https://muckrack.com/shohei-machiyama"
+    },
+    {
+      "name": "Magramo, Kathleen",
+      "url": "https://muckrack.com/kathleen-magramo-1"
+    },
+    {
+      "name": "Mainguy, Brice",
+      "url": "https://muckrack.com/brice-mainguy-4"
+    },
+    {
+      "name": "Maksymowicz, Thomas",
+      "url": "https://muckrack.com/thomas-maksymowicz-4"
+    },
+    {
+      "name": "Maloney, Iain",
+      "url": "https://muckrack.com/iain-maloney"
+    },
+    {
+      "name": "Manabe, Takashi",
+      "url": "https://muckrack.com/takashi-manabe-1"
+    },
+    {
+      "name": "Marchand, Laura",
+      "url": "https://muckrack.com/laura-marchand"
+    },
+    {
+      "name": "Mareuil, David",
+      "url": "https://muckrack.com/davidmareuil"
+    },
+    {
+      "name": "Martin, Alexander",
+      "url": "https://muckrack.com/alexktmartin"
+    },
+    {
+      "name": "Martin, Peter",
+      "url": "https://muckrack.com/peter-martin-203"
+    },
+    {
+      "name": "Maruka, Yukari",
+      "url": "https://muckrack.com/yukari-maruka"
+    },
+    {
+      "name": "Maruyama, Tetsuya",
+      "url": "https://muckrack.com/tetsuya-maruyama-1"
+    },
+    {
+      "name": "Massami, Bruno",
+      "url": "https://muckrack.com/bruno-massami"
+    },
+    {
+      "name": "Matsui, Motokazu",
+      "url": "https://muckrack.com/motokazu-matsui-1"
+    },
+    {
+      "name": "Matsumoto, Masanobu",
+      "url": "https://muckrack.com/masanobu-matsumoto"
+    },
+    {
+      "name": "Matsumoto, Satoshi",
+      "url": "https://muckrack.com/satoshi-matsumoto-1"
+    },
+    {
+      "name": "Matsuno, Tomoki",
+      "url": "https://muckrack.com/tomoki-matsuno"
+    },
+    {
+      "name": "Matsuoka, Yukiko",
+      "url": "https://muckrack.com/yukiko-matsuoka"
+    },
+    {
+      "name": "Matsushima, Michiaki",
+      "url": "https://muckrack.com/michiaki-matsushima"
+    },
+    {
+      "name": "Matsushita, Yasuyuki",
+      "url": "https://muckrack.com/yasuyuki-matsushita"
+    },
+    {
+      "name": "Maxwell, Kenneth",
+      "url": "https://muckrack.com/kenny_maxwell"
+    },
+    {
+      "name": "McCulley, Kenji",
+      "url": "https://muckrack.com/kenji-mcculley"
+    },
+    {
+      "name": "McCullough, Alexandra",
+      "url": "https://muckrack.com/mcgarcia_a"
+    },
+    {
+      "name": "McCurry, Justin",
+      "url": "https://muckrack.com/justinmccurry"
+    },
+    {
+      "name": "McElhinney, David",
+      "url": "https://muckrack.com/david-mcelhinney"
+    },
+    {
+      "name": "Mckenna, Shaun",
+      "url": "https://muckrack.com/jt_sloosh"
+    },
+    {
+      "name": "McLain, Sean",
+      "url": "https://muckrack.com/sean-mclain"
+    },
+    {
+      "name": "McMaster, H. R.",
+      "url": "https://muckrack.com/h-r-mcmaster"
+    },
+    {
+      "name": "Mealey, Rachel",
+      "url": "https://muckrack.com/rachel-mealey"
+    },
+    {
+      "name": "Menabney, Darren",
+      "url": "https://muckrack.com/darren-menabney"
+    },
+    {
+      "name": "Mesmer, Philippe",
+      "url": "https://muckrack.com/pmtokyo"
+    },
+    {
+      "name": "Meyer, Isaac",
+      "url": "https://muckrack.com/isaac-meyer"
+    },
+    {
+      "name": "Miki, Izumi",
+      "url": "https://muckrack.com/miki_atmarkit"
+    },
+    {
+      "name": "Millan, Arturo",
+      "url": "https://muckrack.com/arturo-millan"
+    },
+    {
+      "name": "Miller, Brett",
+      "url": "https://muckrack.com/brett-miller"
+    },
+    {
+      "name": "Miller, Michael",
+      "url": "https://muckrack.com/michael-miller-178"
+    },
+    {
+      "name": "Minami, Chikako",
+      "url": "https://muckrack.com/chikako-minami"
+    },
+    {
+      "name": "Minami, Toshiya",
+      "url": "https://muckrack.com/toshiya-minami"
+    },
+    {
+      "name": "Minamoto, Hiroko",
+      "url": "https://muckrack.com/hiroko-minamoto"
+    },
+    {
+      "name": "Minemura, Kenji",
+      "url": "https://muckrack.com/kenji-minemura"
+    },
+    {
+      "name": "Mio, Ikue",
+      "url": "https://muckrack.com/ikue-mio"
+    },
+    {
+      "name": "Mitsuhashi, Yukari",
+      "url": "https://muckrack.com/yukari-mitsuhashi"
+    },
+    {
+      "name": "Miura, Kazumi",
+      "url": "https://muckrack.com/kazumi-miura"
+    },
+    {
+      "name": "Miyao, Takeshi",
+      "url": "https://muckrack.com/takeshi-miyao-12"
+    },
+    {
+      "name": "Miyazaki, Ami",
+      "url": "https://muckrack.com/ami-miyazaki"
+    },
+    {
+      "name": "Miyazaki, Shuta",
+      "url": "https://muckrack.com/shuta-miyazaki"
+    },
+    {
+      "name": "Mizrahi, Avi",
+      "url": "https://muckrack.com/avi-mizrahi"
+    },
+    {
+      "name": "Mo, Yelin",
+      "url": "https://muckrack.com/yelin-mo"
+    },
+    {
+      "name": "Mochizuki, Takashi",
+      "url": "https://muckrack.com/takashi-mochizuki"
+    },
+    {
+      "name": "Mod, Craig",
+      "url": "https://muckrack.com/craig-mod"
+    },
+    {
+      "name": "Mogg, Trevor",
+      "url": "https://muckrack.com/trevor-mogg"
+    },
+    {
+      "name": "Mogi, Chikako",
+      "url": "https://muckrack.com/chikako-mogi"
+    },
+    {
+      "name": "Mori, Futoshi",
+      "url": "https://muckrack.com/futoshi-mori"
+    },
+    {
+      "name": "Mori, Harufumi",
+      "url": "https://muckrack.com/harufumi-mori"
+    },
+    {
+      "name": "Moriguchi, Noriaki",
+      "url": "https://muckrack.com/noriaki-moriguchi"
+    },
+    {
+      "name": "Moriyama, Masaaki",
+      "url": "https://muckrack.com/masaaki-moriyama-1"
+    },
+    {
+      "name": "Moriyasu, Ken",
+      "url": "https://muckrack.com/kenmoriyasu"
+    },
+    {
+      "name": "Murai, Shusuke",
+      "url": "https://muckrack.com/shusuke-murai"
+    },
+    {
+      "name": "Murakami, Sakura",
+      "url": "https://muckrack.com/sakura-murakami"
+    },
+    {
+      "name": "Muranishi, Akira",
+      "url": "https://muckrack.com/akira-muranishi-1"
+    },
+    {
+      "name": "Murata, Atsushi",
+      "url": "https://muckrack.com/atsushi-murata"
+    },
+    {
+      "name": "Muschner, Annelen",
+      "url": "https://muckrack.com/annelen-muschner"
+    },
+    {
+      "name": "Muschner, Jens",
+      "url": "https://muckrack.com/jens-muschner"
+    },
+    {
+      "name": "Nagaoka, Yoshihiro",
+      "url": "https://muckrack.com/yoshihiro-nagaoka"
+    },
+    {
+      "name": "Nagase, Youka",
+      "url": "https://muckrack.com/youka-nagase"
+    },
+    {
+      "name": "Nagata, Jun",
+      "url": "https://muckrack.com/jun-nagata-6"
+    },
+    {
+      "name": "Nagata, Jun",
+      "url": "https://muckrack.com/jun-nagata-7"
+    },
+    {
+      "name": "Naito, Yasuo",
+      "url": "https://muckrack.com/yasuo-naito"
+    },
+    {
+      "name": "Nakagame, Akio",
+      "url": "https://muckrack.com/akio-nakagame"
+    },
+    {
+      "name": "Nakagawa, Izumi",
+      "url": "https://muckrack.com/izumi-nakagawa"
+    },
+    {
+      "name": "Nakajima, Tatsuo",
+      "url": "https://muckrack.com/tatsuo-nakajima"
+    },
+    {
+      "name": "Nakamaru, Toru",
+      "url": "https://muckrack.com/toru-nakamaru-1"
+    },
+    {
+      "name": "Nakamura, Kuniaki",
+      "url": "https://muckrack.com/kuniaki-nakamura"
+    },
+    {
+      "name": "Nakamura, Naoki",
+      "url": "https://muckrack.com/naoki-nakamura-3"
+    },
+    {
+      "name": "Nakamura, Teruaki",
+      "url": "https://muckrack.com/teruaki-nakamura"
+    },
+    {
+      "name": "Nakane, Keiichi",
+      "url": "https://muckrack.com/keiichi-nakane"
+    },
+    {
+      "name": "Nakane, Yasuaki",
+      "url": "https://muckrack.com/yasuaki-nakane"
+    },
+    {
+      "name": "NAKANISHI, Takaki",
+      "url": "https://muckrack.com/takaki-nakanishi-8"
+    },
+    {
+      "name": "Nakano, Airi",
+      "url": "https://muckrack.com/airi-nakano"
+    },
+    {
+      "name": "Niibori, Satoshi",
+      "url": "https://muckrack.com/satoshi-niibori-1"
+    },
+    {
+      "name": "Nishida, Munechika",
+      "url": "https://muckrack.com/munechika-nishida"
+    },
+    {
+      "name": "Nishimoto, Momoca",
+      "url": "https://muckrack.com/momoca-nishimoto"
+    },
+    {
+      "name": "Nishimoto, Yuka",
+      "url": "https://muckrack.com/yuka-nishimoto"
+    },
+    {
+      "name": "Nishimura, Hiroyuki",
+      "url": "https://muckrack.com/hiroyuki-nishimura"
+    },
+    {
+      "name": "Nishiyama, George",
+      "url": "https://muckrack.com/george-nishiyama"
+    },
+    {
+      "name": "Nishizawa, Kana",
+      "url": "https://muckrack.com/kana-nishizawa"
+    },
+    {
+      "name": "Nitohbe, Moeko",
+      "url": "https://muckrack.com/moeko-nitohbe"
+    },
+    {
+      "name": "Nitta, Yuki",
+      "url": "https://muckrack.com/yuki-nitta"
+    },
+    {
+      "name": "Niwa, Takeshi",
+      "url": "https://muckrack.com/takeshi-niwa-15"
+    },
+    {
+      "name": "Noda, Yuta",
+      "url": "https://muckrack.com/yuta-noda-33"
+    },
+    {
+      "name": "Nodinot, Axel",
+      "url": "https://muckrack.com/axel-nodinot"
+    },
+    {
+      "name": "Nohara, Yoshiaki",
+      "url": "https://muckrack.com/yoshiaki-nohara"
+    },
+    {
+      "name": "Nomborn, Dari",
+      "url": "https://muckrack.com/dari-nomborn"
+    },
+    {
+      "name": "Nonoshita, Yuko",
+      "url": "https://muckrack.com/yuko-nonoshita"
+    },
+    {
+      "name": "Norimatsu, Minako",
+      "url": "https://muckrack.com/minako-norimatsu"
+    },
+    {
+      "name": "Normile, Dennis",
+      "url": "https://muckrack.com/dennis-normile"
+    },
+    {
+      "name": "Nuga, Haruka",
+      "url": "https://muckrack.com/haruka-nuga"
+    },
+    {
+      "name": "Numakura, Yuto",
+      "url": "https://muckrack.com/yuto-numakura"
+    },
+    {
+      "name": "Nussey, Sam",
+      "url": "https://muckrack.com/samnusseyrtrs"
+    },
+    {
+      "name": "O'Dwyer, Shaun",
+      "url": "https://muckrack.com/shaun-odwyer"
+    },
+    {
+      "name": "Obe, Mitsuru",
+      "url": "https://muckrack.com/mitsuru-obe"
+    },
+    {
+      "name": "Oda, Shintaro",
+      "url": "https://muckrack.com/shintaro-oda"
+    },
+    {
+      "name": "Oda, Shoko",
+      "url": "https://muckrack.com/shoko-oda"
+    },
+    {
+      "name": "Odeven, Ed",
+      "url": "https://muckrack.com/ed-odeven-1"
+    },
+    {
+      "name": "Ogawa, Satoshi",
+      "url": "https://muckrack.com/satoshi-ogawa-1"
+    },
+    {
+      "name": "Ohama, Hana Slevin",
+      "url": "https://muckrack.com/hana-slevin-ohama"
+    },
+    {
+      "name": "Ohsumi, Tomohiro",
+      "url": "https://muckrack.com/tomohiro-ohsumi"
+    },
+    {
+      "name": "Oikawa, Masaya",
+      "url": "https://muckrack.com/masaya-oikawa"
+    },
+    {
+      "name": "Oka, Yuzuha",
+      "url": "https://muckrack.com/yuzuhaoka"
+    },
+    {
+      "name": "Okabe, Takanori",
+      "url": "https://muckrack.com/takanori-okabe"
+    },
+    {
+      "name": "Okamoto, Akiko",
+      "url": "https://muckrack.com/akiko-okamoto"
+    },
+    {
+      "name": "Okasaka, Kentaro",
+      "url": "https://muckrack.com/kentaro-okasaka"
+    },
+    {
+      "name": "Okeson, Bret",
+      "url": "https://muckrack.com/bret-okeson"
+    },
+    {
+      "name": "Okuda, Masanao",
+      "url": "https://muckrack.com/masanao-okuda"
+    },
+    {
+      "name": "Ono, Kenji",
+      "url": "https://muckrack.com/kenji-ono-1"
+    },
+    {
+      "name": "Ono, Philbert",
+      "url": "https://muckrack.com/philbert-ono"
+    },
+    {
+      "name": "Ono, Yoko",
+      "url": "https://muckrack.com/yoko-ono-1"
+    },
+    {
+      "name": "Ornauer, Dave",
+      "url": "https://muckrack.com/dave-ornauer"
+    },
+    {
+      "name": "Osaki, Tomohiro",
+      "url": "https://muckrack.com/tomohiro-osaki"
+    },
+    {
+      "name": "Ota, Kiyoshi",
+      "url": "https://muckrack.com/kiyoshi-ota"
+    },
+    {
+      "name": "Ota, Yasu",
+      "url": "https://muckrack.com/nikkei_yasuota"
+    },
+    {
+      "name": "Ota, Yuriko",
+      "url": "https://muckrack.com/yuriko-ota"
+    },
+    {
+      "name": "Otake, Tomoko",
+      "url": "https://muckrack.com/tomoko-otake"
+    },
+    {
+      "name": "Otsuka, Shigeo",
+      "url": "https://muckrack.com/shigeo-otsuka-1"
+    },
+    {
+      "name": "OYA, Akio Lorenzo",
+      "url": "https://muckrack.com/akio-lorenzo-oya"
+    },
+    {
+      "name": "Oyagi, Tomoyuki",
+      "url": "https://muckrack.com/tomoyuki-oyagi-3"
+    },
+    {
+      "name": "Ozaki, Hajime",
+      "url": "https://muckrack.com/hajime-ozaki"
+    },
+    {
+      "name": "Ozouf, Paul",
+      "url": "https://muckrack.com/paul-ozouf"
+    },
+    {
+      "name": "Park, Kate",
+      "url": "https://muckrack.com/kate-park"
+    },
+    {
+      "name": "Parolari, Mario",
+      "url": "https://muckrack.com/mario-parolari"
+    },
+    {
+      "name": "P\u00e9an, Bastien",
+      "url": "https://muckrack.com/bastien-pean"
+    },
+    {
+      "name": "Perdigones, Crist\u00f3bal",
+      "url": "https://muckrack.com/cristobal-perdigones"
+    },
+    {
+      "name": "Pesek, William",
+      "url": "https://muckrack.com/williampesek"
+    },
+    {
+      "name": "Petkoska, Zoria",
+      "url": "https://muckrack.com/zoria-petkoska-1"
+    },
+    {
+      "name": "Pigott, Adam",
+      "url": "https://muckrack.com/adam-pigott-3"
+    },
+    {
+      "name": "Pinner, Joe",
+      "url": "https://muckrack.com/joe-pinner"
+    },
+    {
+      "name": "Pinon, Matthieu",
+      "url": "https://muckrack.com/matthieu-pinon"
+    },
+    {
+      "name": "Pollacco, Laura",
+      "url": "https://muckrack.com/laura-pollacco"
+    },
+    {
+      "name": "Pompeo, Alessio",
+      "url": "https://muckrack.com/alessio-pompeo"
+    },
+    {
+      "name": "Poole, Robert",
+      "url": "https://muckrack.com/robert-poole"
+    },
+    {
+      "name": "Poon, Patrick",
+      "url": "https://muckrack.com/patrick-poon-2"
+    },
+    {
+      "name": "Porter, Burke",
+      "url": "https://muckrack.com/burke-porter"
+    },
+    {
+      "name": "Randall, Aaron",
+      "url": "https://muckrack.com/aaron-randall-2"
+    },
+    {
+      "name": "Randall, Justin",
+      "url": "https://muckrack.com/justin-r-randall"
+    },
+    {
+      "name": "Rauda, Denisse",
+      "url": "https://muckrack.com/denisse-rauda"
+    },
+    {
+      "name": "Redman, Iliana",
+      "url": "https://muckrack.com/iliana-redman"
+    },
+    {
+      "name": "Redon, Agn\u00e8s",
+      "url": "https://muckrack.com/agnes-redon"
+    },
+    {
+      "name": "Reidy, Gearoid",
+      "url": "https://muckrack.com/gearoid-reidy"
+    },
+    {
+      "name": "Reyes, Alma",
+      "url": "https://muckrack.com/alma-reyes-2"
+    },
+    {
+      "name": "Reynolds, Isabel",
+      "url": "https://muckrack.com/isabel-reynolds"
+    },
+    {
+      "name": "Ricciardi, John",
+      "url": "https://muckrack.com/john-ricciardi"
+    },
+    {
+      "name": "Riley, Brigid Erin",
+      "url": "https://muckrack.com/brigid-erin-riley"
+    },
+    {
+      "name": "Ripley, Will",
+      "url": "https://muckrack.com/willripley"
+    },
+    {
+      "name": "Robichon, Franck",
+      "url": "https://muckrack.com/franck-robichon"
+    },
+    {
+      "name": "Robledo, Gonzalo",
+      "url": "https://muckrack.com/gonzalo-robledo-1"
+    },
+    {
+      "name": "Robson, Daniel",
+      "url": "https://muckrack.com/daniel-robson"
+    },
+    {
+      "name": "Robson, Seth",
+      "url": "https://muckrack.com/seth-robson"
+    },
+    {
+      "name": "Rogers, Krista",
+      "url": "https://muckrack.com/krista-rogers"
+    },
+    {
+      "name": "Romero, Tim",
+      "url": "https://muckrack.com/tim-romero"
+    },
+    {
+      "name": "Ross, Steve",
+      "url": "https://muckrack.com/stephen-ross-5"
+    },
+    {
+      "name": "Rousseau, Yann",
+      "url": "https://muckrack.com/yann-rousseau"
+    },
+    {
+      "name": "Royer, Yuka",
+      "url": "https://muckrack.com/yuka-royer"
+    },
+    {
+      "name": "Russell, Chris",
+      "url": "https://muckrack.com/jt_cr"
+    },
+    {
+      "name": "Ryall, Julian",
+      "url": "https://muckrack.com/julian-ryall"
+    },
+    {
+      "name": "Saboor, Jessica",
+      "url": "https://muckrack.com/jessica-saboor"
+    },
+    {
+      "name": "Sadachi, Takeshi",
+      "url": "https://muckrack.com/takeshi-sadachi"
+    },
+    {
+      "name": "Saheki, Akira",
+      "url": "https://muckrack.com/akira-saheki"
+    },
+    {
+      "name": "Saijo, Shiori",
+      "url": "https://muckrack.com/shiori-saijo"
+    },
+    {
+      "name": "Sakai, Daisuke",
+      "url": "https://muckrack.com/daisuke-sakai"
+    },
+    {
+      "name": "Sakai, Yoko",
+      "url": "https://muckrack.com/yoko-sakai"
+    },
+    {
+      "name": "Sakamoto, Izumi",
+      "url": "https://muckrack.com/izumi-sakamoto"
+    },
+    {
+      "name": "Sakamoto, Masayoshi",
+      "url": "https://muckrack.com/masayoshi-sakamoto"
+    },
+    {
+      "name": "Sakoda, Mayu",
+      "url": "https://muckrack.com/mayu-sakoda"
+    },
+    {
+      "name": "Sano, Hideyuki",
+      "url": "https://muckrack.com/hideyuki-sano"
+    },
+    {
+      "name": "Sano, Nao",
+      "url": "https://muckrack.com/nao-sano"
+    },
+    {
+      "name": "Saoshiro, Shinichi",
+      "url": "https://muckrack.com/shinichi-saoshiro"
+    },
+    {
+      "name": "Sasayama, Ryo",
+      "url": "https://muckrack.com/ryo-sasayama"
+    },
+    {
+      "name": "Satake, Yuki",
+      "url": "https://muckrack.com/yuki-satake"
+    },
+    {
+      "name": "Sato, Kumi",
+      "url": "https://muckrack.com/kumikumi115"
+    },
+    {
+      "name": "Sato, Shigeru",
+      "url": "https://muckrack.com/shigeru-sato"
+    },
+    {
+      "name": "Sato, Yumiko",
+      "url": "https://muckrack.com/yumiko-sato-1"
+    },
+    {
+      "name": "Savov, Vlad",
+      "url": "https://muckrack.com/vladsavov"
+    },
+    {
+      "name": "Sawamura, Wataru",
+      "url": "https://muckrack.com/wataru-sawamura"
+    },
+    {
+      "name": "Schaal, Bertrand",
+      "url": "https://muckrack.com/bertrand-schaal-2"
+    },
+    {
+      "name": "Schilling, Mark",
+      "url": "https://muckrack.com/moviefan55"
+    },
+    {
+      "name": "Schley, Matt",
+      "url": "https://muckrack.com/matt-schley"
+    },
+    {
+      "name": "Schmidt, Brie",
+      "url": "https://muckrack.com/brie-schmidt"
+    },
+    {
+      "name": "Schmitt, Bertel",
+      "url": "https://muckrack.com/bertel-schmitt"
+    },
+    {
+      "name": "Schreffler, Roger",
+      "url": "https://muckrack.com/roger-schreffler"
+    },
+    {
+      "name": "Schwering, Uwe",
+      "url": "https://muckrack.com/uwe-schwering"
+    },
+    {
+      "name": "Scott, Brendan",
+      "url": "https://muckrack.com/brendan-scott"
+    },
+    {
+      "name": "Seigi, Ishikawa",
+      "url": "https://muckrack.com/ishikawa-seigi"
+    },
+    {
+      "name": "Seii, Satoshi",
+      "url": "https://muckrack.com/satoshi-seii"
+    },
+    {
+      "name": "Sekiguchi, Toko",
+      "url": "https://muckrack.com/toko-sekiguchi"
+    },
+    {
+      "name": "Sencil, David",
+      "url": "https://muckrack.com/david-sencil"
+    },
+    {
+      "name": "Sephazon, Robert",
+      "url": "https://muckrack.com/robert-sephazon"
+    },
+    {
+      "name": "Serena, Asunci\u00f3n",
+      "url": "https://muckrack.com/asuncion-serena"
+    },
+    {
+      "name": "Sharp, Andy",
+      "url": "https://muckrack.com/andysharp"
+    },
+    {
+      "name": "Shibata, Katsumi",
+      "url": "https://muckrack.com/katsumi-shibata"
+    },
+    {
+      "name": "Shibutani, Hiroshi",
+      "url": "https://muckrack.com/hiroshi-shibutani-1"
+    },
+    {
+      "name": "Shigematsu, Akiko",
+      "url": "https://muckrack.com/akiko-shigematsu"
+    },
+    {
+      "name": "Shikita, Ko",
+      "url": "https://muckrack.com/ko-shikita-1"
+    },
+    {
+      "name": "Shimizu, Reina",
+      "url": "https://muckrack.com/reina-shimizu"
+    },
+    {
+      "name": "Shimura, Kazu",
+      "url": "https://muckrack.com/kazu-shimura"
+    },
+    {
+      "name": "Shimura, Tomoya",
+      "url": "https://muckrack.com/tomoya-shimura"
+    },
+    {
+      "name": "Shoji, Mai",
+      "url": "https://muckrack.com/mai-shoji"
+    },
+    {
+      "name": "Sim, Walter",
+      "url": "https://muckrack.com/walter-sim"
+    },
+    {
+      "name": "Siripala, Thisanka",
+      "url": "https://muckrack.com/thisanka-siripala"
+    },
+    {
+      "name": "Skura, Elyse",
+      "url": "https://muckrack.com/elyse-skura"
+    },
+    {
+      "name": "Slama, Rene",
+      "url": "https://muckrack.com/rene-slama"
+    },
+    {
+      "name": "Smart, Richard",
+      "url": "https://muckrack.com/richard-smart"
+    },
+    {
+      "name": "Smith, Sheila",
+      "url": "https://muckrack.com/sheila-smith-2"
+    },
+    {
+      "name": "Sneider, Noah",
+      "url": "https://muckrack.com/noah-sneider"
+    },
+    {
+      "name": "Sok, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-sok"
+    },
+    {
+      "name": "Southurst, Jon",
+      "url": "https://muckrack.com/jon-southurst"
+    },
+    {
+      "name": "Spero, Josh",
+      "url": "https://muckrack.com/josh-spero"
+    },
+    {
+      "name": "Sposato, William",
+      "url": "https://muckrack.com/william-sposato"
+    },
+    {
+      "name": "Stapczynski, Stephen",
+      "url": "https://muckrack.com/stephen-e-stapczynski"
+    },
+    {
+      "name": "Steen, Emma",
+      "url": "https://muckrack.com/emma-steen"
+    },
+    {
+      "name": "Stephenson Sugita, Mariko",
+      "url": "https://muckrack.com/mariko-stephenson-sugita"
+    },
+    {
+      "name": "Stromsodd, Jan Einar",
+      "url": "https://muckrack.com/jan-einar-stromsodd"
+    },
+    {
+      "name": "Sturmer, Jake",
+      "url": "https://muckrack.com/thesoundofjs"
+    },
+    {
+      "name": "Su, Jane",
+      "url": "https://muckrack.com/jane-su"
+    },
+    {
+      "name": "Suda, Masaki",
+      "url": "https://muckrack.com/masaki-suda"
+    },
+    {
+      "name": "Suga, Masumi",
+      "url": "https://muckrack.com/masumi-suga"
+    },
+    {
+      "name": "Sugio, Naoya",
+      "url": "https://muckrack.com/naoya-sugio"
+    },
+    {
+      "name": "Sugiyama, Jumpei",
+      "url": "https://muckrack.com/jumpei-sugiyama-16"
+    },
+    {
+      "name": "Sugiyama, Satoshi",
+      "url": "https://muckrack.com/satoshijournal"
+    },
+    {
+      "name": "Suk, Sarah",
+      "url": "https://muckrack.com/sarah-suk"
+    },
+    {
+      "name": "Suzuki, Kenichi",
+      "url": "https://muckrack.com/kenichi-suzuki-2"
+    },
+    {
+      "name": "Suzuki, Koichi",
+      "url": "https://muckrack.com/koichi-suzuki-1"
+    },
+    {
+      "name": "Swinnerton, Robbie",
+      "url": "https://muckrack.com/robbie-swinnerton"
+    },
+    {
+      "name": "Tadokoro, Ryuichi",
+      "url": "https://muckrack.com/ryuichi-tadokoro"
+    },
+    {
+      "name": "Taguchi, Tomoya",
+      "url": "https://muckrack.com/tomoya-taguchi-39"
+    },
+    {
+      "name": "Tai, Katsuto",
+      "url": "https://muckrack.com/katsuto-tai"
+    },
+    {
+      "name": "Tai, Makoto",
+      "url": "https://muckrack.com/makoto-tai"
+    },
+    {
+      "name": "Tajima, Ro",
+      "url": "https://muckrack.com/ro-tajima"
+    },
+    {
+      "name": "Tajitsu, Naomi",
+      "url": "https://muckrack.com/naomi-tajitsu"
+    },
+    {
+      "name": "Takada, Kazunori",
+      "url": "https://muckrack.com/kazunori-takada"
+    },
+    {
+      "name": "Takada, Keita",
+      "url": "https://muckrack.com/keita-takada"
+    },
+    {
+      "name": "Takagi, Lisa",
+      "url": "https://muckrack.com/lisa-takagi"
+    },
+    {
+      "name": "Takagi, Ryohei",
+      "url": "https://muckrack.com/ryohei-takagi"
+    },
+    {
+      "name": "Takahara, Kanako",
+      "url": "https://muckrack.com/kanako-takahara"
+    },
+    {
+      "name": "Takahashi, Kosuke",
+      "url": "https://muckrack.com/kosuke-takahashi"
+    },
+    {
+      "name": "Takahashi, Natasha",
+      "url": "https://muckrack.com/natasha-takahashi"
+    },
+    {
+      "name": "Takai, Ogoshi",
+      "url": "https://muckrack.com/ogoshi-takai"
+    },
+    {
+      "name": "Takano, Makoto",
+      "url": "https://muckrack.com/makoto-takano"
+    },
+    {
+      "name": "Takano, Satoshi",
+      "url": "https://muckrack.com/satoshi-takano"
+    },
+    {
+      "name": "Takashima, Koji",
+      "url": "https://muckrack.com/koji-takashima"
+    },
+    {
+      "name": "Takasugi, Kentaro",
+      "url": "https://muckrack.com/kentaro-takasugi"
+    },
+    {
+      "name": "Take, Sayumi",
+      "url": "https://muckrack.com/sayumi-take"
+    },
+    {
+      "name": "Takenaka, Kiyoshi",
+      "url": "https://muckrack.com/kiyoshi-takenaka"
+    },
+    {
+      "name": "Takenaka, Rintaro",
+      "url": "https://muckrack.com/rintaro-takenaka"
+    },
+    {
+      "name": "Takimoto, Daisuke",
+      "url": "https://muckrack.com/daisuke-takimoto"
+    },
+    {
+      "name": "Takizawa, Kosuke",
+      "url": "https://muckrack.com/kosuke-takizawa-25"
+    },
+    {
+      "name": "Tamura, Keiko",
+      "url": "https://muckrack.com/keiko-tamura"
+    },
+    {
+      "name": "Tamura, Kenji",
+      "url": "https://muckrack.com/kenji-tamura"
+    },
+    {
+      "name": "Tanabe, Shizuka",
+      "url": "https://muckrack.com/shizuka-tanabe"
+    },
+    {
+      "name": "Tanaka, Naoki",
+      "url": "https://muckrack.com/naoki-tanaka"
+    },
+    {
+      "name": "Tanida, Kuniichi",
+      "url": "https://muckrack.com/kuniichi-tanida"
+    },
+    {
+      "name": "Taniguchi, Takako",
+      "url": "https://muckrack.com/takako-taniguchi-1"
+    },
+    {
+      "name": "Tanikawa, Kiyoshi",
+      "url": "https://muckrack.com/kiyoshi-tanikawa"
+    },
+    {
+      "name": "Tanimoto, Yuka",
+      "url": "https://muckrack.com/yuka-tanimoto"
+    },
+    {
+      "name": "Tansey, Joel",
+      "url": "https://muckrack.com/joeltanseyjt"
+    },
+    {
+      "name": "Teranishi, Kazuo",
+      "url": "https://muckrack.com/kazuo-teranishi"
+    },
+    {
+      "name": "Thompson, Nevin",
+      "url": "https://muckrack.com/nevin-thompson"
+    },
+    {
+      "name": "Tominaga, Kazukuni",
+      "url": "https://muckrack.com/kazukuni-tominaga-1"
+    },
+    {
+      "name": "Toney, James",
+      "url": "https://muckrack.com/jtoneysbeat"
+    },
+    {
+      "name": "Toyoda, Yukiko",
+      "url": "https://muckrack.com/yukiko-toyoda"
+    },
+    {
+      "name": "Traylor, Daniel",
+      "url": "https://muckrack.com/dantraylor"
+    },
+    {
+      "name": "Tsuboike, Jun",
+      "url": "https://muckrack.com/jun-tsuboike"
+    },
+    {
+      "name": "Tsunashima, Toru",
+      "url": "https://muckrack.com/toru-tsunashima"
+    },
+    {
+      "name": "Tsuruoka, Ashley",
+      "url": "https://muckrack.com/ashley-tsuruoka"
+    },
+    {
+      "name": "Twaronite, Lisa",
+      "url": "https://muckrack.com/lisa-twaronite"
+    },
+    {
+      "name": "Ueda, Michio",
+      "url": "https://muckrack.com/michio_ueda"
+    },
+    {
+      "name": "Uemura, Takuya",
+      "url": "https://muckrack.com/takuya-uemura-1"
+    },
+    {
+      "name": "Ujikane, Keiko",
+      "url": "https://muckrack.com/keiko-ujikane"
+    },
+    {
+      "name": "Ukai, Satoshi",
+      "url": "https://muckrack.com/satoshi-ukai"
+    },
+    {
+      "name": "Uno, Tsunehiro",
+      "url": "https://muckrack.com/person-506638342"
+    },
+    {
+      "name": "Urabe, Emi",
+      "url": "https://muckrack.com/emi-urabe"
+    },
+    {
+      "name": "Uranaka, Miho",
+      "url": "https://muckrack.com/miho-uranaka"
+    },
+    {
+      "name": "Uranaka, Taiga",
+      "url": "https://muckrack.com/taiga-uranaka"
+    },
+    {
+      "name": "Vail, Jim",
+      "url": "https://muckrack.com/jim-vail"
+    },
+    {
+      "name": "Vallejos, Mariel Balbuena",
+      "url": "https://muckrack.com/mariel-balbuena-vallejos"
+    },
+    {
+      "name": "Vauvillier, Nicolas",
+      "url": "https://muckrack.com/nicolas-vauvillier"
+    },
+    {
+      "name": "Wada, Takahiko",
+      "url": "https://muckrack.com/takahiko-wada"
+    },
+    {
+      "name": "Wade, Stephen",
+      "url": "https://muckrack.com/stephen-wade"
+    },
+    {
+      "name": "Wagatsuma, Aya",
+      "url": "https://muckrack.com/aya-wagatsuma"
+    },
+    {
+      "name": "Ward, Russell",
+      "url": "https://muckrack.com/russell-ward"
+    },
+    {
+      "name": "Watanabe, Mitsuko",
+      "url": "https://muckrack.com/mitsuko-watanabe"
+    },
+    {
+      "name": "Watson, Akil",
+      "url": "https://muckrack.com/akil-watson"
+    },
+    {
+      "name": "Whiteford, Nava",
+      "url": "https://muckrack.com/nava-whiteford"
+    },
+    {
+      "name": "Wong, Kandy",
+      "url": "https://muckrack.com/kandy-wong"
+    },
+    {
+      "name": "Wortley, Kathryn",
+      "url": "https://muckrack.com/kathryn-wortley-1"
+    },
+    {
+      "name": "Yagura, Mariko",
+      "url": "https://muckrack.com/mariko-yagura-34"
+    },
+    {
+      "name": "Yamada, Nana",
+      "url": "https://muckrack.com/nana-yamada-37"
+    },
+    {
+      "name": "Yamaguchi, Keisuke",
+      "url": "https://muckrack.com/keisuke-yamaguchi"
+    },
+    {
+      "name": "Yamaguchi, Kenta",
+      "url": "https://muckrack.com/kenta-yamaguchi"
+    },
+    {
+      "name": "Yamaguchi, Mari",
+      "url": "https://muckrack.com/mari-yamaguchi"
+    },
+    {
+      "name": "Yamaguchi, Takaya",
+      "url": "https://muckrack.com/takaya-yamaguchi"
+    },
+    {
+      "name": "Yamaguchi, Yuka",
+      "url": "https://muckrack.com/yuka-yamaguchi"
+    },
+    {
+      "name": "Yamamitsu, Eimi",
+      "url": "https://muckrack.com/eimi-yamamitsu"
+    },
+    {
+      "name": "Yamamoto, Hirofumi",
+      "url": "https://muckrack.com/hirofumi-yamamoto-2"
+    },
+    {
+      "name": "Yamamoto, Mari",
+      "url": "https://muckrack.com/mari-yamamoto"
+    },
+    {
+      "name": "Yamazaki, Makiko",
+      "url": "https://muckrack.com/makiko-yamazaki"
+    },
+    {
+      "name": "Yamazaki, Ryohei",
+      "url": "https://muckrack.com/ryohei-yamazaki"
+    },
+    {
+      "name": "Yanada, Makiko",
+      "url": "https://muckrack.com/makiko-yanada"
+    },
+    {
+      "name": "Yanagawa, Eiichiro",
+      "url": "https://muckrack.com/eiichiro-yanagawa"
+    },
+    {
+      "name": "Yasumoto, Yuta",
+      "url": "https://muckrack.com/yuta-yasumoto"
+    },
+    {
+      "name": "Yasunori, Avanti",
+      "url": "https://muckrack.com/avanti_yasunori"
+    },
+    {
+      "name": "Yates, Chrissy",
+      "url": "https://muckrack.com/chrissy-yates"
+    },
+    {
+      "name": "YAZAWA, YOKO",
+      "url": "https://muckrack.com/yoko-yazawa"
+    },
+    {
+      "name": "Yogi, Shohei",
+      "url": "https://muckrack.com/shohei-yogi"
+    },
+    {
+      "name": "Yokoyama, Erica",
+      "url": "https://muckrack.com/erica-yokoyama"
+    },
+    {
+      "name": "Yonghow, Vong",
+      "url": "https://muckrack.com/vong-yonghow"
+    },
+    {
+      "name": "Yoshida, Reiji",
+      "url": "https://muckrack.com/reijiyoshida_jt"
+    },
+    {
+      "name": "Yoshida, Tatsuo",
+      "url": "https://muckrack.com/tatsuo-yoshida"
+    },
+    {
+      "name": "Yoshida, Yutaka",
+      "url": "https://muckrack.com/yutaka-yoshida-1"
+    },
+    {
+      "name": "Yoshii, Seiichiro",
+      "url": "https://muckrack.com/seiichiro-yoshii-1"
+    },
+    {
+      "name": "Yoshiko, Suzuki",
+      "url": "https://muckrack.com/suzuki-yoshiko"
+    },
+    {
+      "name": "Yui, Hideki",
+      "url": "https://muckrack.com/hideki-yui"
+    },
+    {
+      "name": "Yuno, Yasutaka",
+      "url": "https://muckrack.com/yasutaka-yuno-4"
+    },
+    {
+      "name": "Zeider, Tatsumi",
+      "url": "https://muckrack.com/tatsumi-zeider"
+    },
+    {
+      "name": "Ziegler, Michael",
+      "url": "https://muckrack.com/michael-ziegler"
+    },
+    {
+      "name": "\u30a2\u30eb\u30de, \u9ad8\u6a4b",
+      "url": "https://muckrack.com/alma"
+    },
+    {
+      "name": "\u6751 \u6587 \u662d, \u4e2d",
+      "url": "https://muckrack.com/person-950321780"
+    }
+  ]
+}

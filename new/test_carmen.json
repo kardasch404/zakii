@@ -1,0 +1,119 @@
+{
+  "url": "https://muckrack.com/carmengentile",
+  "profile": {
+    "avatar": "https://media.muckrack.com/profile/images/26372/carmengentile.jpeg.256x256_q100_crop-smart.jpg",
+    "name": "Carmen Gentile",
+    "verified": true,
+    "jobs": [
+      {
+        "title": "Reporter and Writer",
+        "outlet": "Freelance",
+        "outletLink": "https://muckrack.com/media-outlet/freelance"
+      },
+      {
+        "title": "Founder",
+        "outlet": "Postindustrial",
+        "outletLink": "https://muckrack.com/media-outlet/postindustrial"
+      },
+      {
+        "title": "Freelance Journalist",
+        "outlet": "ABC News Radio",
+        "outletLink": "https://muckrack.com/media-outlet/abcnewsradioonline"
+      },
+      {
+        "title": "Freelance Journalist",
+        "outlet": "USA Today",
+        "outletLink": "https://muckrack.com/media-outlet/usatoday"
+      },
+      {
+        "title": "Freelance Journalist",
+        "outlet": "The New York Times",
+        "outletLink": "https://muckrack.com/media-outlet/the-new-york-times"
+      },
+      {
+        "title": "Freelance Journalist",
+        "outlet": "ABC News",
+        "outletLink": "https://muckrack.com/media-outlet/abcnews"
+      }
+    ],
+    "beats": [
+      {
+        "name": "Afghanistan",
+        "link": "https://muckrack.com/beat/afghanistan"
+      },
+      {
+        "name": "Opinion and Editorial",
+        "link": "https://muckrack.com/beat/oped"
+      },
+      {
+        "name": "World",
+        "link": "https://muckrack.com/beat/intl"
+      }
+    ],
+    "asSeenIn": [
+      {
+        "name": "ABC News",
+        "link": "https://muckrack.com/media-outlet/abcnews"
+      },
+      {
+        "name": "ABC News Radio",
+        "link": "https://muckrack.com/media-outlet/abcnewsradioonline"
+      },
+      {
+        "name": "Postindustrial",
+        "link": "https://muckrack.com/media-outlet/postindustrial"
+      },
+      {
+        "name": "The New York Times",
+        "link": "https://muckrack.com/media-outlet/the-new-york-times"
+      },
+      {
+        "name": "USA Today",
+        "link": "https://muckrack.com/media-outlet/usatoday"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://muckrack.com/media-outlet/linkedin"
+      },
+      {
+        "name": "CNN",
+        "link": "https://muckrack.com/media-outlet/cnn"
+      },
+      {
+        "name": "Medium",
+        "link": "https://muckrack.com/media-outlet/medium"
+      },
+      {
+        "name": "The Guardian",
+        "link": "https://muckrack.com/media-outlet/guardian"
+      },
+      {
+        "name": "HuffPost",
+        "link": "https://muckrack.com/media-outlet/huffpost"
+      },
+      {
+        "name": "TIME",
+        "link": "https://muckrack.com/media-outlet/time"
+      },
+      {
+        "name": "KDKA-TV (Pittsburgh, PA)",
+        "link": "https://muckrack.com/media-outlet/cbspittsburgh"
+      },
+      {
+        "name": "Kickstarter",
+        "link": "https://muckrack.com/media-outlet/kickstarter"
+      },
+      {
+        "name": "New York Daily News",
+        "link": "https://muckrack.com/media-outlet/nydn"
+      },
+      {
+        "name": "NPR",
+        "link": "https://muckrack.com/media-outlet/npr"
+      }
+    ],
+    "covers": "Founder of Postindustrial Media // author of “Blindsided by the Taliban,” reporter, professional motorcycle rider // I hate guns",
+    "doesntCover": "",
+    "socialHandles": []
+  }
+}

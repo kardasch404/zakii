@@ -1,0 +1,48 @@
+{
+  "url": "https://muckrack.com/ariana-abawe-1",
+  "profile": {
+    "avatar": "https://media.muckrack.com/profile/images/16045519/screenshot-2021-12-08-at-12.png.256x256_q100_crop-smart.png",
+    "name": "Ariana Abawe",
+    "verified": false,
+    "jobs": [
+      {
+        "title": "Journalist",
+        "outlet": "Freelance",
+        "outletLink": "https://muckrack.com/media-outlet/freelance"
+      },
+      {
+        "title": "Founder and Editor",
+        "outlet": "Ariana Magazine",
+        "outletLink": "https://muckrack.com/media-outlet/arianamagazine"
+      }
+    ],
+    "location": "London",
+    "beats": [
+      {
+        "name": "Afghanistan",
+        "link": "https://muckrack.com/beat/afghanistan"
+      },
+      {
+        "name": "Business and Finance",
+        "link": "https://muckrack.com/beat/bizfin"
+      }
+    ],
+    "asSeenIn": [
+      {
+        "name": "Ariana Magazine",
+        "link": "https://muckrack.com/media-outlet/arianamagazine"
+      },
+      {
+        "name": "Issuu",
+        "link": "https://muckrack.com/media-outlet/issuu"
+      },
+      {
+        "name": "MyLondon",
+        "link": "https://muckrack.com/media-outlet/mylondon"
+      }
+    ],
+    "covers": "",
+    "doesntCover": "",
+    "socialHandles": []
+  }
+}

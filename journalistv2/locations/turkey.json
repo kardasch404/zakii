@@ -1,0 +1,1335 @@
+{
+  "location": "turkey",
+  "url": "https://muckrack.com/beat/turkey",
+  "total_journalists": 332,
+  "journalists": [
+    {
+      "name": "Abid, Mahmut",
+      "url": "https://muckrack.com/mahmut-abid"
+    },
+    {
+      "name": "Adilgizi, Lamiya",
+      "url": "https://muckrack.com/lamiya-adilgizi"
+    },
+    {
+      "name": "Akarca, Tongu\u00e7",
+      "url": "https://muckrack.com/tonguc-akarca"
+    },
+    {
+      "name": "Akatay, Muhammed",
+      "url": "https://muckrack.com/muhammed-akatay-2"
+    },
+    {
+      "name": "Akin Temel, Erdem",
+      "url": "https://muckrack.com/erdem-akin-temel"
+    },
+    {
+      "name": "Akku\u015f, Sercan",
+      "url": "https://muckrack.com/sercan-akkus"
+    },
+    {
+      "name": "Akman, Beril",
+      "url": "https://muckrack.com/beril-akman"
+    },
+    {
+      "name": "Aksu, Fatma",
+      "url": "https://muckrack.com/fatma-aksu"
+    },
+    {
+      "name": "Aktas, Erdogan",
+      "url": "https://muckrack.com/erdogan-aktas"
+    },
+    {
+      "name": "Alabboush, Rama",
+      "url": "https://muckrack.com/rama-alabboush"
+    },
+    {
+      "name": "ALAG\u00d6Z, G\u00fclistan",
+      "url": "https://muckrack.com/gulistan-alagoz"
+    },
+    {
+      "name": "Alam, Sorwar",
+      "url": "https://muckrack.com/sorwar_alam"
+    },
+    {
+      "name": "Alemdar, Bahad\u0131r",
+      "url": "https://muckrack.com/bahadr-alemdar"
+    },
+    {
+      "name": "Alemdar, Melis",
+      "url": "https://muckrack.com/melis-alemdar"
+    },
+    {
+      "name": "Ali Birand, Umur",
+      "url": "https://muckrack.com/umibirand"
+    },
+    {
+      "name": "ALP, Aysel",
+      "url": "https://muckrack.com/aysel-alp"
+    },
+    {
+      "name": "Alpay, Kenan",
+      "url": "https://muckrack.com/kenan-alpay"
+    },
+    {
+      "name": "Altay, \u0130brahim",
+      "url": "https://muckrack.com/ibrahim-altay"
+    },
+    {
+      "name": "Altayli, Fatih",
+      "url": "https://muckrack.com/fatih-altayli"
+    },
+    {
+      "name": "Alt\u0131karde\u015f, \u0130rfan",
+      "url": "https://muckrack.com/irfan-altkardes"
+    },
+    {
+      "name": "Altun, Ferruh",
+      "url": "https://muckrack.com/ferruh-altun"
+    },
+    {
+      "name": "Altun, Neslihan",
+      "url": "https://muckrack.com/neslihan-altun"
+    },
+    {
+      "name": "Ama\u00e7, Merve",
+      "url": "https://muckrack.com/merve-amac"
+    },
+    {
+      "name": "Andlauer, Anne",
+      "url": "https://muckrack.com/anne-andlauer-1"
+    },
+    {
+      "name": "An\u0131l, Kenan",
+      "url": "https://muckrack.com/kenan-anl-5"
+    },
+    {
+      "name": "Ard\u0131\u00e7, Zaime",
+      "url": "https://muckrack.com/zaime-ardc-2"
+    },
+    {
+      "name": "Arkunlar, Merve",
+      "url": "https://muckrack.com/merve-arkunlar"
+    },
+    {
+      "name": "Arslan Yilmaz, Didem",
+      "url": "https://muckrack.com/didem-arslan-yilmaz"
+    },
+    {
+      "name": "Ashdown, Nick",
+      "url": "https://muckrack.com/nick-ashdown-1"
+    },
+    {
+      "name": "Aslan, Melih",
+      "url": "https://muckrack.com/melih-aslan"
+    },
+    {
+      "name": "Awad, Alaa",
+      "url": "https://muckrack.com/alaa-awad"
+    },
+    {
+      "name": "Ayan, Noyan",
+      "url": "https://muckrack.com/noyan-ayan"
+    },
+    {
+      "name": "AYDINER, Tuncay",
+      "url": "https://muckrack.com/tuncay-aydiner"
+    },
+    {
+      "name": "Aydo\u011fan, Teoman",
+      "url": "https://muckrack.com/teoman-aydogan"
+    },
+    {
+      "name": "Aygun, Hakan",
+      "url": "https://muckrack.com/hakan_aygun"
+    },
+    {
+      "name": "Ayhan, Veysel",
+      "url": "https://muckrack.com/veysel-ayhan"
+    },
+    {
+      "name": "Ayyash, AbdelRahman",
+      "url": "https://muckrack.com/abdelrahman-ayyash"
+    },
+    {
+      "name": "Baltas, Recep",
+      "url": "https://muckrack.com/recep-baltas"
+    },
+    {
+      "name": "Barakat, Bassel",
+      "url": "https://muckrack.com/bassel-barakat-2"
+    },
+    {
+      "name": "Barreira, Victor",
+      "url": "https://muckrack.com/victor-barreira"
+    },
+    {
+      "name": "Barzak, Ibrahim",
+      "url": "https://muckrack.com/ibrahim-barzak"
+    },
+    {
+      "name": "Ba\u015faran, Emre",
+      "url": "https://muckrack.com/emre-basaran"
+    },
+    {
+      "name": "Baydar, Yavuz",
+      "url": "https://muckrack.com/yavuz-baydar"
+    },
+    {
+      "name": "Beck, John",
+      "url": "https://muckrack.com/john-beck"
+    },
+    {
+      "name": "Bektas, Umit",
+      "url": "https://muckrack.com/umit-bektas"
+    },
+    {
+      "name": "Bendahmane, Amina",
+      "url": "https://muckrack.com/amina-bendahmane"
+    },
+    {
+      "name": "Bilginsoy, Zeynep",
+      "url": "https://muckrack.com/zeynep-bilginsoy"
+    },
+    {
+      "name": "B\u0131y\u0131k, Mesut",
+      "url": "https://muckrack.com/mesut-byk"
+    },
+    {
+      "name": "Bolelli, Senhan",
+      "url": "https://muckrack.com/senhan-bolelli"
+    },
+    {
+      "name": "Bourcier, Nicolas",
+      "url": "https://muckrack.com/nicolas-bourcier"
+    },
+    {
+      "name": "Bouzekri, Basma",
+      "url": "https://muckrack.com/basma-bouzekri"
+    },
+    {
+      "name": "Bozku\u015f, Semih",
+      "url": "https://muckrack.com/semih-bozkus"
+    },
+    {
+      "name": "Bula\u00e7, Ali",
+      "url": "https://muckrack.com/ali-bulac"
+    },
+    {
+      "name": "Bursal\u0131, Orhan",
+      "url": "https://muckrack.com/orhan-bursal"
+    },
+    {
+      "name": "Burton, Josef",
+      "url": "https://muckrack.com/josef-burton"
+    },
+    {
+      "name": "Butler, Daren",
+      "url": "https://muckrack.com/daren-butler"
+    },
+    {
+      "name": "Buyukada, Ali Kursat",
+      "url": "https://muckrack.com/ali-kursat-buyukada"
+    },
+    {
+      "name": "B\u00fcy\u00fckk\u0131l\u0131\u00e7, Bahad\u0131r",
+      "url": "https://muckrack.com/bahadr-buyukklc"
+    },
+    {
+      "name": "Buz, Engin",
+      "url": "https://muckrack.com/engin-buz"
+    },
+    {
+      "name": "Cagatay, Gulsen",
+      "url": "https://muckrack.com/gulsen-cagatay"
+    },
+    {
+      "name": "Caglayan, Ceyda",
+      "url": "https://muckrack.com/ceyda-caglayan"
+    },
+    {
+      "name": "Can, Ahmet",
+      "url": "https://muckrack.com/ahmet-can"
+    },
+    {
+      "name": "\u00c7andar, Cengiz",
+      "url": "https://muckrack.com/cengiz-candar"
+    },
+    {
+      "name": "Carri\u00e9, Shawn",
+      "url": "https://muckrack.com/shawncarrie"
+    },
+    {
+      "name": "Cavus, G\u00fclin",
+      "url": "https://muckrack.com/gulin-cavus"
+    },
+    {
+      "name": "\u00c7avu\u015fo\u011flu, Nisa Nur",
+      "url": "https://muckrack.com/nisa-nur-cavusoglu"
+    },
+    {
+      "name": "\u00c7etin, \u00d6zg\u00fcr",
+      "url": "https://muckrack.com/ozgur-cetin"
+    },
+    {
+      "name": "Cetinkaya, Mehmet",
+      "url": "https://muckrack.com/mehmet-cetinkaya"
+    },
+    {
+      "name": "Charles, Khalil Yusuf",
+      "url": "https://muckrack.com/khalil-yusuf-charles"
+    },
+    {
+      "name": "Cherici, Sofia",
+      "url": "https://muckrack.com/sofia-cherici"
+    },
+    {
+      "name": "Cimen, Baris",
+      "url": "https://muckrack.com/baris-cimen-1"
+    },
+    {
+      "name": "\u00c7olak, Pelin Dilara",
+      "url": "https://muckrack.com/pelin-dilara-colak"
+    },
+    {
+      "name": "Colarusso, Gabriella",
+      "url": "https://muckrack.com/gabriella-colarusso"
+    },
+    {
+      "name": "Coskun, Orhan",
+      "url": "https://muckrack.com/orhan-coskun"
+    },
+    {
+      "name": "Co\u015fkundeniz, Mehmet",
+      "url": "https://muckrack.com/mehmet-coskundeniz"
+    },
+    {
+      "name": "Craig, Victoria",
+      "url": "https://muckrack.com/victoria-craig"
+    },
+    {
+      "name": "Cristiansson, Terese",
+      "url": "https://muckrack.com/terese-cristiansson-1"
+    },
+    {
+      "name": "Cunningham, Erin",
+      "url": "https://muckrack.com/erinmcunningham"
+    },
+    {
+      "name": "Cupolo, Diego",
+      "url": "https://muckrack.com/diego-cupolo"
+    },
+    {
+      "name": "Cutiller, Adri\u00e0 Rocha",
+      "url": "https://muckrack.com/adria-rocha-cutiller"
+    },
+    {
+      "name": "Da\u011f, P\u0131nar",
+      "url": "https://muckrack.com/pnar-dag"
+    },
+    {
+      "name": "Day\u0131, Muhammed Taha",
+      "url": "https://muckrack.com/muhammed-taha-day"
+    },
+    {
+      "name": "Day\u0131o\u011flu, Mehmet",
+      "url": "https://muckrack.com/mehmet-dayoglu"
+    },
+    {
+      "name": "de Koning, Marloes",
+      "url": "https://muckrack.com/marloes-de-koning-1"
+    },
+    {
+      "name": "Demircan, Ozan",
+      "url": "https://muckrack.com/ozan-demircan-2"
+    },
+    {
+      "name": "Demokan, Simin",
+      "url": "https://muckrack.com/simin-demokan"
+    },
+    {
+      "name": "Des Vignes, Reagan",
+      "url": "https://muckrack.com/reagan-des-vignes"
+    },
+    {
+      "name": "Devranoglu, Nevzat",
+      "url": "https://muckrack.com/nevzat-devranoglu"
+    },
+    {
+      "name": "Dirikoc\u0327, Melike",
+      "url": "https://muckrack.com/melike-dirikoc"
+    },
+    {
+      "name": "Dogan, Reyyan",
+      "url": "https://muckrack.com/reyyan-dogan"
+    },
+    {
+      "name": "Do\u011fru, T\u00fcmer",
+      "url": "https://muckrack.com/tumer-dogru"
+    },
+    {
+      "name": "Dore, A. Peter",
+      "url": "https://muckrack.com/a-peter-dore-1"
+    },
+    {
+      "name": "Dr\u00fcten, Carolina",
+      "url": "https://muckrack.com/carolina-druten"
+    },
+    {
+      "name": "D\u00fcndar, Can",
+      "url": "https://muckrack.com/can-dundar"
+    },
+    {
+      "name": "Durak, Murat",
+      "url": "https://muckrack.com/murat-durak"
+    },
+    {
+      "name": "Durmu\u015f, Yusuf Ziya",
+      "url": "https://muckrack.com/yusuf-ziya-durmus"
+    },
+    {
+      "name": "Duyan, Ugur",
+      "url": "https://muckrack.com/ugur-duyan"
+    },
+    {
+      "name": "Ekinci, Seda",
+      "url": "https://muckrack.com/seda-ekinci"
+    },
+    {
+      "name": "El Afandi, Ania",
+      "url": "https://muckrack.com/ania-el-afandi-1"
+    },
+    {
+      "name": "El Ghazzawi, Ashraf",
+      "url": "https://muckrack.com/ashraf-el-ghazzawi"
+    },
+    {
+      "name": "El\u00e7i, Aylin",
+      "url": "https://muckrack.com/aylin-elci"
+    },
+    {
+      "name": "Elden, Neyran",
+      "url": "https://muckrack.com/neyran-elden-1"
+    },
+    {
+      "name": "Elshewy, Eman",
+      "url": "https://muckrack.com/eman-elshewy-1"
+    },
+    {
+      "name": "Eraslan A\u015fk\u0131n, \u015eahika",
+      "url": "https://muckrack.com/sahika-eraslan-askn"
+    },
+    {
+      "name": "Erdem, \u00d6mer",
+      "url": "https://muckrack.com/omer-erdem-2"
+    },
+    {
+      "name": "Ergin, Baris",
+      "url": "https://muckrack.com/baris-ergin"
+    },
+    {
+      "name": "Ergin, Fatih",
+      "url": "https://muckrack.com/fatih-ergin-1"
+    },
+    {
+      "name": "Erkara, Busra",
+      "url": "https://muckrack.com/busra-erkara"
+    },
+    {
+      "name": "Erkoyun, Ezgi",
+      "url": "https://muckrack.com/ezgi-erkoyun"
+    },
+    {
+      "name": "Ertan, Nazlan",
+      "url": "https://muckrack.com/nazlan-ertan-1"
+    },
+    {
+      "name": "Ertug, Deniz",
+      "url": "https://muckrack.com/deniz-ertug"
+    },
+    {
+      "name": "Eser, Eren",
+      "url": "https://muckrack.com/eren-eser-2"
+    },
+    {
+      "name": "Eser, Hasan",
+      "url": "https://muckrack.com/hasan-eser"
+    },
+    {
+      "name": "Estukyan, Pakrat",
+      "url": "https://muckrack.com/pakrat-estukyan"
+    },
+    {
+      "name": "Etirli, Kadriye Ebrar",
+      "url": "https://muckrack.com/kadriye-ebrar-etirli"
+    },
+    {
+      "name": "Ey\u00fcbo\u011flu, Ali",
+      "url": "https://muckrack.com/ali-eyuboglu"
+    },
+    {
+      "name": "Fahim, Kareem",
+      "url": "https://muckrack.com/kareem-fahim"
+    },
+    {
+      "name": "Farhat, Venus",
+      "url": "https://muckrack.com/venus-farhat"
+    },
+    {
+      "name": "Finkel, Andrew",
+      "url": "https://muckrack.com/finkelandrew"
+    },
+    {
+      "name": "Frakes, Nicholas",
+      "url": "https://muckrack.com/nicholas-frakes"
+    },
+    {
+      "name": "Franchineau, H\u00e9l\u00e8ne",
+      "url": "https://muckrack.com/helene-franchineau"
+    },
+    {
+      "name": "Geybulla, Arzu",
+      "url": "https://muckrack.com/arzu-geybulla"
+    },
+    {
+      "name": "Girit, Selin",
+      "url": "https://muckrack.com/selin-girit"
+    },
+    {
+      "name": "Giustino, Mariano",
+      "url": "https://muckrack.com/mariano-giustino"
+    },
+    {
+      "name": "G\u00f6\u00e7e, Murat",
+      "url": "https://muckrack.com/murat-goce"
+    },
+    {
+      "name": "Gorun, Omer Faruk",
+      "url": "https://muckrack.com/omer-faruk-gorun"
+    },
+    {
+      "name": "G\u00f6zeyik, Beyza",
+      "url": "https://muckrack.com/beyza-gozeyik"
+    },
+    {
+      "name": "G\u00fclc\u00fcler, G\u00f6k\u00e7e",
+      "url": "https://muckrack.com/gokce-gulculer"
+    },
+    {
+      "name": "G\u00dcLDEREN, Murat",
+      "url": "https://muckrack.com/murat-gulderen"
+    },
+    {
+      "name": "Gumrukcu, Tuvan",
+      "url": "https://muckrack.com/tuvan-gumrukcu"
+    },
+    {
+      "name": "G\u00fcner, Semin G\u00fcm\u00fc\u015fel",
+      "url": "https://muckrack.com/semin-gumusel-guner"
+    },
+    {
+      "name": "G\u00fcner, Tu\u011fba",
+      "url": "https://muckrack.com/tugba-guner"
+    },
+    {
+      "name": "G\u00fcnyol, Abdulkadir",
+      "url": "https://muckrack.com/abdulkadir-gunyol"
+    },
+    {
+      "name": "G\u00fcsten, Susanne",
+      "url": "https://muckrack.com/susanne-gusten"
+    },
+    {
+      "name": "G\u00fcvemli, \u00d6zlem",
+      "url": "https://muckrack.com/ozlem-guvemli"
+    },
+    {
+      "name": "G\u00fcven, O\u011fuz",
+      "url": "https://muckrack.com/oguzguven_"
+    },
+    {
+      "name": "Guzel, Mehmet",
+      "url": "https://muckrack.com/mehmet-guzel"
+    },
+    {
+      "name": "Guzeldere, Guven",
+      "url": "https://muckrack.com/guven-guzeldere"
+    },
+    {
+      "name": "Hacaoglu, Selcan",
+      "url": "https://muckrack.com/selcan-hacaoglu"
+    },
+    {
+      "name": "Haider, Irfan",
+      "url": "https://muckrack.com/irfan-haider"
+    },
+    {
+      "name": "Hakan, Ahmet",
+      "url": "https://muckrack.com/ahmet-hakan"
+    },
+    {
+      "name": "Harper, Emma",
+      "url": "https://muckrack.com/emma-harper-3"
+    },
+    {
+      "name": "Hatib, Abdullah",
+      "url": "https://muckrack.com/abdullah-hatib"
+    },
+    {
+      "name": "Hattam, Jennifer",
+      "url": "https://muckrack.com/jennifer-hattam"
+    },
+    {
+      "name": "Hayatsever, Huseyin",
+      "url": "https://muckrack.com/huseyin-hayatsever"
+    },
+    {
+      "name": "Hermann, Rainer",
+      "url": "https://muckrack.com/rainer-hermann-1"
+    },
+    {
+      "name": "H\u0131zarc\u0131, Sinem",
+      "url": "https://muckrack.com/sinem-hzarc"
+    },
+    {
+      "name": "Homsi, Ahmad",
+      "url": "https://muckrack.com/ahmad-homsi"
+    },
+    {
+      "name": "Hubbard, Ben",
+      "url": "https://muckrack.com/ben-hubbard"
+    },
+    {
+      "name": "Humus, Mohammed",
+      "url": "https://muckrack.com/mohammed-humus"
+    },
+    {
+      "name": "Iddon, Paul",
+      "url": "https://muckrack.com/paul-iddon"
+    },
+    {
+      "name": "Ince, Elif",
+      "url": "https://muckrack.com/elifince"
+    },
+    {
+      "name": "\u0130ren, Mehmet",
+      "url": "https://muckrack.com/mehmet-iren"
+    },
+    {
+      "name": "Istikbal, Nermin",
+      "url": "https://muckrack.com/nermin-istikbal"
+    },
+    {
+      "name": "Izzdeen, Nour",
+      "url": "https://muckrack.com/nour-izzdeen-1"
+    },
+    {
+      "name": "Janssen, Bram",
+      "url": "https://muckrack.com/bram-janssen"
+    },
+    {
+      "name": "J\u00e9go, Marie",
+      "url": "https://muckrack.com/marie-jego-1"
+    },
+    {
+      "name": "Joan Ba\u00f1os, Jordi",
+      "url": "https://muckrack.com/jordi-banos"
+    },
+    {
+      "name": "Jones, Dorian",
+      "url": "https://muckrack.com/dorian-jones"
+    },
+    {
+      "name": "Junker, Susanne",
+      "url": "https://muckrack.com/susanne-junker"
+    },
+    {
+      "name": "Kabas, Sedef",
+      "url": "https://muckrack.com/sedef-kabas"
+    },
+    {
+      "name": "Kablan, Omer",
+      "url": "https://muckrack.com/omer-kablan"
+    },
+    {
+      "name": "Kalafat, Haluk",
+      "url": "https://muckrack.com/haluk-kalafat"
+    },
+    {
+      "name": "Kansu, I\u015f\u0131k",
+      "url": "https://muckrack.com/isk-kansu"
+    },
+    {
+      "name": "Kaptanoglu, Ayse",
+      "url": "https://muckrack.com/ayse-kaptanoglu-1"
+    },
+    {
+      "name": "Kara, Burak",
+      "url": "https://muckrack.com/burak-kara-1"
+    },
+    {
+      "name": "KARA, Mehmet",
+      "url": "https://muckrack.com/mehmet-kara"
+    },
+    {
+      "name": "Kara, Tuba",
+      "url": "https://muckrack.com/tuba-kara-1"
+    },
+    {
+      "name": "Karabat, Ayse",
+      "url": "https://muckrack.com/ayse-karabat"
+    },
+    {
+      "name": "Karahasano\u011flu, Ali",
+      "url": "https://muckrack.com/ali-karahasanoglu"
+    },
+    {
+      "name": "Karaman, \u00dcmit",
+      "url": "https://muckrack.com/umit-karaman"
+    },
+    {
+      "name": "Karanfil, Yasin",
+      "url": "https://muckrack.com/yasin-karanfil"
+    },
+    {
+      "name": "Karatas Alpay, Esra",
+      "url": "https://muckrack.com/esra-karatas-alpay-1"
+    },
+    {
+      "name": "Kar\u00e7\u0131\u011fa, Zeynep",
+      "url": "https://muckrack.com/zeynep-karcga"
+    },
+    {
+      "name": "Karsl\u0131o\u011flu, Mahmut",
+      "url": "https://muckrack.com/mahmut-karsloglu"
+    },
+    {
+      "name": "Kasapoglu, Cagil",
+      "url": "https://muckrack.com/cagil-kasapoglu"
+    },
+    {
+      "name": "Katbeh, Khaled",
+      "url": "https://muckrack.com/khaled-katbeh"
+    },
+    {
+      "name": "Kaya, \u00d6mer",
+      "url": "https://muckrack.com/omer-kaya"
+    },
+    {
+      "name": "Kaygusuz, Seyfullah",
+      "url": "https://muckrack.com/seyfullah-kaygusuz"
+    },
+    {
+      "name": "Kayhan, Ismail",
+      "url": "https://muckrack.com/ismail-kayhan"
+    },
+    {
+      "name": "Kelkitlio\u011flu, Murat",
+      "url": "https://muckrack.com/murat-kelkitlioglu"
+    },
+    {
+      "name": "Keskin, Serkan",
+      "url": "https://muckrack.com/serkan-keskin"
+    },
+    {
+      "name": "Khan, Faisal",
+      "url": "https://muckrack.com/faisal-khan"
+    },
+    {
+      "name": "Kirazl\u0131, Halime",
+      "url": "https://muckrack.com/halime-kirazl"
+    },
+    {
+      "name": "Kirmizidal, Sinan",
+      "url": "https://muckrack.com/sinan-kirmizidal"
+    },
+    {
+      "name": "K\u0131l\u0131\u00e7, Ersin",
+      "url": "https://muckrack.com/ersin-klc"
+    },
+    {
+      "name": "K\u0131l\u0131\u00e7, Furkan",
+      "url": "https://muckrack.com/furkan-klc"
+    },
+    {
+      "name": "K\u0131l\u0131\u00e7, \u00d6mer",
+      "url": "https://muckrack.com/omer-klc"
+    },
+    {
+      "name": "K\u0131l\u0131\u00e7, \u015e\u00fckr\u00fc Oktay",
+      "url": "https://muckrack.com/sukru-oktay-klc"
+    },
+    {
+      "name": "Konak, Emrah",
+      "url": "https://muckrack.com/emrah-konak"
+    },
+    {
+      "name": "Kozok, Firat",
+      "url": "https://muckrack.com/firat-kozok"
+    },
+    {
+      "name": "Kuburlu, Ceyhun",
+      "url": "https://muckrack.com/ceyhun-kuburlu"
+    },
+    {
+      "name": "Kucukgocmen, Ali",
+      "url": "https://muckrack.com/ali-kucukgocmen"
+    },
+    {
+      "name": "Kurt, Serhat",
+      "url": "https://muckrack.com/serhat-kurt"
+    },
+    {
+      "name": "Kurucan, Ahmet",
+      "url": "https://muckrack.com/ahmet-kurucan"
+    },
+    {
+      "name": "Kusoglu, Irem",
+      "url": "https://muckrack.com/irem-kusoglu"
+    },
+    {
+      "name": "Lake, Ben",
+      "url": "https://muckrack.com/ben-lake"
+    },
+    {
+      "name": "Lepeska, David",
+      "url": "https://muckrack.com/dlepeska"
+    },
+    {
+      "name": "Letsch, Constanze",
+      "url": "https://muckrack.com/constanze-letsch"
+    },
+    {
+      "name": "Lucinda-Smith, Hannah",
+      "url": "https://muckrack.com/hannah-lucinda-smith"
+    },
+    {
+      "name": "Madra, \u00d6mer",
+      "url": "https://muckrack.com/omer-madra"
+    },
+    {
+      "name": "Malsin, Jared",
+      "url": "https://muckrack.com/jared-malsin"
+    },
+    {
+      "name": "Maria, Kaz\u0131kl\u0131",
+      "url": "https://muckrack.com/kazkl-maria"
+    },
+    {
+      "name": "Martens, Michael",
+      "url": "https://muckrack.com/michael-martens-1"
+    },
+    {
+      "name": "Matas, Jordi",
+      "url": "https://muckrack.com/jordi-matas-1"
+    },
+    {
+      "name": "McKernan, Bethan",
+      "url": "https://muckrack.com/bethan-mckernan"
+    },
+    {
+      "name": "Minoui, Delphine",
+      "url": "https://muckrack.com/delphine-minoui-1"
+    },
+    {
+      "name": "M\u00fcderri\u0307so\u011flu, Okan",
+      "url": "https://muckrack.com/okan-muderrisoglu-32"
+    },
+    {
+      "name": "MUTLU, Yaprak",
+      "url": "https://muckrack.com/yaprak-mutlu"
+    },
+    {
+      "name": "Nabeel, Gilgamesh",
+      "url": "https://muckrack.com/gilgamesh-nabeel"
+    },
+    {
+      "name": "Nalyan, Ani",
+      "url": "https://muckrack.com/ani-nalyan"
+    },
+    {
+      "name": "Neumann, Laura",
+      "url": "https://muckrack.com/laura-neumann"
+    },
+    {
+      "name": "Nezirevic, Leila",
+      "url": "https://muckrack.com/leila-nezirevic"
+    },
+    {
+      "name": "Nur Ak\u00e7elik, Ay\u015fe",
+      "url": "https://muckrack.com/ayse-nur-akcelik"
+    },
+    {
+      "name": "Ogunleye, Sharon",
+      "url": "https://muckrack.com/sharon-ogunleye-1"
+    },
+    {
+      "name": "O\u011fuz, \u015eeref",
+      "url": "https://muckrack.com/seref-oguz"
+    },
+    {
+      "name": "Ok\u00e7u, Yusuf",
+      "url": "https://muckrack.com/yusuf-okcu"
+    },
+    {
+      "name": "Omar, Ammar Cheikh",
+      "url": "https://muckrack.com/ammar-cheikh-omar"
+    },
+    {
+      "name": "Omar Hamed, Mohammad",
+      "url": "https://muckrack.com/mohammad-omar-hamed"
+    },
+    {
+      "name": "\u00d6nder, Neslihan",
+      "url": "https://muckrack.com/neslihan-onder"
+    },
+    {
+      "name": "\u00d6ner, Fuat",
+      "url": "https://muckrack.com/fuat-oner"
+    },
+    {
+      "name": "Oru\u00e7, Merve \u015eebnem",
+      "url": "https://muckrack.com/merve-sebnem-oruc"
+    },
+    {
+      "name": "Osterlund, Paul Benjamin",
+      "url": "https://muckrack.com/paul-benjamin-osterlund"
+    },
+    {
+      "name": "Othman, Anith Adilah",
+      "url": "https://muckrack.com/anithadilah"
+    },
+    {
+      "name": "\u00d6ZBEY, \u0130pek",
+      "url": "https://muckrack.com/ipek-ozbey"
+    },
+    {
+      "name": "Ozbilici, Burhan",
+      "url": "https://muckrack.com/burhan-ozbilici"
+    },
+    {
+      "name": "Ozcan, Yusuf",
+      "url": "https://muckrack.com/yusuf-ozcan"
+    },
+    {
+      "name": "\u00d6z\u00e7\u0131tak, \u0130hsan",
+      "url": "https://muckrack.com/ihsan-ozctak"
+    },
+    {
+      "name": "\u00d6zdal, Atilla",
+      "url": "https://muckrack.com/atilla-ozdal"
+    },
+    {
+      "name": "Ozdemir, Cagri",
+      "url": "https://muckrack.com/cagri-ozdemir"
+    },
+    {
+      "name": "\u00d6zdemir, Kerem",
+      "url": "https://muckrack.com/kerem-ozdemir"
+    },
+    {
+      "name": "\u00d6zen, G\u00fcnseli",
+      "url": "https://muckrack.com/gunseli-ozen"
+    },
+    {
+      "name": "Ozkan, Mert",
+      "url": "https://muckrack.com/mert-ozkan"
+    },
+    {
+      "name": "Ozkan, Pelin",
+      "url": "https://muckrack.com/pelin-ozkan"
+    },
+    {
+      "name": "\u00d6z\u00f6\u011fretmen, Tu\u011fba",
+      "url": "https://muckrack.com/tugba-dulger"
+    },
+    {
+      "name": "Oztuncman, Selin",
+      "url": "https://muckrack.com/selin-oztuncman"
+    },
+    {
+      "name": "\u00d6zt\u00fcrk, Benan",
+      "url": "https://muckrack.com/benan-ozturk"
+    },
+    {
+      "name": "\u00d6zt\u00fcrk, Ekrem",
+      "url": "https://muckrack.com/ekrem-ozturk"
+    },
+    {
+      "name": "Ozturk, Guney",
+      "url": "https://muckrack.com/guney-ozturk"
+    },
+    {
+      "name": "Ozyurt, Cemil",
+      "url": "https://muckrack.com/cemil-ozyurt"
+    },
+    {
+      "name": "Parker, Cory",
+      "url": "https://muckrack.com/cory-parker"
+    },
+    {
+      "name": "Parlak, Namik Kemal",
+      "url": "https://muckrack.com/namik-kemal-parlak"
+    },
+    {
+      "name": "Parmaksiz, Yagiz Efe",
+      "url": "https://muckrack.com/yagiz-efe"
+    },
+    {
+      "name": "Parra, Aritz",
+      "url": "https://muckrack.com/aritz-parra"
+    },
+    {
+      "name": "Pembecio\u011flu, Yal\u00e7\u0131n",
+      "url": "https://muckrack.com/yalcin-pembecioglu"
+    },
+    {
+      "name": "Pierre-Magnani, C\u00e9line",
+      "url": "https://muckrack.com/celine-pierre-magnani"
+    },
+    {
+      "name": "Pitarakis, Lefteris",
+      "url": "https://muckrack.com/lefteris-pitarakis"
+    },
+    {
+      "name": "Polat, Anil",
+      "url": "https://muckrack.com/anil-polat-1"
+    },
+    {
+      "name": "Popp, Maximilian",
+      "url": "https://muckrack.com/maximilian-popp"
+    },
+    {
+      "name": "Porter, Lizzie",
+      "url": "https://muckrack.com/lizzie-porter"
+    },
+    {
+      "name": "Qazi, Shereena",
+      "url": "https://muckrack.com/shereena-qazi"
+    },
+    {
+      "name": "Ramo\u011flu, Zi\u0307ya",
+      "url": "https://muckrack.com/ziya-ramoglu-11"
+    },
+    {
+      "name": "Rathbone, John Paul",
+      "url": "https://muckrack.com/john-paul-rathbone"
+    },
+    {
+      "name": "Robinson, Firdevs",
+      "url": "https://muckrack.com/firdevs-robinson"
+    },
+    {
+      "name": "Sabanc\u0131, Ahmet Alphan",
+      "url": "https://muckrack.com/ahmetasabanci"
+    },
+    {
+      "name": "Sade, Gizem",
+      "url": "https://muckrack.com/gizem-sade-1"
+    },
+    {
+      "name": "\u015eahin, Ali Yavuz",
+      "url": "https://muckrack.com/ali-yavuz-sahin"
+    },
+    {
+      "name": "Sancar, \u00d6zg\u00fcr",
+      "url": "https://muckrack.com/ozgur-sancar"
+    },
+    {
+      "name": "Sara\u00e7o\u011flu, Kaan",
+      "url": "https://muckrack.com/kaan-saracoglu"
+    },
+    {
+      "name": "Sari, Mehmet Safak",
+      "url": "https://muckrack.com/msafaksari"
+    },
+    {
+      "name": "Saricay, \u015eakir",
+      "url": "https://muckrack.com/sakir-saricay-2"
+    },
+    {
+      "name": "Saritayli, Tansu",
+      "url": "https://muckrack.com/tansu-saritayli"
+    },
+    {
+      "name": "Sariyuce, Isil",
+      "url": "https://muckrack.com/isil-sariyuce"
+    },
+    {
+      "name": "Sar\u0131, Hilal",
+      "url": "https://muckrack.com/hilal-sar"
+    },
+    {
+      "name": "Sar\u0131kaya, Muharrem",
+      "url": "https://muckrack.com/muharrem-sarkaya"
+    },
+    {
+      "name": "Sawah, Mohamed",
+      "url": "https://muckrack.com/mohamed-sawah"
+    },
+    {
+      "name": "Sayg\u0131n, Muhammet",
+      "url": "https://muckrack.com/muhammet-saygn"
+    },
+    {
+      "name": "Sayin, Natalie",
+      "url": "https://muckrack.com/natalie-sayin"
+    },
+    {
+      "name": "Seibert, Thomas",
+      "url": "https://muckrack.com/thomas-seibert"
+    },
+    {
+      "name": "Sellars, William",
+      "url": "https://muckrack.com/william-sellars"
+    },
+    {
+      "name": "Sengul, Ebru",
+      "url": "https://muckrack.com/sengulebru"
+    },
+    {
+      "name": "\u015eent\u00fcrk, Do\u011fan",
+      "url": "https://muckrack.com/dogan-senturk"
+    },
+    {
+      "name": "Sertel, Ezgi",
+      "url": "https://muckrack.com/ezgi-sertel"
+    },
+    {
+      "name": "Sevim, Attila",
+      "url": "https://muckrack.com/attila-sevim"
+    },
+    {
+      "name": "Simsek, Yagmur",
+      "url": "https://muckrack.com/yagmur-simsek"
+    },
+    {
+      "name": "Smith, Helena",
+      "url": "https://muckrack.com/helena-smith"
+    },
+    {
+      "name": "Solaker, Gulsen",
+      "url": "https://muckrack.com/gulsen-solaker"
+    },
+    {
+      "name": "Somer, Emi\u0307r",
+      "url": "https://muckrack.com/emir-somer-43"
+    },
+    {
+      "name": "Soylu, Ragip",
+      "url": "https://muckrack.com/ragip-soylu"
+    },
+    {
+      "name": "Spicer, Jonathan",
+      "url": "https://muckrack.com/jonathanspicer"
+    },
+    {
+      "name": "Stancati, Margherita",
+      "url": "https://muckrack.com/margheritamvs"
+    },
+    {
+      "name": "Steffensen, Nanna Muus",
+      "url": "https://muckrack.com/nanna-muus-steffensen"
+    },
+    {
+      "name": "Sumaq, Shaher",
+      "url": "https://muckrack.com/shaher-sumaq"
+    },
+    {
+      "name": "S\u00fcng\u00fc, Ya\u015far",
+      "url": "https://muckrack.com/yasar-sungu"
+    },
+    {
+      "name": "Surbakti, Auskar",
+      "url": "https://muckrack.com/auskarsurbakti"
+    },
+    {
+      "name": "Sweidan, Mohamad Hasan",
+      "url": "https://muckrack.com/mohamad-hasan-sweidan"
+    },
+    {
+      "name": "Sykes, Patrick",
+      "url": "https://muckrack.com/patrick-sykes"
+    },
+    {
+      "name": "Taheri, Kaveh",
+      "url": "https://muckrack.com/kaveh-taheri"
+    },
+    {
+      "name": "Tan, Ay\u015fe \u00c7olpan",
+      "url": "https://muckrack.com/ayse-colpan-tan"
+    },
+    {
+      "name": "Ta\u015fba\u015f\u0131, Yal\u00e7\u0131n",
+      "url": "https://muckrack.com/yalcn-tasbas"
+    },
+    {
+      "name": "Taylan, Cem",
+      "url": "https://muckrack.com/cem-taylan-1"
+    },
+    {
+      "name": "Teke, \u00d6zlem",
+      "url": "https://muckrack.com/ozlem-teke"
+    },
+    {
+      "name": "Tekin Istikbal, Fulya",
+      "url": "https://muckrack.com/fulya-tekin-istikbal"
+    },
+    {
+      "name": "Tekmen, Mihriban",
+      "url": "https://muckrack.com/mihriban-tekmen"
+    },
+    {
+      "name": "Tepeli, Selcuk",
+      "url": "https://muckrack.com/selcuk-tepeli"
+    },
+    {
+      "name": "Terzi, Do\u011fan",
+      "url": "https://muckrack.com/dogan-terzi"
+    },
+    {
+      "name": "Tikit, \u00d6zcan",
+      "url": "https://muckrack.com/ozcan-tikit"
+    },
+    {
+      "name": "Toksabay, Ece",
+      "url": "https://muckrack.com/ece-toksabay-1"
+    },
+    {
+      "name": "Tolba, Ahmed",
+      "url": "https://muckrack.com/ahmed-tolba-1"
+    },
+    {
+      "name": "Tolga Sen, Murat",
+      "url": "https://muckrack.com/murat-tolga-sen"
+    },
+    {
+      "name": "Torolsan, Berrin",
+      "url": "https://muckrack.com/berrin-torolsan"
+    },
+    {
+      "name": "T\u00fcmer, Saba",
+      "url": "https://muckrack.com/saba-tumer"
+    },
+    {
+      "name": "Tuncay, Ebru",
+      "url": "https://muckrack.com/ebru-tuncay"
+    },
+    {
+      "name": "Turhan, Sebnem",
+      "url": "https://muckrack.com/sebnem-turhan"
+    },
+    {
+      "name": "Turken, Cem",
+      "url": "https://muckrack.com/cem-turken"
+    },
+    {
+      "name": "Turna, \u0130brahim",
+      "url": "https://muckrack.com/ibrahim-turna"
+    },
+    {
+      "name": "Tuysuz, Gul",
+      "url": "https://muckrack.com/gul-tuysuz-1"
+    },
+    {
+      "name": "U\u011furlu, Muhammed Furkan",
+      "url": "https://muckrack.com/muhammed-furkan-ugurlu"
+    },
+    {
+      "name": "Ulukan, G\u00f6zde",
+      "url": "https://muckrack.com/gozde-ulukan-1"
+    },
+    {
+      "name": "Usta, Ahmet",
+      "url": "https://muckrack.com/ahmetusta"
+    },
+    {
+      "name": "Varan, G\u00f6khan",
+      "url": "https://muckrack.com/gokhanvaran"
+    },
+    {
+      "name": "Vatandas, Aydogan",
+      "url": "https://muckrack.com/aydogan-vatandas"
+    },
+    {
+      "name": "Vermeulen, Bram",
+      "url": "https://muckrack.com/bram-vermeulen-1"
+    },
+    {
+      "name": "Wilks, Andrew",
+      "url": "https://muckrack.com/andrew-wilks"
+    },
+    {
+      "name": "Williams, Stuart",
+      "url": "https://muckrack.com/stuart-williams"
+    },
+    {
+      "name": "Yackley, Ayla Jean",
+      "url": "https://muckrack.com/aylajean"
+    },
+    {
+      "name": "Yalinkilic, Fercan",
+      "url": "https://muckrack.com/fercan-yalinkilic"
+    },
+    {
+      "name": "Yamak, Mert",
+      "url": "https://muckrack.com/mert-yamak-3"
+    },
+    {
+      "name": "Yanar, \u00dczeyir",
+      "url": "https://muckrack.com/uzeyir-yanar"
+    },
+    {
+      "name": "Yavuz, Yusuf",
+      "url": "https://muckrack.com/yusuf-yavuz"
+    },
+    {
+      "name": "Yazan, Aylin",
+      "url": "https://muckrack.com/aylin-yazan"
+    },
+    {
+      "name": "Ye\u015filtepe, Ahmet",
+      "url": "https://muckrack.com/ahmet-yesiltepe"
+    },
+    {
+      "name": "Yilmaz, Kamer",
+      "url": "https://muckrack.com/kamer-yilmaz"
+    },
+    {
+      "name": "Yinan\u00e7, Bar\u00e7in",
+      "url": "https://muckrack.com/barcin-yinanc"
+    },
+    {
+      "name": "Y\u0131ld\u0131r\u0131m, Ozcan",
+      "url": "https://muckrack.com/ozcan-yldrm"
+    },
+    {
+      "name": "Y\u0131lmaz, Cengiz",
+      "url": "https://muckrack.com/cengiz-ylmaz"
+    },
+    {
+      "name": "Y\u0131lmaz, Nilg\u00fcn",
+      "url": "https://muckrack.com/nilgun-ylmaz"
+    },
+    {
+      "name": "Yorulmaz, Ilgin",
+      "url": "https://muckrack.com/ilgin-yorulmaz"
+    },
+    {
+      "name": "Y\u00fccel, Deniz",
+      "url": "https://muckrack.com/deniz-yucel-1"
+    },
+    {
+      "name": "Y\u00fcksel, Sefer",
+      "url": "https://muckrack.com/sefer-yuksel"
+    },
+    {
+      "name": "Zaks, Dmitry",
+      "url": "https://muckrack.com/dmitry-zaks"
+    },
+    {
+      "name": "Zalewski, Piotr",
+      "url": "https://muckrack.com/piotr-zalewski"
+    }
+  ]
+}

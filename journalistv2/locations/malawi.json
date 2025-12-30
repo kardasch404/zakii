@@ -1,0 +1,43 @@
+{
+  "location": "malawi",
+  "url": "https://muckrack.com/beat/malawi",
+  "total_journalists": 9,
+  "journalists": [
+    {
+      "name": "Dumbula, Joseph",
+      "url": "https://muckrack.com/josephdumbula"
+    },
+    {
+      "name": "Gunya, Fatsani",
+      "url": "https://muckrack.com/fatsani-gunya-1"
+    },
+    {
+      "name": "Kondowe, Rabson",
+      "url": "https://muckrack.com/rabson-kondowe"
+    },
+    {
+      "name": "Madinga, Austin",
+      "url": "https://muckrack.com/austin-madinga"
+    },
+    {
+      "name": "Masauli, Leonard",
+      "url": "https://muckrack.com/leonard-masauli"
+    },
+    {
+      "name": "Masina, Lameck",
+      "url": "https://muckrack.com/lameck-masina"
+    },
+    {
+      "name": "Meki, Ntchindi",
+      "url": "https://muckrack.com/ntchindi-meki"
+    },
+    {
+      "name": "Ong, Jon",
+      "url": "https://muckrack.com/jon-ong"
+    },
+    {
+      "name": "Symon, Yohane",
+      "url": "https://muckrack.com/yohane-symon"
+    }
+  ]
+}

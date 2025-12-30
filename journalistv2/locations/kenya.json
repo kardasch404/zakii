@@ -1,0 +1,3155 @@
+{
+  "location": "kenya",
+  "url": "https://muckrack.com/beat/kenya",
+  "total_journalists": 787,
+  "journalists": [
+    {
+      "name": "ABONG'O, ROBERT",
+      "url": "https://muckrack.com/robert-abongo"
+    },
+    {
+      "name": "Abuya, Kenn",
+      "url": "https://muckrack.com/kenn-abuya"
+    },
+    {
+      "name": "Abuya, Sam",
+      "url": "https://muckrack.com/sam-abuya-1"
+    },
+    {
+      "name": "Achimba, Mamou",
+      "url": "https://muckrack.com/mamou-achimba"
+    },
+    {
+      "name": "Achola, Ciryan",
+      "url": "https://muckrack.com/ciryan-achola"
+    },
+    {
+      "name": "Achuka, Vincent",
+      "url": "https://muckrack.com/vincent-achuka"
+    },
+    {
+      "name": "Adar, Victor",
+      "url": "https://muckrack.com/victor-adar"
+    },
+    {
+      "name": "Adhiambo, Christabel",
+      "url": "https://muckrack.com/christabel-adhiambo"
+    },
+    {
+      "name": "Adhiambo, Mercy",
+      "url": "https://muckrack.com/mercy-adhiambo"
+    },
+    {
+      "name": "Adhiambo, Olivia",
+      "url": "https://muckrack.com/olivia-adhiambo"
+    },
+    {
+      "name": "Adigolo, Paschal Norbert",
+      "url": "https://muckrack.com/paschal-norbert"
+    },
+    {
+      "name": "Adrian, Richard",
+      "url": "https://muckrack.com/richard-adrian"
+    },
+    {
+      "name": "Aera, Aggrey Isoe",
+      "url": "https://muckrack.com/aggrey-isoe-aera"
+    },
+    {
+      "name": "Agade, Halligan",
+      "url": "https://muckrack.com/halligan-agade"
+    },
+    {
+      "name": "Ageyo, Joe",
+      "url": "https://muckrack.com/joe-ageyo"
+    },
+    {
+      "name": "Agnon, Shmuel Yosef",
+      "url": "https://muckrack.com/shmuel-yosef-agnon"
+    },
+    {
+      "name": "Agutu, Nancy",
+      "url": "https://muckrack.com/nancy-agutu"
+    },
+    {
+      "name": "Agutu, Rosa",
+      "url": "https://muckrack.com/rosa-agutu"
+    },
+    {
+      "name": "Ahenda, Ben",
+      "url": "https://muckrack.com/ben-ahenda"
+    },
+    {
+      "name": "Akolo, Judith",
+      "url": "https://muckrack.com/judith-akolo"
+    },
+    {
+      "name": "Akwiri, Joseph",
+      "url": "https://muckrack.com/joseph-akwiri"
+    },
+    {
+      "name": "Alal, Maurice",
+      "url": "https://muckrack.com/maurice-alal"
+    },
+    {
+      "name": "Albrite, Timothy",
+      "url": "https://muckrack.com/timothy-albrite"
+    },
+    {
+      "name": "Alfan, Sam",
+      "url": "https://muckrack.com/sam-alfan"
+    },
+    {
+      "name": "Ali, Yusuf",
+      "url": "https://muckrack.com/yusufdido"
+    },
+    {
+      "name": "Allan, Adalla",
+      "url": "https://muckrack.com/adalla_allan"
+    },
+    {
+      "name": "Alushula, Patrick",
+      "url": "https://muckrack.com/patrick-alushula-1"
+    },
+    {
+      "name": "Amadala, Victor",
+      "url": "https://muckrack.com/itsamadala"
+    },
+    {
+      "name": "Amalemba, Robert",
+      "url": "https://muckrack.com/robert-amalemba"
+    },
+    {
+      "name": "AMING\u00e1, EZEKIEL",
+      "url": "https://muckrack.com/ezekiel-aminga"
+    },
+    {
+      "name": "Amolo, George",
+      "url": "https://muckrack.com/george-amolo"
+    },
+    {
+      "name": "Amondi, Agnes",
+      "url": "https://muckrack.com/agnesamondi"
+    },
+    {
+      "name": "Anami, Luke",
+      "url": "https://muckrack.com/luke-anami-1"
+    },
+    {
+      "name": "Andenga, Shadrack",
+      "url": "https://muckrack.com/shadrack-andenga"
+    },
+    {
+      "name": "Andrew, Mwalimu",
+      "url": "https://muckrack.com/mwalimu-andrew"
+    },
+    {
+      "name": "Anene, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-anene"
+    },
+    {
+      "name": "Angira, Zadock",
+      "url": "https://muckrack.com/zadock-angira"
+    },
+    {
+      "name": "Angote, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-angote"
+    },
+    {
+      "name": "Anyango, Anita",
+      "url": "https://muckrack.com/anita-anyango"
+    },
+    {
+      "name": "Anyango, Manny",
+      "url": "https://muckrack.com/manny-anyango-2"
+    },
+    {
+      "name": "Apollo, Caxton",
+      "url": "https://muckrack.com/caxton-apollo"
+    },
+    {
+      "name": "Aradi, Gloria",
+      "url": "https://muckrack.com/gloria-aradi"
+    },
+    {
+      "name": "Arap Lagat, Alphas",
+      "url": "https://muckrack.com/alphas-lagat"
+    },
+    {
+      "name": "Asamba, Mercy",
+      "url": "https://muckrack.com/mercy-asamba"
+    },
+    {
+      "name": "Aseka, Ivy",
+      "url": "https://muckrack.com/aseka_ivy"
+    },
+    {
+      "name": "Aseka, Ken",
+      "url": "https://muckrack.com/ken-aseka"
+    },
+    {
+      "name": "Ashiali, Godfrey",
+      "url": "https://muckrack.com/godfrey-ashiali"
+    },
+    {
+      "name": "Ashihundu, John",
+      "url": "https://muckrack.com/john-ashihundu"
+    },
+    {
+      "name": "Astariko, Stephen",
+      "url": "https://muckrack.com/stephen-astariko"
+    },
+    {
+      "name": "Atamba, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-atamba"
+    },
+    {
+      "name": "Ateka, Samson",
+      "url": "https://muckrack.com/samson-ateka"
+    },
+    {
+      "name": "Atemanke, Jude",
+      "url": "https://muckrack.com/jude-atemanke"
+    },
+    {
+      "name": "Awich, Luke",
+      "url": "https://muckrack.com/luke-awich"
+    },
+    {
+      "name": "Awiti, Tony",
+      "url": "https://muckrack.com/tony-awiti"
+    },
+    {
+      "name": "Ayodi, Ayumba",
+      "url": "https://muckrack.com/ayumba-ayodi"
+    },
+    {
+      "name": "Ayub, Simon",
+      "url": "https://muckrack.com/simon-ayub"
+    },
+    {
+      "name": "Baraka, Carey",
+      "url": "https://muckrack.com/carey-baraka"
+    },
+    {
+      "name": "Barasa, Lucas",
+      "url": "https://muckrack.com/ekatoroto"
+    },
+    {
+      "name": "Baraza, Lawrence",
+      "url": "https://muckrack.com/lawrence-baraza-1"
+    },
+    {
+      "name": "Bedell, Jean",
+      "url": "https://muckrack.com/jean-bedell"
+    },
+    {
+      "name": "Beja, Patrick",
+      "url": "https://muckrack.com/patrick-beja"
+    },
+    {
+      "name": "Benjamin, Imende",
+      "url": "https://muckrack.com/imende-benjamin"
+    },
+    {
+      "name": "Bett, Ken",
+      "url": "https://muckrack.com/ken-bett-1"
+    },
+    {
+      "name": "Bii, Barnabas",
+      "url": "https://muckrack.com/barnabas-bii"
+    },
+    {
+      "name": "Biko, Jackson",
+      "url": "https://muckrack.com/jackson-biko"
+    },
+    {
+      "name": "Bindra, Sunny",
+      "url": "https://muckrack.com/sunny-bindra-1"
+    },
+    {
+      "name": "Boafo, Godfred Akoto",
+      "url": "https://muckrack.com/godfred-akoto-boafo"
+    },
+    {
+      "name": "Bocha, Galgalo",
+      "url": "https://muckrack.com/galgalo-bocha"
+    },
+    {
+      "name": "Brian, Ndungu",
+      "url": "https://muckrack.com/ndungu-brian"
+    },
+    {
+      "name": "Brown, Kelvin",
+      "url": "https://muckrack.com/kelvin-brown"
+    },
+    {
+      "name": "Bukenya, Austin",
+      "url": "https://muckrack.com/austin-bukenya"
+    },
+    {
+      "name": "Buluku, Allan",
+      "url": "https://muckrack.com/allan-buluku"
+    },
+    {
+      "name": "Burrows, Olive",
+      "url": "https://muckrack.com/olive-burrows"
+    },
+    {
+      "name": "Bwakali, David John",
+      "url": "https://muckrack.com/david-john-bwakali"
+    },
+    {
+      "name": "Bwana, Joackim",
+      "url": "https://muckrack.com/joackim-bwana"
+    },
+    {
+      "name": "Bwire, Thomas",
+      "url": "https://muckrack.com/thomas-bwire"
+    },
+    {
+      "name": "Bwire, Vera",
+      "url": "https://muckrack.com/vera-bwire-1"
+    },
+    {
+      "name": "Byron, Ian",
+      "url": "https://muckrack.com/ian-byron"
+    },
+    {
+      "name": "Cagayare, Abdifitah Ibrahim",
+      "url": "https://muckrack.com/abdifitah-ibrahim-cagayare"
+    },
+    {
+      "name": "Cavince, Adhere",
+      "url": "https://muckrack.com/adhere-cavince"
+    },
+    {
+      "name": "Chacha, Gardy",
+      "url": "https://muckrack.com/gardy-chacha"
+    },
+    {
+      "name": "Chagema, Alexander",
+      "url": "https://muckrack.com/alexander-chagema"
+    },
+    {
+      "name": "Chai, Maryann",
+      "url": "https://muckrack.com/maryann-chai"
+    },
+    {
+      "name": "Chamwada, Alex",
+      "url": "https://muckrack.com/alex-chamwada"
+    },
+    {
+      "name": "Chandianya, Faith",
+      "url": "https://muckrack.com/faith-chandianya"
+    },
+    {
+      "name": "Chebet, Caroline",
+      "url": "https://muckrack.com/caroline-chebet-1"
+    },
+    {
+      "name": "Chebet, Emily",
+      "url": "https://muckrack.com/emily-chebet-2"
+    },
+    {
+      "name": "Chege, Daniel",
+      "url": "https://muckrack.com/daniel-chege"
+    },
+    {
+      "name": "Cheloti, Joshua",
+      "url": "https://muckrack.com/joshua-cheloti"
+    },
+    {
+      "name": "Chepkoech, Anita",
+      "url": "https://muckrack.com/anita-chepkoech"
+    },
+    {
+      "name": "Chepkwony, Julius",
+      "url": "https://muckrack.com/julius-chepkwony"
+    },
+    {
+      "name": "Chepkwony, Yvonne",
+      "url": "https://muckrack.com/yvonne-chepkwony"
+    },
+    {
+      "name": "Cheploen, Noah",
+      "url": "https://muckrack.com/noah-cheploen"
+    },
+    {
+      "name": "Cheruiyot, Kevin",
+      "url": "https://muckrack.com/kevin-cheruiyot"
+    },
+    {
+      "name": "Ciuri, Simon",
+      "url": "https://muckrack.com/simon-ciuri"
+    },
+    {
+      "name": "Denton, Jack",
+      "url": "https://muckrack.com/jack-denton-3"
+    },
+    {
+      "name": "Dhaysane, Mohammed",
+      "url": "https://muckrack.com/mdhaaysane"
+    },
+    {
+      "name": "Diallo, Mariama",
+      "url": "https://muckrack.com/mariama-diallo-14"
+    },
+    {
+      "name": "Dianah, Esther",
+      "url": "https://muckrack.com/esther-dianah-1"
+    },
+    {
+      "name": "Dibondo, Dennis",
+      "url": "https://muckrack.com/dennis-dibondo"
+    },
+    {
+      "name": "Duggan, Briana",
+      "url": "https://muckrack.com/briana-duggan-4"
+    },
+    {
+      "name": "Eliud, Kibii",
+      "url": "https://muckrack.com/kibii-eliud"
+    },
+    {
+      "name": "Eparis, Imou",
+      "url": "https://muckrack.com/imou-eparis-1"
+    },
+    {
+      "name": "Eshitemi, Rodgers",
+      "url": "https://muckrack.com/rodgers-eshitemi"
+    },
+    {
+      "name": "Etemesi, Philip",
+      "url": "https://muckrack.com/philip-etemesi"
+    },
+    {
+      "name": "Etyang, Hesborn",
+      "url": "https://muckrack.com/hesborn-etyang"
+    },
+    {
+      "name": "Etyang, Perpetua",
+      "url": "https://muckrack.com/perpetua-etyang-1"
+    },
+    {
+      "name": "Fayzan, Zowan",
+      "url": "https://muckrack.com/zowan-fayzan-1"
+    },
+    {
+      "name": "Fox, John",
+      "url": "https://muckrack.com/john-fox"
+    },
+    {
+      "name": "Gachane, Ndung'U",
+      "url": "https://muckrack.com/ndungu-gachane-1"
+    },
+    {
+      "name": "Gacharira, Samuel",
+      "url": "https://muckrack.com/samuel-gacharira"
+    },
+    {
+      "name": "Gachigi, George",
+      "url": "https://muckrack.com/georgegachigi"
+    },
+    {
+      "name": "Gachuhi, Kennedy",
+      "url": "https://muckrack.com/kennedy-gachuhi"
+    },
+    {
+      "name": "Gachuri, Francis",
+      "url": "https://muckrack.com/francis-gachuri"
+    },
+    {
+      "name": "Gaitho, Macharia",
+      "url": "https://muckrack.com/macharia-gaitho"
+    },
+    {
+      "name": "Gakweli, Mwakaneno",
+      "url": "https://muckrack.com/ally-gakweli"
+    },
+    {
+      "name": "Gari, Alphonce",
+      "url": "https://muckrack.com/alphonce-gari"
+    },
+    {
+      "name": "Gathara, Patrick",
+      "url": "https://muckrack.com/patrick-gathara"
+    },
+    {
+      "name": "George, Ooro",
+      "url": "https://muckrack.com/ooro-george-2"
+    },
+    {
+      "name": "Gichana, Angwenyi",
+      "url": "https://muckrack.com/angwenyi-gichana"
+    },
+    {
+      "name": "Gicheru, Martin",
+      "url": "https://muckrack.com/martin-gicheru"
+    },
+    {
+      "name": "Gicheru Kinyua, Brian",
+      "url": "https://muckrack.com/brian-gicheru-kinyua-1"
+    },
+    {
+      "name": "Gicobi, Maryanne",
+      "url": "https://muckrack.com/maryanne-gicobi-1"
+    },
+    {
+      "name": "Gikandi, Boniface",
+      "url": "https://muckrack.com/boniface-gikandi"
+    },
+    {
+      "name": "Gikandi, Halima",
+      "url": "https://muckrack.com/halima-gikandi"
+    },
+    {
+      "name": "Gikima, Alex",
+      "url": "https://muckrack.com/alex-gikima-2"
+    },
+    {
+      "name": "Ginni, Edwin",
+      "url": "https://muckrack.com/edwin-ginni"
+    },
+    {
+      "name": "Gisesa, Nyambega",
+      "url": "https://muckrack.com/nyambega-gisesa"
+    },
+    {
+      "name": "Gitau, Bernard",
+      "url": "https://muckrack.com/bernard-gitau"
+    },
+    {
+      "name": "Gitau, Elly",
+      "url": "https://muckrack.com/elijahgitau"
+    },
+    {
+      "name": "Gitau, Evelyn",
+      "url": "https://muckrack.com/evelyn-gitau"
+    },
+    {
+      "name": "Githae, Wanjohi",
+      "url": "https://muckrack.com/wanjohi-githae"
+    },
+    {
+      "name": "Githaiga, Peterson",
+      "url": "https://muckrack.com/peterson-githaiga"
+    },
+    {
+      "name": "Githongo, John",
+      "url": "https://muckrack.com/john-githongo"
+    },
+    {
+      "name": "Githugo, Lucy",
+      "url": "https://muckrack.com/lucy-githugo"
+    },
+    {
+      "name": "Gitogo, Wandiri",
+      "url": "https://muckrack.com/wandiri-gitogo"
+    },
+    {
+      "name": "Gitonga, Anthony",
+      "url": "https://muckrack.com/anthony-gitonga"
+    },
+    {
+      "name": "Gitonga, Nancy",
+      "url": "https://muckrack.com/nancy-gitonga"
+    },
+    {
+      "name": "Gituku, Fred",
+      "url": "https://muckrack.com/fred-gituku"
+    },
+    {
+      "name": "Goodwin, Georgina",
+      "url": "https://muckrack.com/georgina-goodwin"
+    },
+    {
+      "name": "Gray, Conrad",
+      "url": "https://muckrack.com/conrad-gray-1"
+    },
+    {
+      "name": "Guguyu, Otiato",
+      "url": "https://muckrack.com/otiato-guguyu"
+    },
+    {
+      "name": "Guyo, Kaltum",
+      "url": "https://muckrack.com/kaltum-guyo"
+    },
+    {
+      "name": "Gwengi, Isaiah",
+      "url": "https://muckrack.com/isaiah-gwengi"
+    },
+    {
+      "name": "Hafsah, Zainab",
+      "url": "https://muckrack.com/zainab-hafsah-1"
+    },
+    {
+      "name": "Hakeenah, Njenga",
+      "url": "https://muckrack.com/njenga_hakeenah"
+    },
+    {
+      "name": "Hare, Harry",
+      "url": "https://muckrack.com/harry-hare"
+    },
+    {
+      "name": "Harper, Mary",
+      "url": "https://muckrack.com/mary_harper"
+    },
+    {
+      "name": "Hart, Chris",
+      "url": "https://muckrack.com/chris-hart-6"
+    },
+    {
+      "name": "Hassan, Lulu",
+      "url": "https://muckrack.com/lulu-hassan"
+    },
+    {
+      "name": "Hatimy, Nabila",
+      "url": "https://muckrack.com/nabila-hatimy"
+    },
+    {
+      "name": "Herbling, David",
+      "url": "https://muckrack.com/david-herbling"
+    },
+    {
+      "name": "Hicks, Tyler",
+      "url": "https://muckrack.com/tylerhicksphoto"
+    },
+    {
+      "name": "Houttuin, Saskia",
+      "url": "https://muckrack.com/saskia-houttuin-1"
+    },
+    {
+      "name": "Hussein, Sumaya",
+      "url": "https://muckrack.com/sumaya-hussein"
+    },
+    {
+      "name": "Ibrahim, Sarah",
+      "url": "https://muckrack.com/sarah-ibrahim"
+    },
+    {
+      "name": "Icia, Jacob",
+      "url": "https://muckrack.com/jacob-icia"
+    },
+    {
+      "name": "Imboto, Victor",
+      "url": "https://muckrack.com/victor-imboto"
+    },
+    {
+      "name": "Iraki, XN",
+      "url": "https://muckrack.com/xn-iraki"
+    },
+    {
+      "name": "Iribagiza, Glory",
+      "url": "https://muckrack.com/glory-iribagiza"
+    },
+    {
+      "name": "Isaboke, Alex",
+      "url": "https://muckrack.com/alex-isaboke"
+    },
+    {
+      "name": "Isige, John",
+      "url": "https://muckrack.com/john-isige"
+    },
+    {
+      "name": "Jabbal, Harleen",
+      "url": "https://muckrack.com/harleen-jabbal"
+    },
+    {
+      "name": "Jacob, Elkana",
+      "url": "https://muckrack.com/elkana-jacob"
+    },
+    {
+      "name": "James, Harriet",
+      "url": "https://muckrack.com/harriet86jim"
+    },
+    {
+      "name": "Jared, Too",
+      "url": "https://muckrack.com/too-jared"
+    },
+    {
+      "name": "Joseph, Kipsang",
+      "url": "https://muckrack.com/joseph-kipsang"
+    },
+    {
+      "name": "Jowi, Frenny",
+      "url": "https://muckrack.com/fjowi"
+    },
+    {
+      "name": "Jr., Nigel",
+      "url": "https://muckrack.com/nigel-jr"
+    },
+    {
+      "name": "Juma, George",
+      "url": "https://muckrack.com/george-juma"
+    },
+    {
+      "name": "Jumaa, Hassan",
+      "url": "https://muckrack.com/hassan-jumaa"
+    },
+    {
+      "name": "Jura, Joyce",
+      "url": "https://muckrack.com/joyce-jura"
+    },
+    {
+      "name": "Jura, Samson",
+      "url": "https://muckrack.com/samson-jura"
+    },
+    {
+      "name": "Kabale, Nasibo",
+      "url": "https://muckrack.com/nasibo-kabale-1"
+    },
+    {
+      "name": "Kabintie, Winnie",
+      "url": "https://muckrack.com/winnie-kabintie"
+    },
+    {
+      "name": "Kabunyi, Fidelis",
+      "url": "https://muckrack.com/fidelis-kabunyi"
+    },
+    {
+      "name": "Kadida, Jillo",
+      "url": "https://muckrack.com/jillo-kadida"
+    },
+    {
+      "name": "Kafeero, Stephen",
+      "url": "https://muckrack.com/stephen-kafeero"
+    },
+    {
+      "name": "Kagombe, Warren",
+      "url": "https://muckrack.com/kagombewarren"
+    },
+    {
+      "name": "Kagonye, Fred",
+      "url": "https://muckrack.com/fredrick-kagonye"
+    },
+    {
+      "name": "Kagwanja, Peter",
+      "url": "https://muckrack.com/peter-kagwanja"
+    },
+    {
+      "name": "Kahenda, Mercy",
+      "url": "https://muckrack.com/mercy-kahenda"
+    },
+    {
+      "name": "Kahinju, Jefferson",
+      "url": "https://muckrack.com/jefferson-kahinju-1"
+    },
+    {
+      "name": "Kahongeh, James",
+      "url": "https://muckrack.com/james-kahongeh-1"
+    },
+    {
+      "name": "Kahungu, Evelyn",
+      "url": "https://muckrack.com/evelyn-kahungu"
+    },
+    {
+      "name": "Kajilwa, Graham",
+      "url": "https://muckrack.com/graham-kajilwa"
+    },
+    {
+      "name": "Kakai, Oscar",
+      "url": "https://muckrack.com/oscar-kakai"
+    },
+    {
+      "name": "Kalekye, Margaret",
+      "url": "https://muckrack.com/margaret-kalekye"
+    },
+    {
+      "name": "Kaloki, Michael",
+      "url": "https://muckrack.com/michael-kaloki"
+    },
+    {
+      "name": "Kamau, John",
+      "url": "https://muckrack.com/john-kamau"
+    },
+    {
+      "name": "Kamau, Macharia",
+      "url": "https://muckrack.com/macharia-kamau"
+    },
+    {
+      "name": "Kamunya, Mercy",
+      "url": "https://muckrack.com/mercy-kamunya"
+    },
+    {
+      "name": "Kangogo, Joseph",
+      "url": "https://muckrack.com/joseph-kangogo"
+    },
+    {
+      "name": "Kanja, Kirsten",
+      "url": "https://muckrack.com/kirsten-kanja-2"
+    },
+    {
+      "name": "Kantai, Samuel",
+      "url": "https://muckrack.com/samuel-kantai"
+    },
+    {
+      "name": "Kanuri, Wangu",
+      "url": "https://muckrack.com/wangu-kanuri-1"
+    },
+    {
+      "name": "Kanyamwaya, Bonfce",
+      "url": "https://muckrack.com/bonface-otieno"
+    },
+    {
+      "name": "Karanja, Faith",
+      "url": "https://muckrack.com/faith-karanja"
+    },
+    {
+      "name": "Karanja, Ibrahim",
+      "url": "https://muckrack.com/ibrahim-karanja-1"
+    },
+    {
+      "name": "Kareithi, Amos",
+      "url": "https://muckrack.com/amos-kareithi"
+    },
+    {
+      "name": "Kariuki, Isaac",
+      "url": "https://muckrack.com/isaac-kariuki-2"
+    },
+    {
+      "name": "Karugu, Mathenge",
+      "url": "https://muckrack.com/david-karugu"
+    },
+    {
+      "name": "Karuri, Ken",
+      "url": "https://muckrack.com/ken-karuri"
+    },
+    {
+      "name": "Kasuku, Maureen",
+      "url": "https://muckrack.com/maureen-kasuku"
+    },
+    {
+      "name": "Kazungu, Kalume",
+      "url": "https://muckrack.com/kalume-kazungu"
+    },
+    {
+      "name": "Kebaso, George",
+      "url": "https://muckrack.com/george-kebaso"
+    },
+    {
+      "name": "Kejitan, Vincent",
+      "url": "https://muckrack.com/vinniesta"
+    },
+    {
+      "name": "Kelvin AbdulKareem, Ikaria",
+      "url": "https://muckrack.com/ikaria-kelvin-abdulkareem"
+    },
+    {
+      "name": "Kemibaro, Moses",
+      "url": "https://muckrack.com/moses-kemibaro"
+    },
+    {
+      "name": "Kennedy, Fred",
+      "url": "https://muckrack.com/fred-kennedy"
+    },
+    {
+      "name": "Kerongo, Grace",
+      "url": "https://muckrack.com/grace-kerongo"
+    },
+    {
+      "name": "Keter, Gideon",
+      "url": "https://muckrack.com/gideon-keter"
+    },
+    {
+      "name": "Keter, Steve",
+      "url": "https://muckrack.com/steve-keter"
+    },
+    {
+      "name": "Kiage, Nyaboga",
+      "url": "https://muckrack.com/nyaboga-kiage"
+    },
+    {
+      "name": "Kiambo, Carolyne",
+      "url": "https://muckrack.com/carolyne-kiambo"
+    },
+    {
+      "name": "Kiarie, Charles",
+      "url": "https://muckrack.com/charles-kiarie"
+    },
+    {
+      "name": "Kiberenge, Kenfrey",
+      "url": "https://muckrack.com/kenkiberenge"
+    },
+    {
+      "name": "Kibor, Fred",
+      "url": "https://muckrack.com/fred-kibor"
+    },
+    {
+      "name": "Kibugi, Tabby",
+      "url": "https://muckrack.com/tabby-kibugi"
+    },
+    {
+      "name": "Kibui, Rachel",
+      "url": "https://muckrack.com/rachel-kibui"
+    },
+    {
+      "name": "Kigia, Edith",
+      "url": "https://muckrack.com/edith-kigia"
+    },
+    {
+      "name": "Kigongo, Siki",
+      "url": "https://muckrack.com/siki-kigongo"
+    },
+    {
+      "name": "Kiguru, John",
+      "url": "https://muckrack.com/john-kiguru"
+    },
+    {
+      "name": "Kiguta, Anne",
+      "url": "https://muckrack.com/anne-kiguta"
+    },
+    {
+      "name": "Kihaki, Mike",
+      "url": "https://muckrack.com/mike-kihaki"
+    },
+    {
+      "name": "Kimani, Brian",
+      "url": "https://muckrack.com/brian-kimani"
+    },
+    {
+      "name": "Kimani, Jeffardson",
+      "url": "https://muckrack.com/jeffardson-kimani"
+    },
+    {
+      "name": "Kimega, Godfrey",
+      "url": "https://muckrack.com/godfrey-kimega"
+    },
+    {
+      "name": "Kimetto, Kiprotich",
+      "url": "https://muckrack.com/kiprotich-kimetto"
+    },
+    {
+      "name": "Kimuge, Stanley",
+      "url": "https://muckrack.com/stanley-kimuge"
+    },
+    {
+      "name": "Kimutai, Vitalis",
+      "url": "https://muckrack.com/vitalis-kimutai"
+    },
+    {
+      "name": "Kimuyu, Hilary",
+      "url": "https://muckrack.com/hilary-kimuyu"
+    },
+    {
+      "name": "Kinyanjui, Maureen",
+      "url": "https://muckrack.com/maureen-kinyanjui"
+    },
+    {
+      "name": "Kinyua, Anthony",
+      "url": "https://muckrack.com/anthony-kinyua-1"
+    },
+    {
+      "name": "Kipkemoi, Felix",
+      "url": "https://muckrack.com/felix-kipkemoi"
+    },
+    {
+      "name": "Kiplagat, Robert",
+      "url": "https://muckrack.com/robert-kiplagat"
+    },
+    {
+      "name": "Kiplagat, Sam",
+      "url": "https://muckrack.com/sam-kiplagat"
+    },
+    {
+      "name": "Kipngeno, Edmond",
+      "url": "https://muckrack.com/edmond-kipngeno-2"
+    },
+    {
+      "name": "Kiprono, Demas",
+      "url": "https://muckrack.com/demas-kiprono"
+    },
+    {
+      "name": "Kiprono, Felix",
+      "url": "https://muckrack.com/felixkiprono"
+    },
+    {
+      "name": "Kiprotich, Gilbert",
+      "url": "https://muckrack.com/gilbert-kiprotich"
+    },
+    {
+      "name": "Kirobi, Paul",
+      "url": "https://muckrack.com/paul-kirobi"
+    },
+    {
+      "name": "Kirong', Esther",
+      "url": "https://muckrack.com/esther-kirong"
+    },
+    {
+      "name": "Kiruga, Morris",
+      "url": "https://muckrack.com/morris-kiruga-1"
+    },
+    {
+      "name": "Kirui, Ben",
+      "url": "https://muckrack.com/ben-kirui"
+    },
+    {
+      "name": "Kirui, Kiplangat",
+      "url": "https://muckrack.com/kiplangat-kirui-1264332"
+    },
+    {
+      "name": "Kisanji, Brian",
+      "url": "https://muckrack.com/brian-kisanji"
+    },
+    {
+      "name": "Kisia, Allan",
+      "url": "https://muckrack.com/allan-kisia"
+    },
+    {
+      "name": "Kitema, Lawrence",
+      "url": "https://muckrack.com/lawrence-kitema"
+    },
+    {
+      "name": "Kithanze, Muthoki",
+      "url": "https://muckrack.com/muthoki-kithanze"
+    },
+    {
+      "name": "Kitoto, Philip",
+      "url": "https://muckrack.com/philip-kitoto"
+    },
+    {
+      "name": "Kiunga, Murori",
+      "url": "https://muckrack.com/murori-kiunga"
+    },
+    {
+      "name": "Kiura, Alfred",
+      "url": "https://muckrack.com/alfred-kiura"
+    },
+    {
+      "name": "Kivuva, Elizabeth",
+      "url": "https://muckrack.com/elizabethkivuva"
+    },
+    {
+      "name": "Klomegah, Kester Kenn",
+      "url": "https://muckrack.com/kester-kenn-klomegah"
+    },
+    {
+      "name": "Koech, Florah",
+      "url": "https://muckrack.com/florah-koech"
+    },
+    {
+      "name": "Komen, Jonathan",
+      "url": "https://muckrack.com/jonathan-komen"
+    },
+    {
+      "name": "Korir, Barnaba",
+      "url": "https://muckrack.com/barnaba-korir"
+    },
+    {
+      "name": "Koskei, Silah",
+      "url": "https://muckrack.com/silah-koskei"
+    },
+    {
+      "name": "Kubwa, Carolyne",
+      "url": "https://muckrack.com/carolyne-kubwa"
+    },
+    {
+      "name": "Kuhudzai, Remeredzai Joseph",
+      "url": "https://muckrack.com/remeredzai-joseph-kuhudzai"
+    },
+    {
+      "name": "Kulundu, Mary",
+      "url": "https://muckrack.com/mary-kulundu"
+    },
+    {
+      "name": "Kurgat, Paul",
+      "url": "https://muckrack.com/paul-kurgat-1"
+    },
+    {
+      "name": "Kuria, Grace",
+      "url": "https://muckrack.com/grace-kuria-1"
+    },
+    {
+      "name": "Kushner, Jacob",
+      "url": "https://muckrack.com/jacob-kushner"
+    },
+    {
+      "name": "Kwach, Julie",
+      "url": "https://muckrack.com/julie-kwach"
+    },
+    {
+      "name": "Kwamboka, Everlyne Judith",
+      "url": "https://muckrack.com/everlyne-judith-kwamboka"
+    },
+    {
+      "name": "Kyalo, Adongo",
+      "url": "https://muckrack.com/adongo-kyalo"
+    },
+    {
+      "name": "Kyanda, John",
+      "url": "https://muckrack.com/john-kyanda"
+    },
+    {
+      "name": "Lacave, Claudia",
+      "url": "https://muckrack.com/claudia-lacave"
+    },
+    {
+      "name": "Lang'at, Patrick",
+      "url": "https://muckrack.com/patricklangat"
+    },
+    {
+      "name": "Langat, Anthony",
+      "url": "https://muckrack.com/anthony-langat"
+    },
+    {
+      "name": "Lawi, Jacktone",
+      "url": "https://muckrack.com/jacktone-lawi-2"
+    },
+    {
+      "name": "Lepapa, Naipanoi",
+      "url": "https://muckrack.com/naipanoi-lepapa-1"
+    },
+    {
+      "name": "Lidigu, Leon",
+      "url": "https://muckrack.com/leon-lidigu-1"
+    },
+    {
+      "name": "Ligami, Christabel",
+      "url": "https://muckrack.com/christabel-ligami"
+    },
+    {
+      "name": "Lillian, Scovian",
+      "url": "https://muckrack.com/scovian-lillian"
+    },
+    {
+      "name": "Litu, Alex",
+      "url": "https://muckrack.com/alex-litu"
+    },
+    {
+      "name": "Lubanga, Dennis",
+      "url": "https://muckrack.com/dennis-lubanga"
+    },
+    {
+      "name": "Luchetu, Calistus",
+      "url": "https://muckrack.com/calistus-luchetu"
+    },
+    {
+      "name": "Luesby, Jenny",
+      "url": "https://muckrack.com/jenny-luesby"
+    },
+    {
+      "name": "Lukhanyu, Val",
+      "url": "https://muckrack.com/val-lukhanyu"
+    },
+    {
+      "name": "lungai, Eric",
+      "url": "https://muckrack.com/eric-lungai"
+    },
+    {
+      "name": "Lutta, Sammy",
+      "url": "https://muckrack.com/sammy-lutta"
+    },
+    {
+      "name": "Luvega, Derick",
+      "url": "https://muckrack.com/derick-luvega"
+    },
+    {
+      "name": "Mabonga, Masolo",
+      "url": "https://muckrack.com/walter-mabonga"
+    },
+    {
+      "name": "Macharia, David",
+      "url": "https://muckrack.com/david-macharia"
+    },
+    {
+      "name": "Macharia, Wanjiru",
+      "url": "https://muckrack.com/wanjiru-macharia"
+    },
+    {
+      "name": "Madiavale Busisa, Hillary",
+      "url": "https://muckrack.com/hillary-madiavale-busisa"
+    },
+    {
+      "name": "Madowo, Larry",
+      "url": "https://muckrack.com/larrymadowo"
+    },
+    {
+      "name": "Madyun, Aaliyah N.",
+      "url": "https://muckrack.com/aaliyah-n-madyun"
+    },
+    {
+      "name": "Magak, Adhiambo Edith",
+      "url": "https://muckrack.com/edith-magak"
+    },
+    {
+      "name": "Magak, Chrisphine",
+      "url": "https://muckrack.com/chrisphine-magak"
+    },
+    {
+      "name": "Maganga, Beatrice",
+      "url": "https://muckrack.com/beatrice-maganga"
+    },
+    {
+      "name": "Mageka, Hillary",
+      "url": "https://muckrack.com/hillary-mageka"
+    },
+    {
+      "name": "Magomere, Donald",
+      "url": "https://muckrack.com/donald-magomere"
+    },
+    {
+      "name": "Mahmoud, Luqman",
+      "url": "https://muckrack.com/luqman-mahmoud"
+    },
+    {
+      "name": "Maichuhie, Kamau",
+      "url": "https://muckrack.com/kamau-maichuhie"
+    },
+    {
+      "name": "Maina, Adam",
+      "url": "https://muckrack.com/adammaina"
+    },
+    {
+      "name": "Maina, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-maina"
+    },
+    {
+      "name": "Maina, Mwangi",
+      "url": "https://muckrack.com/mwangi-maina"
+    },
+    {
+      "name": "Maina, Njange",
+      "url": "https://muckrack.com/njange-maina"
+    },
+    {
+      "name": "Maina, Nyaruai",
+      "url": "https://muckrack.com/nyaruai-maina"
+    },
+    {
+      "name": "Maina, Waikwa",
+      "url": "https://muckrack.com/waikwa-maina"
+    },
+    {
+      "name": "Majale, Benard",
+      "url": "https://muckrack.com/benard-majale"
+    },
+    {
+      "name": "Majale, Julia",
+      "url": "https://muckrack.com/julia_majale"
+    },
+    {
+      "name": "Makena, Winnie",
+      "url": "https://muckrack.com/winnie-makena-1"
+    },
+    {
+      "name": "Makokha, Kwamchetsi",
+      "url": "https://muckrack.com/kwamchetsi-makokha"
+    },
+    {
+      "name": "Makokha, Shaban",
+      "url": "https://muckrack.com/shaban-makokha"
+    },
+    {
+      "name": "Malwa, Charlene",
+      "url": "https://muckrack.com/charlene-malwa"
+    },
+    {
+      "name": "Mandala, Victor",
+      "url": "https://muckrack.com/victor-mandala"
+    },
+    {
+      "name": "Mangat, Rupi",
+      "url": "https://muckrack.com/rupi-mangat"
+    },
+    {
+      "name": "Maobe, Melisa",
+      "url": "https://muckrack.com/melissa-maobe"
+    },
+    {
+      "name": "Marete, Gitonga",
+      "url": "https://muckrack.com/gitonga-marete"
+    },
+    {
+      "name": "Marindany, Kurgat",
+      "url": "https://muckrack.com/kurgat-marindany"
+    },
+    {
+      "name": "Marsh, Simon",
+      "url": "https://muckrack.com/simon-marsh"
+    },
+    {
+      "name": "Maruti, Kizito",
+      "url": "https://muckrack.com/kizito-maruti"
+    },
+    {
+      "name": "Masika, Clause",
+      "url": "https://muckrack.com/clause-masika"
+    },
+    {
+      "name": "Masinde, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-masinde-1"
+    },
+    {
+      "name": "Matabvu, Debra",
+      "url": "https://muckrack.com/debra-matabvu-1"
+    },
+    {
+      "name": "Matara, Victor",
+      "url": "https://muckrack.com/victormatara"
+    },
+    {
+      "name": "Mathiu, Mutuma",
+      "url": "https://muckrack.com/mutuma-mathiu"
+    },
+    {
+      "name": "Matiko, Sinda",
+      "url": "https://muckrack.com/thomas-matiko"
+    },
+    {
+      "name": "Matinde, Vincent",
+      "url": "https://muckrack.com/vincent-matinde"
+    },
+    {
+      "name": "Mativo, Stanley",
+      "url": "https://muckrack.com/stanley-mativo"
+    },
+    {
+      "name": "Matoke, Tom",
+      "url": "https://muckrack.com/tom-matoke"
+    },
+    {
+      "name": "Maua, Isabella",
+      "url": "https://muckrack.com/isabella-maua"
+    },
+    {
+      "name": "Maundu, Pius",
+      "url": "https://muckrack.com/pius-maundu"
+    },
+    {
+      "name": "Mayamba, Nicholas",
+      "url": "https://muckrack.com/nicholas-mayamba"
+    },
+    {
+      "name": "Mayoyo, Patrick",
+      "url": "https://muckrack.com/pmayoyo"
+    },
+    {
+      "name": "Mbabazi, Joan",
+      "url": "https://muckrack.com/joan-mbabazi"
+    },
+    {
+      "name": "Mbaka, James",
+      "url": "https://muckrack.com/james-mbaka"
+    },
+    {
+      "name": "Mboco, Nelson",
+      "url": "https://muckrack.com/nelson-mboco"
+    },
+    {
+      "name": "Mboga, Jael",
+      "url": "https://muckrack.com/jael-mboga"
+    },
+    {
+      "name": "Mboya, Duncan",
+      "url": "https://muckrack.com/duncan-mboya"
+    },
+    {
+      "name": "MBOYA, VICTOR",
+      "url": "https://muckrack.com/victor-mboya-1"
+    },
+    {
+      "name": "Mbugua, Bernice",
+      "url": "https://muckrack.com/bernice-mbugua"
+    },
+    {
+      "name": "Mbugua, Melissa",
+      "url": "https://muckrack.com/melissa-mbugua"
+    },
+    {
+      "name": "Mbugua, Michael",
+      "url": "https://muckrack.com/michael-mbugua"
+    },
+    {
+      "name": "Mburu, Peter",
+      "url": "https://muckrack.com/peter-mburu"
+    },
+    {
+      "name": "Mburu, Simon",
+      "url": "https://muckrack.com/simon-mburu"
+    },
+    {
+      "name": "Mburugu, Charles",
+      "url": "https://muckrack.com/mburugu-charles"
+    },
+    {
+      "name": "Mbuthia, Wanja",
+      "url": "https://muckrack.com/wanja-mbuthia"
+    },
+    {
+      "name": "Meme, Lynnet",
+      "url": "https://muckrack.com/lynnet-meme"
+    },
+    {
+      "name": "Mersie, Ayenat",
+      "url": "https://muckrack.com/ayenat-mersie"
+    },
+    {
+      "name": "Messo, Watson",
+      "url": "https://muckrack.com/watson-messo"
+    },
+    {
+      "name": "Micah, Eugine",
+      "url": "https://muckrack.com/eugine-micah"
+    },
+    {
+      "name": "Mijungu, Ken",
+      "url": "https://muckrack.com/ken-mijungu"
+    },
+    {
+      "name": "Milimo, Dennis",
+      "url": "https://muckrack.com/dennis-milimo"
+    },
+    {
+      "name": "Miller, Fahmida",
+      "url": "https://muckrack.com/fahmida-miller"
+    },
+    {
+      "name": "Millicent, Ajuma",
+      "url": "https://muckrack.com/ajuma-millicent"
+    },
+    {
+      "name": "Minns, Martin S.",
+      "url": "https://muckrack.com/martin-s-minns"
+    },
+    {
+      "name": "Misiko, Harry",
+      "url": "https://muckrack.com/harry-misiko"
+    },
+    {
+      "name": "Mkanyika, Lucy",
+      "url": "https://muckrack.com/lucy-mkanyika"
+    },
+    {
+      "name": "Mkawale, Steve",
+      "url": "https://muckrack.com/steve-mkawale"
+    },
+    {
+      "name": "Mkongo, Malemba",
+      "url": "https://muckrack.com/malemba-mkongo-1"
+    },
+    {
+      "name": "Mnyamwezi, Renson",
+      "url": "https://muckrack.com/renson-mnyamwezi"
+    },
+    {
+      "name": "Mochama, Tony",
+      "url": "https://muckrack.com/tony-mochama-1"
+    },
+    {
+      "name": "Mochere, Victor",
+      "url": "https://muckrack.com/victormochere"
+    },
+    {
+      "name": "Modachi, Okumu",
+      "url": "https://muckrack.com/okumu-modachi-1"
+    },
+    {
+      "name": "Mohamed, Jamila",
+      "url": "https://muckrack.com/jamila-mohamed"
+    },
+    {
+      "name": "Mohamed, Maarufu",
+      "url": "https://muckrack.com/maarufu-mohamed"
+    },
+    {
+      "name": "Mokaya, Steve",
+      "url": "https://muckrack.com/steve-mokaya-1"
+    },
+    {
+      "name": "Mokeira, Gladys",
+      "url": "https://muckrack.com/gladys-mokeira"
+    },
+    {
+      "name": "Moore, Jina",
+      "url": "https://muckrack.com/itsjina"
+    },
+    {
+      "name": "MORAA, DAISY",
+      "url": "https://muckrack.com/daisy-moraa-1"
+    },
+    {
+      "name": "Moses, Vincent",
+      "url": "https://muckrack.com/vincent-moses-1"
+    },
+    {
+      "name": "Motaroki, Kevin",
+      "url": "https://muckrack.com/kevin-motaroki"
+    },
+    {
+      "name": "Mtsumi, Mwahoka",
+      "url": "https://muckrack.com/mwahoka-mtsumi"
+    },
+    {
+      "name": "Muasya, Philip",
+      "url": "https://muckrack.com/philip-muasya"
+    },
+    {
+      "name": "Muchiri, Eutycas",
+      "url": "https://muckrack.com/eutycas-muchiri"
+    },
+    {
+      "name": "Muchiri, Joseph",
+      "url": "https://muckrack.com/joseph-muchiri"
+    },
+    {
+      "name": "Muga, Wycliffe",
+      "url": "https://muckrack.com/wycliffe-muga"
+    },
+    {
+      "name": "Muganda, Maryann",
+      "url": "https://muckrack.com/maryann-anyango"
+    },
+    {
+      "name": "Mugendi, Eric",
+      "url": "https://muckrack.com/eric-mugendi"
+    },
+    {
+      "name": "Mugi, Nicholas",
+      "url": "https://muckrack.com/nicholas-mugi"
+    },
+    {
+      "name": "Mugo, George",
+      "url": "https://muckrack.com/george-mugo"
+    },
+    {
+      "name": "MUHATIA, ABEL",
+      "url": "https://muckrack.com/abel-muhatia-1"
+    },
+    {
+      "name": "Muhindi, Susan",
+      "url": "https://muckrack.com/susan-muhindi"
+    },
+    {
+      "name": "Muia, Grace",
+      "url": "https://muckrack.com/grace-muia"
+    },
+    {
+      "name": "Muimi, Joshua",
+      "url": "https://muckrack.com/joshua-muimi"
+    },
+    {
+      "name": "Muindi, Benjamin",
+      "url": "https://muckrack.com/benjamin-muindi-1"
+    },
+    {
+      "name": "Muiruri, Jane",
+      "url": "https://muckrack.com/jane-muiruri"
+    },
+    {
+      "name": "Muiruri, Salome",
+      "url": "https://muckrack.com/salome-muiruri"
+    },
+    {
+      "name": "Mukami, Lynette",
+      "url": "https://muckrack.com/lynette-mukami"
+    },
+    {
+      "name": "Mukami Mwangi, Susan",
+      "url": "https://muckrack.com/susan-mukami"
+    },
+    {
+      "name": "Mukere, Tony",
+      "url": "https://muckrack.com/tony-mukere"
+    },
+    {
+      "name": "Mukoya, Thomas",
+      "url": "https://muckrack.com/thomas-mukoya"
+    },
+    {
+      "name": "Mulli, Marie",
+      "url": "https://muckrack.com/marie-mulli"
+    },
+    {
+      "name": "Mumo, Agnes",
+      "url": "https://muckrack.com/agnes-mumo"
+    },
+    {
+      "name": "Munene, Danvictor",
+      "url": "https://muckrack.com/danvictor-munene"
+    },
+    {
+      "name": "Munene, Eric",
+      "url": "https://muckrack.com/eric-munene"
+    },
+    {
+      "name": "Munene, George",
+      "url": "https://muckrack.com/george-munene"
+    },
+    {
+      "name": "Mungai, Allan",
+      "url": "https://muckrack.com/allan-mungai"
+    },
+    {
+      "name": "Munyeki, James",
+      "url": "https://muckrack.com/james-munyeki"
+    },
+    {
+      "name": "Munywoki, Francis",
+      "url": "https://muckrack.com/francis-munywoki"
+    },
+    {
+      "name": "Mureithi, Francis",
+      "url": "https://muckrack.com/francis-mureithi"
+    },
+    {
+      "name": "Murigi, Milliam",
+      "url": "https://muckrack.com/milliam-murigi"
+    },
+    {
+      "name": "Muriithi, Johnson",
+      "url": "https://muckrack.com/johnson-muriithi"
+    },
+    {
+      "name": "Murima, Jack",
+      "url": "https://muckrack.com/jack-murima"
+    },
+    {
+      "name": "Murimi, James",
+      "url": "https://muckrack.com/james-murimi"
+    },
+    {
+      "name": "Murimi, Peter",
+      "url": "https://muckrack.com/peter-murimi"
+    },
+    {
+      "name": "Murimi, Racheal",
+      "url": "https://muckrack.com/racheal-murimi"
+    },
+    {
+      "name": "Muriuki, Benjamin",
+      "url": "https://muckrack.com/benjamuriuki"
+    },
+    {
+      "name": "Muriuki, Karen",
+      "url": "https://muckrack.com/karen-muriuki"
+    },
+    {
+      "name": "Musangi, Linah",
+      "url": "https://muckrack.com/linah-musangi"
+    },
+    {
+      "name": "Musasia, Mary",
+      "url": "https://muckrack.com/mary-musasia"
+    },
+    {
+      "name": "Musau, Dennis",
+      "url": "https://muckrack.com/denmusau"
+    },
+    {
+      "name": "Musau, Nzau",
+      "url": "https://muckrack.com/nzau-musau"
+    },
+    {
+      "name": "Musumba, Jael",
+      "url": "https://muckrack.com/jael-musumba"
+    },
+    {
+      "name": "Musyimi, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-musyimi-lifestyle"
+    },
+    {
+      "name": "Musyoka, Carol",
+      "url": "https://muckrack.com/carolmusyoka"
+    },
+    {
+      "name": "Mutambo, Aggrey",
+      "url": "https://muckrack.com/aggrey-mutambo"
+    },
+    {
+      "name": "Mutanu, Bernardine",
+      "url": "https://muckrack.com/bernardine-mutanu1"
+    },
+    {
+      "name": "Mutembei, Phares",
+      "url": "https://muckrack.com/phares-mutembei"
+    },
+    {
+      "name": "Mutethia, Gerald",
+      "url": "https://muckrack.com/gerald-mutethia"
+    },
+    {
+      "name": "Muthama, Collins",
+      "url": "https://muckrack.com/collins-muthama"
+    },
+    {
+      "name": "Muthamia, Baks",
+      "url": "https://muckrack.com/baks-muthamia"
+    },
+    {
+      "name": "Muthini, Stephen",
+      "url": "https://muckrack.com/stephen-muthini"
+    },
+    {
+      "name": "Muthoni, Kamau",
+      "url": "https://muckrack.com/kamau-muthoni"
+    },
+    {
+      "name": "Mutinda, Tracy",
+      "url": "https://muckrack.com/tracy-mutinda"
+    },
+    {
+      "name": "Mutua, John",
+      "url": "https://muckrack.com/john-mutua"
+    },
+    {
+      "name": "Mutua, Kitavi",
+      "url": "https://muckrack.com/kitavi-mutua"
+    },
+    {
+      "name": "Mutua, Makau",
+      "url": "https://muckrack.com/makau-mutua"
+    },
+    {
+      "name": "Mutuk, Ryan",
+      "url": "https://muckrack.com/ryan-mutuk"
+    },
+    {
+      "name": "Mutuko, Mumbi",
+      "url": "https://muckrack.com/mumbi-mutuko-1"
+    },
+    {
+      "name": "Mutura, Jacinta",
+      "url": "https://muckrack.com/jacinta-mutura"
+    },
+    {
+      "name": "Muuo, Brian",
+      "url": "https://muckrack.com/brian-muuo"
+    },
+    {
+      "name": "Mwadosho, Shillah",
+      "url": "https://muckrack.com/shillah-mwadosho"
+    },
+    {
+      "name": "Mwai, Mercy",
+      "url": "https://muckrack.com/mercy-mwai"
+    },
+    {
+      "name": "Mwakideu, Alex",
+      "url": "https://muckrack.com/alex_mwakideu"
+    },
+    {
+      "name": "Mwambia, Purity",
+      "url": "https://muckrack.com/purity-mwambia"
+    },
+    {
+      "name": "Mwamburi, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-mwamburi"
+    },
+    {
+      "name": "Mwangi, Anthony",
+      "url": "https://muckrack.com/anthony-mwangi"
+    },
+    {
+      "name": "Mwangi, Denis",
+      "url": "https://muckrack.com/denismwangi"
+    },
+    {
+      "name": "Mwangi, Dominic",
+      "url": "https://muckrack.com/dominic-mwangi"
+    },
+    {
+      "name": "Mwangi, Irene",
+      "url": "https://muckrack.com/irene-mwangi"
+    },
+    {
+      "name": "Mwangi, Macharia",
+      "url": "https://muckrack.com/macharia-mwangi"
+    },
+    {
+      "name": "Mwangi, Monicah",
+      "url": "https://muckrack.com/monicah-mwangi"
+    },
+    {
+      "name": "Mwangi, Moses",
+      "url": "https://muckrack.com/moses-mwangi"
+    },
+    {
+      "name": "Mwangi, Wachira",
+      "url": "https://muckrack.com/wachira-mwangi"
+    },
+    {
+      "name": "Mwangi, Winnie",
+      "url": "https://muckrack.com/winnie-mwangi"
+    },
+    {
+      "name": "Mwango, Diana",
+      "url": "https://muckrack.com/diana-mwango"
+    },
+    {
+      "name": "Mwaniki, Philip",
+      "url": "https://muckrack.com/mwanikih"
+    },
+    {
+      "name": "Mwanza, Benson",
+      "url": "https://muckrack.com/benson-mwanza"
+    },
+    {
+      "name": "Mwanza, Kevin",
+      "url": "https://muckrack.com/kevin-mwanza"
+    },
+    {
+      "name": "Mwaura, Anne",
+      "url": "https://muckrack.com/anne-mwaura"
+    },
+    {
+      "name": "Mwaura, David",
+      "url": "https://muckrack.com/david-mwaura-1"
+    },
+    {
+      "name": "Mwaura, Peter",
+      "url": "https://muckrack.com/peter-mwaura"
+    },
+    {
+      "name": "Mwenda, David",
+      "url": "https://muckrack.com/david-mwenda"
+    },
+    {
+      "name": "Mwenda, Kenneth",
+      "url": "https://muckrack.com/kenneth-mwenda"
+    },
+    {
+      "name": "Mwende, Miriam",
+      "url": "https://muckrack.com/miriam-mwende"
+    },
+    {
+      "name": "Mwende, Sharon",
+      "url": "https://muckrack.com/sharon-mwende-1"
+    },
+    {
+      "name": "Mwere, David",
+      "url": "https://muckrack.com/david-mwere"
+    },
+    {
+      "name": "Mwihia, Joe",
+      "url": "https://muckrack.com/joe-mwihia"
+    },
+    {
+      "name": "Mwita, Martin",
+      "url": "https://muckrack.com/mwitamartin"
+    },
+    {
+      "name": "Mwiti, Lee",
+      "url": "https://muckrack.com/lee-mwiti"
+    },
+    {
+      "name": "Mwololo, Millicent",
+      "url": "https://muckrack.com/millicent-mwololo"
+    },
+    {
+      "name": "Namu, John-Allan",
+      "url": "https://muckrack.com/john-allan-namu"
+    },
+    {
+      "name": "Namunwa, Kevin",
+      "url": "https://muckrack.com/kevin-namunwa"
+    },
+    {
+      "name": "Nash, Oliver",
+      "url": "https://muckrack.com/oliver-nash"
+    },
+    {
+      "name": "Natiom, Lokeder",
+      "url": "https://muckrack.com/lokeder-natiom"
+    },
+    {
+      "name": "Ndambuki, Syovata",
+      "url": "https://muckrack.com/syovata-ndambuki"
+    },
+    {
+      "name": "Ndanyi, Mathews",
+      "url": "https://muckrack.com/mathews-ndanyi"
+    },
+    {
+      "name": "Ndebu, Newton",
+      "url": "https://muckrack.com/newton-ndebu"
+    },
+    {
+      "name": "Ndemo, Bitange",
+      "url": "https://muckrack.com/bitange-ndemo"
+    },
+    {
+      "name": "Nderi, Samson",
+      "url": "https://muckrack.com/samson-nderi"
+    },
+    {
+      "name": "Ndi, Ndi Eugene",
+      "url": "https://muckrack.com/ndi-eugene-ndi"
+    },
+    {
+      "name": "Ndonye, Michael",
+      "url": "https://muckrack.com/michael-ndonye-1"
+    },
+    {
+      "name": "Ndubi, Erick Kombo",
+      "url": "https://muckrack.com/erick-kombo-ndubi"
+    },
+    {
+      "name": "Nduku, Cecilia",
+      "url": "https://muckrack.com/cecilia-nduku"
+    },
+    {
+      "name": "Ndunda, Ernest",
+      "url": "https://muckrack.com/ernest-ndunda"
+    },
+    {
+      "name": "Ndunda, Joseph",
+      "url": "https://muckrack.com/joseph-ndunda"
+    },
+    {
+      "name": "Ndung'u, Makena",
+      "url": "https://muckrack.com/makena-ndungu"
+    },
+    {
+      "name": "Ndung\u2019u, Wainaina",
+      "url": "https://muckrack.com/wainaina-ndungu-1"
+    },
+    {
+      "name": "Ndungu, Brian",
+      "url": "https://muckrack.com/brian-ndungu-1"
+    },
+    {
+      "name": "Ndungu, Robinson",
+      "url": "https://muckrack.com/robinson-ndungu-1"
+    },
+    {
+      "name": "Ndungu, Tonny",
+      "url": "https://muckrack.com/tonny-ndungu"
+    },
+    {
+      "name": "Ndwiga, Anthony",
+      "url": "https://muckrack.com/anthony-ndwiga"
+    },
+    {
+      "name": "Neliba, Arnold",
+      "url": "https://muckrack.com/arnold-neliba"
+    },
+    {
+      "name": "Ng'etich, Jacob",
+      "url": "https://muckrack.com/jacob-ngetich-1"
+    },
+    {
+      "name": "Ngala, Larry",
+      "url": "https://muckrack.com/larry-ngala"
+    },
+    {
+      "name": "Ngamau, Renee",
+      "url": "https://muckrack.com/renee-ngamau"
+    },
+    {
+      "name": "Ngina, Fay",
+      "url": "https://muckrack.com/fay-ngina"
+    },
+    {
+      "name": "Ngotho, Agatha",
+      "url": "https://muckrack.com/agatha-ngotho"
+    },
+    {
+      "name": "Ngugi, Brian",
+      "url": "https://muckrack.com/brian-ngugi"
+    },
+    {
+      "name": "Ngwiri, Magesha",
+      "url": "https://muckrack.com/magesha-ngwiri"
+    },
+    {
+      "name": "Ni Chonghaile, Clar",
+      "url": "https://muckrack.com/clarnichonghaile"
+    },
+    {
+      "name": "Nixon, Tuei",
+      "url": "https://muckrack.com/tuei-nixon"
+    },
+    {
+      "name": "Njaaga, David",
+      "url": "https://muckrack.com/david-njaaga"
+    },
+    {
+      "name": "Njagi, Anthony",
+      "url": "https://muckrack.com/anthony-njagi"
+    },
+    {
+      "name": "NJAGI, JACKLINE",
+      "url": "https://muckrack.com/jackline-njagi"
+    },
+    {
+      "name": "Njanja, Annie",
+      "url": "https://muckrack.com/annie-njanja"
+    },
+    {
+      "name": "Njenga, Frank",
+      "url": "https://muckrack.com/frank-njenga"
+    },
+    {
+      "name": "Njenga, Gitau wa",
+      "url": "https://muckrack.com/gitau-wa-njenga"
+    },
+    {
+      "name": "Njenga, Peter",
+      "url": "https://muckrack.com/peter-njenga"
+    },
+    {
+      "name": "Njenga, Simon",
+      "url": "https://muckrack.com/simon-njenga"
+    },
+    {
+      "name": "Njenga, Stanley",
+      "url": "https://muckrack.com/stanley-njenga"
+    },
+    {
+      "name": "Njeru, Alex",
+      "url": "https://muckrack.com/alex-njeru"
+    },
+    {
+      "name": "Njeru, Betty",
+      "url": "https://muckrack.com/betty-njeru"
+    },
+    {
+      "name": "Njeru, Lilys",
+      "url": "https://muckrack.com/lilys-njeru-1"
+    },
+    {
+      "name": "Njiru, Newton",
+      "url": "https://muckrack.com/newton-njiru"
+    },
+    {
+      "name": "Njomo, Lutta",
+      "url": "https://muckrack.com/lutta-njomo"
+    },
+    {
+      "name": "Njoroge, Mike",
+      "url": "https://muckrack.com/mikenjoro"
+    },
+    {
+      "name": "Njuguna, Ciku",
+      "url": "https://muckrack.com/purity-njuguna"
+    },
+    {
+      "name": "Njuguna, Steve",
+      "url": "https://muckrack.com/steve-njuguna"
+    },
+    {
+      "name": "Njuguna, William",
+      "url": "https://muckrack.com/william-njuguna"
+    },
+    {
+      "name": "Njung'E, Caroline",
+      "url": "https://muckrack.com/caroline-njunge"
+    },
+    {
+      "name": "Nkonge, Anita",
+      "url": "https://muckrack.com/anita-nkonge"
+    },
+    {
+      "name": "Nyabundi, Dalton",
+      "url": "https://muckrack.com/dalton-nyabundi"
+    },
+    {
+      "name": "Nyaga, Beth",
+      "url": "https://muckrack.com/beth-nyaga"
+    },
+    {
+      "name": "Nyaga, Crispus",
+      "url": "https://muckrack.com/crispus-nyaga"
+    },
+    {
+      "name": "Nyagesiba, Benson",
+      "url": "https://muckrack.com/benson-nyagesiba"
+    },
+    {
+      "name": "Nyaguthie, Racheal",
+      "url": "https://muckrack.com/racheal-nyaguthie"
+    },
+    {
+      "name": "Nyagwang, Victor",
+      "url": "https://muckrack.com/victor-nyagwang"
+    },
+    {
+      "name": "Nyagwoka, Mike",
+      "url": "https://muckrack.com/mike-nyagwoka"
+    },
+    {
+      "name": "Nyamasyo, Kioko",
+      "url": "https://muckrack.com/kioko-nyamasyo-1"
+    },
+    {
+      "name": "Nyambura, Helen",
+      "url": "https://muckrack.com/helennyambura"
+    },
+    {
+      "name": "Nyamori, Moses",
+      "url": "https://muckrack.com/moses-nyamori"
+    },
+    {
+      "name": "Nyamuta, Christopher",
+      "url": "https://muckrack.com/christopher-nyamuta"
+    },
+    {
+      "name": "Nyanchwani, Silas",
+      "url": "https://muckrack.com/silas-nyanchwani"
+    },
+    {
+      "name": "Nyang, Ramah",
+      "url": "https://muckrack.com/ramah_nyang"
+    },
+    {
+      "name": "Nyangaresi, WIlfred",
+      "url": "https://muckrack.com/wilfred-nyangaresi"
+    },
+    {
+      "name": "Nyarangi, Edwin",
+      "url": "https://muckrack.com/edwin-nyarangi"
+    },
+    {
+      "name": "Nyasio, Venessa",
+      "url": "https://muckrack.com/nessy_nyasio"
+    },
+    {
+      "name": "Nyaundi, Lewis",
+      "url": "https://muckrack.com/lewis-nyaundi"
+    },
+    {
+      "name": "Nyawira, Lydiah",
+      "url": "https://muckrack.com/lydiah-nyawira"
+    },
+    {
+      "name": "Nyawira, Rosalind",
+      "url": "https://muckrack.com/rosalind-nyawira"
+    },
+    {
+      "name": "Nyayieka, Ivy",
+      "url": "https://muckrack.com/ivy-nyayieka-1"
+    },
+    {
+      "name": "Nyundo Mrinzi, Mrinzi",
+      "url": "https://muckrack.com/mrinzi-nyundo-mrinzi"
+    },
+    {
+      "name": "Nzengu, Musembi",
+      "url": "https://muckrack.com/musembi-nzengu"
+    },
+    {
+      "name": "Nzioka, Stephen",
+      "url": "https://muckrack.com/steve-nzioka"
+    },
+    {
+      "name": "Nzomo, Brian",
+      "url": "https://muckrack.com/brian-nzomo"
+    },
+    {
+      "name": "Nzwili, Fredrick",
+      "url": "https://muckrack.com/fredrick-nzwili"
+    },
+    {
+      "name": "Nzyoka, Nzula",
+      "url": "https://muckrack.com/nzula-nzyoka"
+    },
+    {
+      "name": "Obala, Roselyne",
+      "url": "https://muckrack.com/roselyne-obala"
+    },
+    {
+      "name": "Obara, Valentine",
+      "url": "https://muckrack.com/valentine-obara"
+    },
+    {
+      "name": "Obare, Osinde",
+      "url": "https://muckrack.com/osinde-obare"
+    },
+    {
+      "name": "Obebo, Magati",
+      "url": "https://muckrack.com/magati-obebo"
+    },
+    {
+      "name": "Obiero, Gladys Mokeira",
+      "url": "https://muckrack.com/gladys-mokeira-obiero-1"
+    },
+    {
+      "name": "Ocharo, Brian",
+      "url": "https://muckrack.com/brian-ocharo"
+    },
+    {
+      "name": "OCHIENG, CLARE",
+      "url": "https://muckrack.com/clare-ochieng-1"
+    },
+    {
+      "name": "Ochieng, Jeff",
+      "url": "https://muckrack.com/jeff-ochieng"
+    },
+    {
+      "name": "Ochieng, Philip",
+      "url": "https://muckrack.com/philip-ochieng"
+    },
+    {
+      "name": "Ochieng', Justus",
+      "url": "https://muckrack.com/justus-ochieng-3"
+    },
+    {
+      "name": "Ochunge, Hon Nathan",
+      "url": "https://muckrack.com/nathan-ochunge"
+    },
+    {
+      "name": "Odeny, Manuel",
+      "url": "https://muckrack.com/manuel-odeny"
+    },
+    {
+      "name": "Odero, Carol",
+      "url": "https://muckrack.com/carol-odero-2"
+    },
+    {
+      "name": "Odhiambo, Harold",
+      "url": "https://muckrack.com/harold-odhiambo"
+    },
+    {
+      "name": "Odhiambo, Hillary",
+      "url": "https://muckrack.com/oduorodhiambo73"
+    },
+    {
+      "name": "Odhiambo, Humphrey",
+      "url": "https://muckrack.com/humphrey-odhiambo"
+    },
+    {
+      "name": "Odhiambo, Moses",
+      "url": "https://muckrack.com/moses-odhiambo"
+    },
+    {
+      "name": "Odhiambo, Nelcon",
+      "url": "https://muckrack.com/nelcon-odhiambo"
+    },
+    {
+      "name": "Odhiambo, Olivia",
+      "url": "https://muckrack.com/olivia-odhiambo"
+    },
+    {
+      "name": "Odindo, Nancy",
+      "url": "https://muckrack.com/nancy-odindo"
+    },
+    {
+      "name": "Odongo, Patrick",
+      "url": "https://muckrack.com/patrick-odongo"
+    },
+    {
+      "name": "Oduor, Augustine",
+      "url": "https://muckrack.com/augustine-oduor"
+    },
+    {
+      "name": "Oduor, Melissa",
+      "url": "https://muckrack.com/melissa-oduor"
+    },
+    {
+      "name": "Oduor, Michael",
+      "url": "https://muckrack.com/michael-oduor-1"
+    },
+    {
+      "name": "Ogemba, Paul",
+      "url": "https://muckrack.com/paul-ogemba"
+    },
+    {
+      "name": "Ogetta, Daniel",
+      "url": "https://muckrack.com/daniel-ogetta"
+    },
+    {
+      "name": "Ogodo, Ochieng'",
+      "url": "https://muckrack.com/ochieng-ogodo"
+    },
+    {
+      "name": "Ogonji, Ian Elroy",
+      "url": "https://muckrack.com/ian-elroy-ogonji"
+    },
+    {
+      "name": "Ojina, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-ojina"
+    },
+    {
+      "name": "Ojwang, Juliet",
+      "url": "https://muckrack.com/juliet-ojwang"
+    },
+    {
+      "name": "Okari, Dennis",
+      "url": "https://muckrack.com/dennis-okari"
+    },
+    {
+      "name": "Oketch, Willis",
+      "url": "https://muckrack.com/willis-oketch"
+    },
+    {
+      "name": "Okeyo, Dennis",
+      "url": "https://muckrack.com/dennisokeyo"
+    },
+    {
+      "name": "Okiddy, Douglas",
+      "url": "https://muckrack.com/douglas-okiddy"
+    },
+    {
+      "name": "Okinda, Brian",
+      "url": "https://muckrack.com/brian-okinda-1"
+    },
+    {
+      "name": "Okombo, Dismas",
+      "url": "https://muckrack.com/dismas-okombo"
+    },
+    {
+      "name": "Okoth, Brian",
+      "url": "https://muckrack.com/brian-okoth"
+    },
+    {
+      "name": "Okoth, Edwin",
+      "url": "https://muckrack.com/edwin-okoth"
+    },
+    {
+      "name": "Okoth, Jackson",
+      "url": "https://muckrack.com/jackson-okoth"
+    },
+    {
+      "name": "Okoti, Daisy",
+      "url": "https://muckrack.com/daisyokoti"
+    },
+    {
+      "name": "Okubasu, Derrick",
+      "url": "https://muckrack.com/derrick-okubasu"
+    },
+    {
+      "name": "Okuoro, Sara",
+      "url": "https://muckrack.com/sara-okuoro"
+    },
+    {
+      "name": "Okwach, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-okwach-1"
+    },
+    {
+      "name": "Okwisia, Joseph",
+      "url": "https://muckrack.com/joseph-okwisia"
+    },
+    {
+      "name": "Olick, Felix",
+      "url": "https://muckrack.com/felix-olick"
+    },
+    {
+      "name": "Olilo, Cellestine",
+      "url": "https://muckrack.com/cellestine-olilo"
+    },
+    {
+      "name": "Olingo, Allan",
+      "url": "https://muckrack.com/allan-olingo"
+    },
+    {
+      "name": "Olobulu, Timothy",
+      "url": "https://muckrack.com/timothy-olobulu"
+    },
+    {
+      "name": "Oluoch, Fred",
+      "url": "https://muckrack.com/fredtwits"
+    },
+    {
+      "name": "Omar, Shaban",
+      "url": "https://muckrack.com/shaban-omar"
+    },
+    {
+      "name": "Ombima, Martin",
+      "url": "https://muckrack.com/martin-ombima"
+    },
+    {
+      "name": "Ombok, Eric",
+      "url": "https://muckrack.com/eric-ombok"
+    },
+    {
+      "name": "Ombui, Jared",
+      "url": "https://muckrack.com/jaredombui"
+    },
+    {
+      "name": "Ombuor, Rael",
+      "url": "https://muckrack.com/rael-ombuor"
+    },
+    {
+      "name": "Omollo, Robert",
+      "url": "https://muckrack.com/robert-omollo"
+    },
+    {
+      "name": "Omondi, Asher",
+      "url": "https://muckrack.com/asher-omondi"
+    },
+    {
+      "name": "Omondi, Dominic",
+      "url": "https://muckrack.com/dominic-omondi-5"
+    },
+    {
+      "name": "Omondi, Domnic",
+      "url": "https://muckrack.com/domnic-omondi"
+    },
+    {
+      "name": "Omondi, George",
+      "url": "https://muckrack.com/george-omondi"
+    },
+    {
+      "name": "Omondi, Ian",
+      "url": "https://muckrack.com/ian-omondi"
+    },
+    {
+      "name": "Omondi, Steve",
+      "url": "https://muckrack.com/steve-omondi"
+    },
+    {
+      "name": "Omoni, Grace M.",
+      "url": "https://muckrack.com/grace-m-omoni"
+    },
+    {
+      "name": "Omoro, James",
+      "url": "https://muckrack.com/james-omoro"
+    },
+    {
+      "name": "Omoruyi, Omoleye",
+      "url": "https://muckrack.com/omoleye-omoruyi"
+    },
+    {
+      "name": "Omulo, Collins",
+      "url": "https://muckrack.com/collins-omulo"
+    },
+    {
+      "name": "Omulo, Joel",
+      "url": "https://muckrack.com/joel-omulo"
+    },
+    {
+      "name": "Omwenga, Sam",
+      "url": "https://muckrack.com/sam-omwenga"
+    },
+    {
+      "name": "Ondieki, Elvis",
+      "url": "https://muckrack.com/ondiekimogere"
+    },
+    {
+      "name": "Ondieki, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-ondieki"
+    },
+    {
+      "name": "Ongaya, Victor",
+      "url": "https://muckrack.com/victor-ongaya-1"
+    },
+    {
+      "name": "Oniang'o, Maurice",
+      "url": "https://muckrack.com/mauriceoniango"
+    },
+    {
+      "name": "Onyango, Philip",
+      "url": "https://muckrack.com/philip-onyango"
+    },
+    {
+      "name": "Onyango, Protus",
+      "url": "https://muckrack.com/protus-onyango"
+    },
+    {
+      "name": "Onyango, Washington",
+      "url": "https://muckrack.com/washington-onyango"
+    },
+    {
+      "name": "Onyango-Obbo, Charles",
+      "url": "https://muckrack.com/charles-onyango-obbo"
+    },
+    {
+      "name": "Onyatta, Omondi",
+      "url": "https://muckrack.com/omondi-onyatta"
+    },
+    {
+      "name": "Onyulo, Tonny",
+      "url": "https://muckrack.com/tonny-onyulo"
+    },
+    {
+      "name": "Osanjo, Tom",
+      "url": "https://muckrack.com/tom-osanjo"
+    },
+    {
+      "name": "Osen, Gordon",
+      "url": "https://muckrack.com/gordon-osen"
+    },
+    {
+      "name": "Osere, Emojong",
+      "url": "https://muckrack.com/emojong-osere"
+    },
+    {
+      "name": "Osoro, Substone",
+      "url": "https://muckrack.com/substone-osoro"
+    },
+    {
+      "name": "Osoro, William",
+      "url": "https://muckrack.com/william-osoro"
+    },
+    {
+      "name": "Osur, Joachim",
+      "url": "https://muckrack.com/joachim-osur"
+    },
+    {
+      "name": "Otengo, Victor",
+      "url": "https://muckrack.com/veeq-otengo"
+    },
+    {
+      "name": "Otenyo, Hilton",
+      "url": "https://muckrack.com/hilton-otenyo"
+    },
+    {
+      "name": "Othoth, Joseph",
+      "url": "https://muckrack.com/joseph-othoth"
+    },
+    {
+      "name": "Otiato, Bruno",
+      "url": "https://muckrack.com/bruno-otiato"
+    },
+    {
+      "name": "Otieno, Bill",
+      "url": "https://muckrack.com/_billotieno"
+    },
+    {
+      "name": "Otieno, Blake",
+      "url": "https://muckrack.com/blake-otieno"
+    },
+    {
+      "name": "Otieno, Brian",
+      "url": "https://muckrack.com/brian-otieno"
+    },
+    {
+      "name": "Otieno, Dennis",
+      "url": "https://muckrack.com/dennis-otieno"
+    },
+    {
+      "name": "Otieno, Dickson",
+      "url": "https://muckrack.com/dickson-otieno"
+    },
+    {
+      "name": "Otieno, Julius",
+      "url": "https://muckrack.com/julius-otieno"
+    },
+    {
+      "name": "Otieno, Kepher",
+      "url": "https://muckrack.com/kepher-otieno"
+    },
+    {
+      "name": "Otieno, Laura",
+      "url": "https://muckrack.com/laura-otieno"
+    },
+    {
+      "name": "Otieno, Otieno",
+      "url": "https://muckrack.com/otieno-otieno"
+    },
+    {
+      "name": "Otieno, Rawlings",
+      "url": "https://muckrack.com/rawlings-otieno"
+    },
+    {
+      "name": "Otieno, Samuel",
+      "url": "https://muckrack.com/samuel-otieno-4"
+    },
+    {
+      "name": "Otieno, Scophine Aoko",
+      "url": "https://muckrack.com/scophine-aoko-otieno"
+    },
+    {
+      "name": "Otieno, Steve",
+      "url": "https://muckrack.com/steve-otieno"
+    },
+    {
+      "name": "Otieno, Victor",
+      "url": "https://muckrack.com/victor-otieno-1"
+    },
+    {
+      "name": "Otiso, Rodgers",
+      "url": "https://muckrack.com/rodgers-otiso"
+    },
+    {
+      "name": "Otsialo, Manase",
+      "url": "https://muckrack.com/manase-otsialo"
+    },
+    {
+      "name": "Otukho, Jackson",
+      "url": "https://muckrack.com/jackson-otukho"
+    },
+    {
+      "name": "Ouma, Charles",
+      "url": "https://muckrack.com/charlesouma700"
+    },
+    {
+      "name": "Ouma, Stephen",
+      "url": "https://muckrack.com/stephen-ouma"
+    },
+    {
+      "name": "Ousuru, Evans",
+      "url": "https://muckrack.com/evans-ousuru"
+    },
+    {
+      "name": "Owino, Allan",
+      "url": "https://muckrack.com/allan-owino"
+    },
+    {
+      "name": "Owino, Samwel",
+      "url": "https://muckrack.com/samwel-owino"
+    },
+    {
+      "name": "Owino, Winfrey",
+      "url": "https://muckrack.com/winfrey-owino"
+    },
+    {
+      "name": "Owiti, George",
+      "url": "https://muckrack.com/george-owiti"
+    },
+    {
+      "name": "Owuor, Jack",
+      "url": "https://muckrack.com/jack-owuor"
+    },
+    {
+      "name": "Oyuga, Felgonah",
+      "url": "https://muckrack.com/felgonah-oyuga"
+    },
+    {
+      "name": "Oyugi, Ochieng",
+      "url": "https://muckrack.com/ochieng-oyugi"
+    },
+    {
+      "name": "Oyugi, Zablon",
+      "url": "https://muckrack.com/zablon-oyugi"
+    },
+    {
+      "name": "Oywa, John",
+      "url": "https://muckrack.com/john-oywa"
+    },
+    {
+      "name": "Patrick, Alaro",
+      "url": "https://muckrack.com/alaro-patrick"
+    },
+    {
+      "name": "Praxides, Cheti",
+      "url": "https://muckrack.com/cheti-praxides"
+    },
+    {
+      "name": "Protus, Chuoyo",
+      "url": "https://muckrack.com/chuoyo-protus"
+    },
+    {
+      "name": "Rabachi, Moses",
+      "url": "https://muckrack.com/moses-rabachi"
+    },
+    {
+      "name": "Rajula, Thomas",
+      "url": "https://muckrack.com/thomas-rajula"
+    },
+    {
+      "name": "Ram, Ed",
+      "url": "https://muckrack.com/ed-ram"
+    },
+    {
+      "name": "Ratemo, James",
+      "url": "https://muckrack.com/james-ratemo"
+    },
+    {
+      "name": "Richardson, Paul",
+      "url": "https://muckrack.com/paul-richardson"
+    },
+    {
+      "name": "Rip\u00e5s, Johan",
+      "url": "https://muckrack.com/johan-ripas"
+    },
+    {
+      "name": "Roberto, Muyela",
+      "url": "https://muckrack.com/muyela-roberto"
+    },
+    {
+      "name": "Rono, Sharon",
+      "url": "https://muckrack.com/sharon-rono-1"
+    },
+    {
+      "name": "Rotich, Bernard",
+      "url": "https://muckrack.com/bernard-rotich"
+    },
+    {
+      "name": "Rotich, Kevin",
+      "url": "https://muckrack.com/kevin-rotich"
+    },
+    {
+      "name": "Rubadiri, Victoria",
+      "url": "https://muckrack.com/vickyrubadiri"
+    },
+    {
+      "name": "Rutto, Stephen",
+      "url": "https://muckrack.com/stephen-rutto"
+    },
+    {
+      "name": "Saasia, Joseph",
+      "url": "https://muckrack.com/joseph-saasia"
+    },
+    {
+      "name": "Sabuni, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-sabuni"
+    },
+    {
+      "name": "Sabuni, Sabuni Khwa",
+      "url": "https://muckrack.com/sabuni-khwa-sabuni-3"
+    },
+    {
+      "name": "Sakina, Mildred",
+      "url": "https://muckrack.com/mildred-sakina"
+    },
+    {
+      "name": "Sali, Micah",
+      "url": "https://muckrack.com/micah-sali"
+    },
+    {
+      "name": "Salil, Barry",
+      "url": "https://muckrack.com/barry-salil"
+    },
+    {
+      "name": "Sammy, Mose",
+      "url": "https://muckrack.com/mose-sammy"
+    },
+    {
+      "name": "Sammy, Wambua",
+      "url": "https://muckrack.com/wambua-sammy"
+    },
+    {
+      "name": "Samuels, Karen",
+      "url": "https://muckrack.com/karen-samuels-1"
+    },
+    {
+      "name": "Sanga, Benard",
+      "url": "https://muckrack.com/benard-sanga"
+    },
+    {
+      "name": "Sankale, Janet",
+      "url": "https://muckrack.com/janet-sankale"
+    },
+    {
+      "name": "Sarati, Richard",
+      "url": "https://muckrack.com/ricsarati"
+    },
+    {
+      "name": "Saya, Magdaline",
+      "url": "https://muckrack.com/magdaline-saya"
+    },
+    {
+      "name": "Schearf, Daniel",
+      "url": "https://muckrack.com/daniel-schearf"
+    },
+    {
+      "name": "Shanzu, Irissheel",
+      "url": "https://muckrack.com/irissheel-shanzu"
+    },
+    {
+      "name": "Sharon, Resian",
+      "url": "https://muckrack.com/resian-sharon"
+    },
+    {
+      "name": "Sheriff, Abdulrahman",
+      "url": "https://muckrack.com/abdulrahman-sheriff"
+    },
+    {
+      "name": "Shiundu, Alphonce",
+      "url": "https://muckrack.com/alphonce-shiundu"
+    },
+    {
+      "name": "Sidi, Abdul",
+      "url": "https://muckrack.com/abdul-sidi"
+    },
+    {
+      "name": "Siele, Martin",
+      "url": "https://muckrack.com/martin-siele"
+    },
+    {
+      "name": "Siema, Patterson",
+      "url": "https://muckrack.com/patterson-siema"
+    },
+    {
+      "name": "Sigomba, Ramadhan",
+      "url": "https://muckrack.com/ramadhan-sigomba-1"
+    },
+    {
+      "name": "Sigwe, John Ochieng",
+      "url": "https://muckrack.com/john-ochieng-sigwe"
+    },
+    {
+      "name": "Sikolia, Enock",
+      "url": "https://muckrack.com/enock-sikolia"
+    },
+    {
+      "name": "Silah, Barry",
+      "url": "https://muckrack.com/barry-silah"
+    },
+    {
+      "name": "Simiyu, Keith",
+      "url": "https://muckrack.com/keith-simiyu-1"
+    },
+    {
+      "name": "Simiyu, Mercy",
+      "url": "https://muckrack.com/mercy-simiyu-1"
+    },
+    {
+      "name": "Siyad Abdirahman, Maryan",
+      "url": "https://muckrack.com/maryan-siyad-abdirahman-2"
+    },
+    {
+      "name": "Sobecki, Nichole",
+      "url": "https://muckrack.com/nicholesobecki"
+    },
+    {
+      "name": "Soy, Anne",
+      "url": "https://muckrack.com/anne-soy"
+    },
+    {
+      "name": "Steers, Julia",
+      "url": "https://muckrack.com/jcsteers"
+    },
+    {
+      "name": "Sunday, Frankline",
+      "url": "https://muckrack.com/frankline-sunday"
+    },
+    {
+      "name": "Swanson, Will",
+      "url": "https://muckrack.com/will_swanson"
+    },
+    {
+      "name": "Swila-Tijan, Isaac",
+      "url": "https://muckrack.com/isaac-swila"
+    },
+    {
+      "name": "Taa, Vivienne",
+      "url": "https://muckrack.com/vivienne-taa"
+    },
+    {
+      "name": "Tamaro, Emmanuel",
+      "url": "https://muckrack.com/ryan-mutuku"
+    },
+    {
+      "name": "Tanui, Benard",
+      "url": "https://muckrack.com/benard-tanui"
+    },
+    {
+      "name": "Tanui, Nikko",
+      "url": "https://muckrack.com/nikko-tanui"
+    },
+    {
+      "name": "Teche, Enos",
+      "url": "https://muckrack.com/enos-teche"
+    },
+    {
+      "name": "Tessema, Berhanu",
+      "url": "https://muckrack.com/berhanu-alemu-tessema"
+    },
+    {
+      "name": "Teyie, Selina",
+      "url": "https://muckrack.com/selina-teyie"
+    },
+    {
+      "name": "Thatiah, Joan",
+      "url": "https://muckrack.com/joan-thatiah"
+    },
+    {
+      "name": "Thiong'o, Josphat",
+      "url": "https://muckrack.com/josphat-thiongo"
+    },
+    {
+      "name": "Tongola, Mate",
+      "url": "https://muckrack.com/mate-tongola-1"
+    },
+    {
+      "name": "Too, Titus",
+      "url": "https://muckrack.com/titus-too"
+    },
+    {
+      "name": "Tsuma, Caroline",
+      "url": "https://muckrack.com/caroline-tsuma"
+    },
+    {
+      "name": "Udoto, Paul",
+      "url": "https://muckrack.com/paul-udoto-1"
+    },
+    {
+      "name": "Ukaya, Brian",
+      "url": "https://muckrack.com/brian-ukaya"
+    },
+    {
+      "name": "Urban, Kinasisi",
+      "url": "https://muckrack.com/ogunosoch"
+    },
+    {
+      "name": "Valusi, Gastone",
+      "url": "https://muckrack.com/gastone-valusi-1"
+    },
+    {
+      "name": "Vidija, Patrick",
+      "url": "https://muckrack.com/patrick-vidija"
+    },
+    {
+      "name": "vu, Deja",
+      "url": "https://muckrack.com/deja-vu"
+    },
+    {
+      "name": "Wabwire, Edgar",
+      "url": "https://muckrack.com/edgar-wabwire-1"
+    },
+    {
+      "name": "Wachira, Charles",
+      "url": "https://muckrack.com/charles-wachira"
+    },
+    {
+      "name": "Wachira, George",
+      "url": "https://muckrack.com/george-wachira"
+    },
+    {
+      "name": "Wachira, Martin",
+      "url": "https://muckrack.com/martin-wachira-3"
+    },
+    {
+      "name": "Wadegu, Francis",
+      "url": "https://muckrack.com/francis-wadegu"
+    },
+    {
+      "name": "Wadekar, Neha",
+      "url": "https://muckrack.com/neha-wadekar"
+    },
+    {
+      "name": "Wafula, Caroline",
+      "url": "https://muckrack.com/caroline-wafula"
+    },
+    {
+      "name": "Wafula, Paul",
+      "url": "https://muckrack.com/paulwaf"
+    },
+    {
+      "name": "WAFULA, TONY",
+      "url": "https://muckrack.com/tony-wafula-1"
+    },
+    {
+      "name": "Wainaina, Eric",
+      "url": "https://muckrack.com/eric-wainaina"
+    },
+    {
+      "name": "Wainaina, Ndichu",
+      "url": "https://muckrack.com/ndichu-wainaina"
+    },
+    {
+      "name": "Waita, Edwin",
+      "url": "https://muckrack.com/edwin-waita"
+    },
+    {
+      "name": "Waita, Thomas",
+      "url": "https://muckrack.com/thomas-waita"
+    },
+    {
+      "name": "Wakaba, Peter",
+      "url": "https://muckrack.com/peterwakaba"
+    },
+    {
+      "name": "Wakaya, Jeremiah",
+      "url": "https://muckrack.com/jeremiah-wakaya"
+    },
+    {
+      "name": "Wakiaga, Phyllis",
+      "url": "https://muckrack.com/phyllis-wakiaga"
+    },
+    {
+      "name": "Wakibia, JAMES",
+      "url": "https://muckrack.com/james-wakibia-1"
+    },
+    {
+      "name": "Wako, Amina",
+      "url": "https://muckrack.com/mbuthiaamina"
+    },
+    {
+      "name": "Wakoba, Sam",
+      "url": "https://muckrack.com/samwakoba"
+    },
+    {
+      "name": "Waliaula, Beldeen",
+      "url": "https://muckrack.com/beldeen-waliaula-1"
+    },
+    {
+      "name": "Walubengo, John",
+      "url": "https://muckrack.com/john-walubengo"
+    },
+    {
+      "name": "Walubengo, Peris",
+      "url": "https://muckrack.com/peris-walubengo"
+    },
+    {
+      "name": "Wamasebu, Ken",
+      "url": "https://muckrack.com/ken-wamasebu"
+    },
+    {
+      "name": "Wambu, Wainaina",
+      "url": "https://muckrack.com/wainaina-wambu-3"
+    },
+    {
+      "name": "Wambua-Soi, Catherine",
+      "url": "https://muckrack.com/catherine-wambua-soi"
+    },
+    {
+      "name": "Wambui, Irene",
+      "url": "https://muckrack.com/irene-wambui"
+    },
+    {
+      "name": "Wambui, Mary",
+      "url": "https://muckrack.com/mary-wambui-1"
+    },
+    {
+      "name": "Wambui, Mary",
+      "url": "https://muckrack.com/mary-wambui"
+    },
+    {
+      "name": "Wambui, Rachel",
+      "url": "https://muckrack.com/rachel-wambui"
+    },
+    {
+      "name": "Wanambisi, Laban",
+      "url": "https://muckrack.com/laban-wanambisi"
+    },
+    {
+      "name": "Wandati, Zeynab",
+      "url": "https://muckrack.com/zeynab-wandati"
+    },
+    {
+      "name": "Wandera, Gilbert",
+      "url": "https://muckrack.com/gilbert-wandera"
+    },
+    {
+      "name": "Wandera, Noel",
+      "url": "https://muckrack.com/noel-wandera"
+    },
+    {
+      "name": "Wang'Ondu, Wangechi",
+      "url": "https://muckrack.com/wangechi-wangondu-2"
+    },
+    {
+      "name": "Wanga, Justus",
+      "url": "https://muckrack.com/justus-wanga"
+    },
+    {
+      "name": "Wanja, Magdalene",
+      "url": "https://muckrack.com/magdalene-wanja"
+    },
+    {
+      "name": "Wanjala, Alvin",
+      "url": "https://muckrack.com/alvin-wanjala"
+    },
+    {
+      "name": "Wanjala, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-wanjala"
+    },
+    {
+      "name": "Wanjala, Kaluka",
+      "url": "https://muckrack.com/kaluwanjala"
+    },
+    {
+      "name": "Wanjiku, Freya",
+      "url": "https://muckrack.com/freya-wanjiku"
+    },
+    {
+      "name": "Wanjiru, Florence",
+      "url": "https://muckrack.com/florence-wanjiru"
+    },
+    {
+      "name": "Wanjiru, Margaret",
+      "url": "https://muckrack.com/margaret-wanjiru"
+    },
+    {
+      "name": "Wanjiru, Tracy",
+      "url": "https://muckrack.com/tracy-wanjiru"
+    },
+    {
+      "name": "Wanjohi, Purity",
+      "url": "https://muckrack.com/purity-wanjohi"
+    },
+    {
+      "name": "Wanyoro, Charles",
+      "url": "https://muckrack.com/charles-wanyoro"
+    },
+    {
+      "name": "Wanzala, Bramuel",
+      "url": "https://muckrack.com/bramuel-wanzala"
+    },
+    {
+      "name": "Wanzala, James",
+      "url": "https://muckrack.com/james-wanzala"
+    },
+    {
+      "name": "Warah, Rasna",
+      "url": "https://muckrack.com/rasna-warah"
+    },
+    {
+      "name": "Warigi, Gitau",
+      "url": "https://muckrack.com/gitau-warigi"
+    },
+    {
+      "name": "Wasonga, Dickens",
+      "url": "https://muckrack.com/dickens-wasonga"
+    },
+    {
+      "name": "Wasonga, Molly",
+      "url": "https://muckrack.com/molly-wasonga"
+    },
+    {
+      "name": "Wasuna, Brian",
+      "url": "https://muckrack.com/brian-wasuna"
+    },
+    {
+      "name": "Watta, Wendy",
+      "url": "https://muckrack.com/wendy-watta-2"
+    },
+    {
+      "name": "Waweru, Maryanne",
+      "url": "https://muckrack.com/maryanne-waweru"
+    },
+    {
+      "name": "Waweru, Sammy",
+      "url": "https://muckrack.com/sammy-waweru"
+    },
+    {
+      "name": "Wekesa, Annah",
+      "url": "https://muckrack.com/annah-wekesa"
+    },
+    {
+      "name": "Wekulo, Clement",
+      "url": "https://muckrack.com/clemwekulo"
+    },
+    {
+      "name": "Wendo, Dennis",
+      "url": "https://muckrack.com/dennis-wendo-1"
+    },
+    {
+      "name": "Were, Kelly",
+      "url": "https://muckrack.com/kelly-were"
+    },
+    {
+      "name": "Weru, Zipporah",
+      "url": "https://muckrack.com/zipporah-weru-2"
+    },
+    {
+      "name": "Werungah, Namukabo",
+      "url": "https://muckrack.com/namukabo-werungah"
+    },
+    {
+      "name": "Wetungu, Allan",
+      "url": "https://muckrack.com/awetungu"
+    },
+    {
+      "name": "Yaa, Elias",
+      "url": "https://muckrack.com/elias-yaa"
+    },
+    {
+      "name": "Yego, Kevin",
+      "url": "https://muckrack.com/kevin-yego"
+    },
+    {
+      "name": "Yegon, Emmanuel",
+      "url": "https://muckrack.com/emmanuel-yegon"
+    },
+    {
+      "name": "Yonga, Brian",
+      "url": "https://muckrack.com/brian-yonga"
+    },
+    {
+      "name": "Yusuf, Mohammed",
+      "url": "https://muckrack.com/mohammedyusuf"
+    },
+    {
+      "name": "Zadock, Sarah",
+      "url": "https://muckrack.com/sarah-zadock-1"
+    },
+    {
+      "name": "Zhu, April",
+      "url": "https://muckrack.com/aprzhu"
+    }
+  ]
+}

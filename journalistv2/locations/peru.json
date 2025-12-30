@@ -1,0 +1,643 @@
+{
+  "location": "peru",
+  "url": "https://muckrack.com/beat/peru",
+  "total_journalists": 159,
+  "journalists": [
+    {
+      "name": "Abd, Rodrigo",
+      "url": "https://muckrack.com/rodrigo-abd"
+    },
+    {
+      "name": "\u00c1guilar, Alejandro",
+      "url": "https://muckrack.com/alejandro-aguilar"
+    },
+    {
+      "name": "Aguirre, Miguel",
+      "url": "https://muckrack.com/miguel-aguirre"
+    },
+    {
+      "name": "Alc\u00e1ntara, Grace Nole",
+      "url": "https://muckrack.com/grace-nole-alcantara"
+    },
+    {
+      "name": "Andrade, Kenyi Pe\u00f1a",
+      "url": "https://muckrack.com/kenyi-pena-andrade"
+    },
+    {
+      "name": "Angulo, Lorena",
+      "url": "https://muckrack.com/lorena-angulo"
+    },
+    {
+      "name": "Angulo, Sharay",
+      "url": "https://muckrack.com/sharay-angulo"
+    },
+    {
+      "name": "Aquino, Marco",
+      "url": "https://muckrack.com/marco-aquino"
+    },
+    {
+      "name": "Arce, Jordan",
+      "url": "https://muckrack.com/jordan-arce"
+    },
+    {
+      "name": "Ar\u00e9valo, Nicol\u00e1s Castillo",
+      "url": "https://muckrack.com/nicolas-castillo-arevalo"
+    },
+    {
+      "name": "Arias, Cecilia",
+      "url": "https://muckrack.com/cecilia-arias"
+    },
+    {
+      "name": "Arias Schreiber, F\u00e9lix",
+      "url": "https://muckrack.com/felix-arias-schreiber"
+    },
+    {
+      "name": "Arroyo, Pamela",
+      "url": "https://muckrack.com/pamela-arroyo"
+    },
+    {
+      "name": "Bances, Yvonne",
+      "url": "https://muckrack.com/yvonne-bances"
+    },
+    {
+      "name": "Barreto, Jos\u00e9",
+      "url": "https://muckrack.com/jose-barreto-1"
+    },
+    {
+      "name": "Barreto Vel\u00e1zquez, Norberto",
+      "url": "https://muckrack.com/norberto-barreto-velazquez-1"
+    },
+    {
+      "name": "Barrio, Diego",
+      "url": "https://muckrack.com/diego-barrio"
+    },
+    {
+      "name": "BARZOLA, JULIAN",
+      "url": "https://muckrack.com/julian-barzola"
+    },
+    {
+      "name": "Bayly, Jaime",
+      "url": "https://muckrack.com/jaime-bayly"
+    },
+    {
+      "name": "Benavente, Laura V\u00e1squez",
+      "url": "https://muckrack.com/laura-vasquez-benavente"
+    },
+    {
+      "name": "Bendez\u00fa, Juan",
+      "url": "https://muckrack.com/juan-bendezu"
+    },
+    {
+      "name": "Benedetti, Eliezer",
+      "url": "https://muckrack.com/eliezer-benedetti"
+    },
+    {
+      "name": "Bola\u00f1os Mar\u00edn, Edgar",
+      "url": "https://muckrack.com/edgar-bolanos-marin"
+    },
+    {
+      "name": "Caballero P\u00e9rez, Alfredo",
+      "url": "https://muckrack.com/alfredo-caballero-perez"
+    },
+    {
+      "name": "Cabeza Aquino, Yuriko",
+      "url": "https://muckrack.com/yuriko-cabeza-aquino"
+    },
+    {
+      "name": "Camacho, Emilio",
+      "url": "https://muckrack.com/emilio-camacho"
+    },
+    {
+      "name": "Camacho Caballero, Emilio",
+      "url": "https://muckrack.com/emilio-camacho-caballero"
+    },
+    {
+      "name": "Camp\u00f3, Sandra",
+      "url": "https://muckrack.com/sandra-campo"
+    },
+    {
+      "name": "Capcha, Evelin Meza",
+      "url": "https://muckrack.com/evelin-meza-capcha"
+    },
+    {
+      "name": "Capunay, Christian",
+      "url": "https://muckrack.com/christian-capunay"
+    },
+    {
+      "name": "C\u00e1rdenas, Gianmarco",
+      "url": "https://muckrack.com/gianmarco-cardenas"
+    },
+    {
+      "name": "Casimiro, Diego",
+      "url": "https://muckrack.com/diego-casimiro"
+    },
+    {
+      "name": "Castro, Yulissa",
+      "url": "https://muckrack.com/yulissa-castro"
+    },
+    {
+      "name": "Catchpole, Karen",
+      "url": "https://muckrack.com/karen-catchpole"
+    },
+    {
+      "name": "Cervantes, Maria",
+      "url": "https://muckrack.com/maria-cervantes"
+    },
+    {
+      "name": "Chiroque, Chavely",
+      "url": "https://muckrack.com/chavely-chiroque"
+    },
+    {
+      "name": "Chumpitaz, Marcos",
+      "url": "https://muckrack.com/marcos-chumpitaz"
+    },
+    {
+      "name": "Cinque, Alessandro",
+      "url": "https://muckrack.com/alessandro-cinque"
+    },
+    {
+      "name": "Cohello, Francisco",
+      "url": "https://muckrack.com/francisco-cohello"
+    },
+    {
+      "name": "Collyns, Dan",
+      "url": "https://muckrack.com/dan-collyns"
+    },
+    {
+      "name": "Corrales Valqui, Marylin",
+      "url": "https://muckrack.com/marylin-corrales-valqui"
+    },
+    {
+      "name": "Cuba Zavala, Ricardo",
+      "url": "https://muckrack.com/ricardo-cuba-zavala"
+    },
+    {
+      "name": "Cueva, Jim",
+      "url": "https://muckrack.com/jim-cueva"
+    },
+    {
+      "name": "Cueva Alb\u00fajar, Nicole",
+      "url": "https://muckrack.com/nicole-cueva-albujar"
+    },
+    {
+      "name": "Curotto, Hugo",
+      "url": "https://muckrack.com/hugo-courotto"
+    },
+    {
+      "name": "Cuya, Pilar",
+      "url": "https://muckrack.com/pilar-cuya"
+    },
+    {
+      "name": "D\u00e1vila, Carlo",
+      "url": "https://muckrack.com/carlo-davila"
+    },
+    {
+      "name": "De La Quintana, Jimena",
+      "url": "https://muckrack.com/jimena-de-la-quintana"
+    },
+    {
+      "name": "Delgado, Alejandro",
+      "url": "https://muckrack.com/alejandro-delgado"
+    },
+    {
+      "name": "Delgado, Gianmarco",
+      "url": "https://muckrack.com/gianmarco-delgado"
+    },
+    {
+      "name": "Dube, Ryan",
+      "url": "https://muckrack.com/ryan-dube"
+    },
+    {
+      "name": "Espinosa, Mart\u00edn Le\u00f3n",
+      "url": "https://muckrack.com/martin-leon-espinosa"
+    },
+    {
+      "name": "Espinoza, Anali",
+      "url": "https://muckrack.com/anali-espinoza"
+    },
+    {
+      "name": "Espinoza, Carlos",
+      "url": "https://muckrack.com/carlos-espinoza"
+    },
+    {
+      "name": "Esteves, Francisco",
+      "url": "https://muckrack.com/francisco-esteves-1"
+    },
+    {
+      "name": "Fanny Zamarriego Lozano, Anabella",
+      "url": "https://muckrack.com/anabella-fanny-zamarriego-lozano"
+    },
+    {
+      "name": "Fern\u00e1ndez, Carolina",
+      "url": "https://muckrack.com/carolina-fernandez-1"
+    },
+    {
+      "name": "Fitzcarrald, Nayeli",
+      "url": "https://muckrack.com/nayeli-fitzcarrald"
+    },
+    {
+      "name": "Flores Cordova, Hugo",
+      "url": "https://muckrack.com/hugo-flores-cordova"
+    },
+    {
+      "name": "Flores Merino, Santiago",
+      "url": "https://muckrack.com/santiago-flores-merino-1"
+    },
+    {
+      "name": "Gaitan, Fidel",
+      "url": "https://muckrack.com/fidel-gaitan"
+    },
+    {
+      "name": "Galiano, Renzo",
+      "url": "https://muckrack.com/renzo-galiano"
+    },
+    {
+      "name": "Gill, Nicholas",
+      "url": "https://muckrack.com/nicholasgill"
+    },
+    {
+      "name": "Giraldo, Clara",
+      "url": "https://muckrack.com/clara-giraldo"
+    },
+    {
+      "name": "Gomero, Richard",
+      "url": "https://muckrack.com/richard-gomero"
+    },
+    {
+      "name": "G\u00f3mez Vega, Renzo",
+      "url": "https://muckrack.com/renzo-gomez-vega"
+    },
+    {
+      "name": "Gonz\u00e1les, Mar\u00eda",
+      "url": "https://muckrack.com/maria-gonzales-2"
+    },
+    {
+      "name": "Gonzales, Maria Alejandra",
+      "url": "https://muckrack.com/maria-alejandra-gonzales"
+    },
+    {
+      "name": "Gonzales, Renzo",
+      "url": "https://muckrack.com/renzo-gonzales-1"
+    },
+    {
+      "name": "Gonzalez, Maria",
+      "url": "https://muckrack.com/maria-gonzalez-134"
+    },
+    {
+      "name": "Grados C\u00f3rdova, Maricielo",
+      "url": "https://muckrack.com/maricielo-grados-cordova-1"
+    },
+    {
+      "name": "Herrera, Sergio",
+      "url": "https://muckrack.com/sergio-herrera-257"
+    },
+    {
+      "name": "Hidalgo, Luis",
+      "url": "https://muckrack.com/luis-hidalgo"
+    },
+    {
+      "name": "Huamani, Elio",
+      "url": "https://muckrack.com/elio-huamani"
+    },
+    {
+      "name": "Jaradat, Mya Guarnieri",
+      "url": "https://muckrack.com/mya-guarnieri-jaradat"
+    },
+    {
+      "name": "Julca, Ver\u00f3nica",
+      "url": "https://muckrack.com/veronica-julca-8"
+    },
+    {
+      "name": "Julca Vargas, Ver\u00f3nica",
+      "url": "https://muckrack.com/veronica-julca-vargas-9"
+    },
+    {
+      "name": "La Cruz, Alejandra",
+      "url": "https://muckrack.com/alejandra-la-cruz"
+    },
+    {
+      "name": "Lengua, Christian",
+      "url": "https://muckrack.com/christian-lengua"
+    },
+    {
+      "name": "Lezama, Carlos",
+      "url": "https://muckrack.com/carlos-lezama"
+    },
+    {
+      "name": "Lopez, Eliana",
+      "url": "https://muckrack.com/eliana-lopez"
+    },
+    {
+      "name": "Luna, Danny",
+      "url": "https://muckrack.com/danny-luna-4"
+    },
+    {
+      "name": "Manrique, Omar",
+      "url": "https://muckrack.com/omar-manrique"
+    },
+    {
+      "name": "Marchessini, Alejo",
+      "url": "https://muckrack.com/alejo-marchessini-1"
+    },
+    {
+      "name": "Marcos, Jazmin",
+      "url": "https://muckrack.com/jazmin-marcos"
+    },
+    {
+      "name": "Mart\u00edn, Karina",
+      "url": "https://muckrack.com/karina-martin"
+    },
+    {
+      "name": "Martinez, Maria Luisa",
+      "url": "https://muckrack.com/maria-luisa-martinez"
+    },
+    {
+      "name": "Martinez Oliva, Josefina",
+      "url": "https://muckrack.com/josefina-martinez-oliva"
+    },
+    {
+      "name": "Mc Cubbin, Ricardo",
+      "url": "https://muckrack.com/mcricardo"
+    },
+    {
+      "name": "Mejia, Martin",
+      "url": "https://muckrack.com/martin-mejia"
+    },
+    {
+      "name": "Melo, Yenny",
+      "url": "https://muckrack.com/yenny-melo"
+    },
+    {
+      "name": "Montesinos Nolasco, Edwin",
+      "url": "https://muckrack.com/edwin-montesinos-nolasco"
+    },
+    {
+      "name": "Montoro, Rafael",
+      "url": "https://muckrack.com/rafael-montoro"
+    },
+    {
+      "name": "Morocho, Ana",
+      "url": "https://muckrack.com/ana-morocho"
+    },
+    {
+      "name": "Najarro, Luis",
+      "url": "https://muckrack.com/luis-najarro"
+    },
+    {
+      "name": "Nishiyama, Alberto",
+      "url": "https://muckrack.com/alberto-nishiyama"
+    },
+    {
+      "name": "Noriega, Pedro",
+      "url": "https://muckrack.com/pedro-noriega"
+    },
+    {
+      "name": "Obando, Manoel",
+      "url": "https://muckrack.com/manoel-obando"
+    },
+    {
+      "name": "Obregon, Lorena",
+      "url": "https://muckrack.com/lorena-obregon"
+    },
+    {
+      "name": "Orellana, Marco",
+      "url": "https://muckrack.com/marco-orellana"
+    },
+    {
+      "name": "Ortiz, Marienella",
+      "url": "https://muckrack.com/marienella-ortiz"
+    },
+    {
+      "name": "Ortiz Bisso, Bruno",
+      "url": "https://muckrack.com/bruno-ortiz-bisso-1"
+    },
+    {
+      "name": "Palomino, Mercedes",
+      "url": "https://muckrack.com/mercedes-palomino-1"
+    },
+    {
+      "name": "Parra, Joaqu\u00edn",
+      "url": "https://muckrack.com/joaquin-parra"
+    },
+    {
+      "name": "Pe, Camelot",
+      "url": "https://muckrack.com/camelot-pe"
+    },
+    {
+      "name": "Pereda Zavaleta, David",
+      "url": "https://muckrack.com/davidperedaz"
+    },
+    {
+      "name": "Phun, Enrique",
+      "url": "https://muckrack.com/enrique-phun-1"
+    },
+    {
+      "name": "Pichihua, Sofia",
+      "url": "https://muckrack.com/sofia-pichihua"
+    },
+    {
+      "name": "Pinasco, Bruno",
+      "url": "https://muckrack.com/bruno-pinasco-5"
+    },
+    {
+      "name": "Pinasco, Chiara",
+      "url": "https://muckrack.com/chiara-pinasco"
+    },
+    {
+      "name": "Povis, Daniel",
+      "url": "https://muckrack.com/daniel-povis-1"
+    },
+    {
+      "name": "Quiroz, Karem Barboza",
+      "url": "https://muckrack.com/karem-barboza-quiroz"
+    },
+    {
+      "name": "Quispe, Lucero",
+      "url": "https://muckrack.com/lucero-quispe"
+    },
+    {
+      "name": "Ramirez, Fiorella",
+      "url": "https://muckrack.com/fiorella-ramirez"
+    },
+    {
+      "name": "Ramos Medina, Aar\u00f3n",
+      "url": "https://muckrack.com/aaron-ramos-medina"
+    },
+    {
+      "name": "Reyes, Martin",
+      "url": "https://muckrack.com/martin-reyes-15"
+    },
+    {
+      "name": "Rivera, Agnes",
+      "url": "https://muckrack.com/agnes-rivera"
+    },
+    {
+      "name": "Rivera Villanueva, Alberto",
+      "url": "https://muckrack.com/alberto-rivera-villanueva"
+    },
+    {
+      "name": "Rochabrun, Marcelo",
+      "url": "https://muckrack.com/marcelo-rochabrun"
+    },
+    {
+      "name": "Rodr\u00edguez, Marlon",
+      "url": "https://muckrack.com/marlon-rodriguez"
+    },
+    {
+      "name": "Rojas, Wilder",
+      "url": "https://muckrack.com/wilder-rojas-2"
+    },
+    {
+      "name": "Rojas Berr\u00edos, Manuel",
+      "url": "https://muckrack.com/manuel-rojas-berrios"
+    },
+    {
+      "name": "Rojas Lizana, Ronnie",
+      "url": "https://muckrack.com/ronnie-rojas-lizana"
+    },
+    {
+      "name": "Romero Diaz, Erika",
+      "url": "https://muckrack.com/erika-romero-diaz"
+    },
+    {
+      "name": "Rosales Donayre, Marcia Andrea",
+      "url": "https://muckrack.com/marcia-andrea-rosales-donayre"
+    },
+    {
+      "name": "Ruiz, Carol",
+      "url": "https://muckrack.com/carol-ruiz-5"
+    },
+    {
+      "name": "Salazar, Diego",
+      "url": "https://muckrack.com/diego-salazar"
+    },
+    {
+      "name": "Salazar, Eduardo",
+      "url": "https://muckrack.com/eduardo-salazar-6"
+    },
+    {
+      "name": "Salda\u00f1a, Alejandro",
+      "url": "https://muckrack.com/alejandro-saldana"
+    },
+    {
+      "name": "Saldarriaga, Juan",
+      "url": "https://muckrack.com/juan-saldarriaga"
+    },
+    {
+      "name": "S\u00e1nchez, Diego",
+      "url": "https://muckrack.com/diego-sanchez"
+    },
+    {
+      "name": "S\u00e1nchez, Paola Villar",
+      "url": "https://muckrack.com/paola-villar-s"
+    },
+    {
+      "name": "Silva, David",
+      "url": "https://muckrack.com/david-silva-44"
+    },
+    {
+      "name": "Silva, Renato",
+      "url": "https://muckrack.com/renato-silva"
+    },
+    {
+      "name": "Silva, Renzo",
+      "url": "https://muckrack.com/renzo-silva"
+    },
+    {
+      "name": "Stadler, Miguel L\u00f3pez-Torres",
+      "url": "https://muckrack.com/miguel-lopez-torres-stadler"
+    },
+    {
+      "name": "Sugobono, Nora",
+      "url": "https://muckrack.com/nora-sugobono"
+    },
+    {
+      "name": "Tafur, Thalia",
+      "url": "https://muckrack.com/thalia-tafur"
+    },
+    {
+      "name": "Taj, Mitra",
+      "url": "https://muckrack.com/mitra-taj"
+    },
+    {
+      "name": "Tello, Carla",
+      "url": "https://muckrack.com/carla-tello-1"
+    },
+    {
+      "name": "Unsleber, Michael",
+      "url": "https://muckrack.com/michael-unsleber"
+    },
+    {
+      "name": "Vaisman, Rebeca",
+      "url": "https://muckrack.com/rebeca-vaisman"
+    },
+    {
+      "name": "Valdivia Blume, Daniela",
+      "url": "https://muckrack.com/daniela-valdivia-blume"
+    },
+    {
+      "name": "Valenzuela, Cecilia",
+      "url": "https://muckrack.com/cecilia-valenzuela"
+    },
+    {
+      "name": "Valenzuela, Nurik",
+      "url": "https://muckrack.com/nurik-valenzuela"
+    },
+    {
+      "name": "Valle, Jhonny",
+      "url": "https://muckrack.com/jhonny-valle"
+    },
+    {
+      "name": "Vargas, Esther",
+      "url": "https://muckrack.com/esther-vargas-4"
+    },
+    {
+      "name": "Vasquez, Isaac",
+      "url": "https://muckrack.com/isaac-vasquez"
+    },
+    {
+      "name": "Velasquez, Luis",
+      "url": "https://muckrack.com/luis-velasquez"
+    },
+    {
+      "name": "Velez Zuazo, Alexa",
+      "url": "https://muckrack.com/alexa-velez-zuazo"
+    },
+    {
+      "name": "Veliz, Jesus",
+      "url": "https://muckrack.com/jesus-veliz"
+    },
+    {
+      "name": "Vera Ram\u00edrez, Natalia",
+      "url": "https://muckrack.com/natalia-vera-ramirez"
+    },
+    {
+      "name": "Villahermosa Soriano, Laura",
+      "url": "https://muckrack.com/laura-villahermosa-soriano-1"
+    },
+    {
+      "name": "Villantoy G\u00f3mez, Abigail",
+      "url": "https://muckrack.com/abigail-villantoy-gomez"
+    },
+    {
+      "name": "Watson, Peter",
+      "url": "https://muckrack.com/peter-watson-1"
+    },
+    {
+      "name": "Zavala, Sebastian",
+      "url": "https://muckrack.com/sebastian-zavala"
+    },
+    {
+      "name": "Zegarra S\u00e1enz, Jos\u00e9 Daniel",
+      "url": "https://muckrack.com/daniel-zegarra"
+    },
+    {
+      "name": "Zileri, Drusila",
+      "url": "https://muckrack.com/drusila-zileri"
+    },
+    {
+      "name": "Zurita, Manuela",
+      "url": "https://muckrack.com/manuela-zurita"
+    }
+  ]
+}

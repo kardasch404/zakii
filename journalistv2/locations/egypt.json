@@ -1,0 +1,471 @@
+{
+  "location": "egypt",
+  "url": "https://muckrack.com/beat/egypt",
+  "total_journalists": 116,
+  "journalists": [
+    {
+      "name": "Abdel Kouddous, Sharif",
+      "url": "https://muckrack.com/sharifkouddous"
+    },
+    {
+      "name": "Abdel Tawab, Salwa",
+      "url": "https://muckrack.com/salwa-abdel-tawab"
+    },
+    {
+      "name": "Abdel-Hameed, Taher",
+      "url": "https://muckrack.com/taher-abdel-hameed"
+    },
+    {
+      "name": "Abdel-Wahab, Omar",
+      "url": "https://muckrack.com/omar-abdel-wahab-1"
+    },
+    {
+      "name": "Abulleil, Reem",
+      "url": "https://muckrack.com/reem-abulleil"
+    },
+    {
+      "name": "Ahmed, Ashour A.",
+      "url": "https://muckrack.com/ahmed-ashour"
+    },
+    {
+      "name": "Al Gebaly, Muhammad",
+      "url": "https://muckrack.com/muhammad-al-gebaly"
+    },
+    {
+      "name": "Al-A'sar, Mostafa",
+      "url": "https://muckrack.com/mostafaalasar"
+    },
+    {
+      "name": "Alleruzzo, Maya",
+      "url": "https://muckrack.com/mayaalleruzzo"
+    },
+    {
+      "name": "Alsaar, Sofiane",
+      "url": "https://muckrack.com/sofiane-alsaar"
+    },
+    {
+      "name": "Amin, Bahira",
+      "url": "https://muckrack.com/bahira-amin-1"
+    },
+    {
+      "name": "Amin, Maged",
+      "url": "https://muckrack.com/maged-amin"
+    },
+    {
+      "name": "Amir Koura, Shady",
+      "url": "https://muckrack.com/shady-amir-koura"
+    },
+    {
+      "name": "Arrott, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-arrott"
+    },
+    {
+      "name": "Ayyash, AbdelRahman",
+      "url": "https://muckrack.com/abdelrahman-ayyash"
+    },
+    {
+      "name": "Bell, Bethany",
+      "url": "https://muckrack.com/bethany-bell"
+    },
+    {
+      "name": "Bossone, Andrew",
+      "url": "https://muckrack.com/abossone"
+    },
+    {
+      "name": "Bradley, Matt",
+      "url": "https://muckrack.com/mattmcbradley"
+    },
+    {
+      "name": "Childress, Samantha",
+      "url": "https://muckrack.com/samantha-childress"
+    },
+    {
+      "name": "Cunningham, Erin",
+      "url": "https://muckrack.com/erinmcunningham"
+    },
+    {
+      "name": "D. Kirkpatrick, David",
+      "url": "https://muckrack.com/kirkpatricknyt"
+    },
+    {
+      "name": "Davison, Tamara",
+      "url": "https://muckrack.com/tamara-davison"
+    },
+    {
+      "name": "Dean, Laura",
+      "url": "https://muckrack.com/laura-dean"
+    },
+    {
+      "name": "Degner, David",
+      "url": "https://muckrack.com/degner"
+    },
+    {
+      "name": "Deng, Chao",
+      "url": "https://muckrack.com/chao-deng"
+    },
+    {
+      "name": "El Helbawi, Mirna",
+      "url": "https://muckrack.com/mirna-el-helbawi"
+    },
+    {
+      "name": "El Hennawy, Noha",
+      "url": "https://muckrack.com/noha-el-hennawy"
+    },
+    {
+      "name": "El Sayed, Samar Mohamed",
+      "url": "https://muckrack.com/samar-mohamed-el-sayed"
+    },
+    {
+      "name": "El Tawil, Noha",
+      "url": "https://muckrack.com/noha-el-tawil"
+    },
+    {
+      "name": "El-Din, Mai Shams",
+      "url": "https://muckrack.com/mai-shams-el-din"
+    },
+    {
+      "name": "El-Galil, Tarek Abd",
+      "url": "https://muckrack.com/tarek-abd-el-galil"
+    },
+    {
+      "name": "El-Menawy, Abdellatif",
+      "url": "https://muckrack.com/abdellatif-el-menawy"
+    },
+    {
+      "name": "El-Naggar, Mona",
+      "url": "https://muckrack.com/mona-el-naggar"
+    },
+    {
+      "name": "El-Shaeri, Nour",
+      "url": "https://muckrack.com/nour-el-shaeri-1"
+    },
+    {
+      "name": "Elgohary, Aya",
+      "url": "https://muckrack.com/aya-elgohary"
+    },
+    {
+      "name": "ElKaaoud, Mohamed",
+      "url": "https://muckrack.com/mohamed-elkaaoud"
+    },
+    {
+      "name": "Elkorashy, Nada",
+      "url": "https://muckrack.com/nada-elkorashy-2"
+    },
+    {
+      "name": "Eltahawy, Mona",
+      "url": "https://muckrack.com/monaeltahawy"
+    },
+    {
+      "name": "Elzaitony, Pasant",
+      "url": "https://muckrack.com/pasant-elzaitony"
+    },
+    {
+      "name": "Emam, Amr",
+      "url": "https://muckrack.com/amr-emam"
+    },
+    {
+      "name": "Espa\u00f1ol, Marc",
+      "url": "https://muckrack.com/marc-espanol"
+    },
+    {
+      "name": "Fahmy, Tarek",
+      "url": "https://muckrack.com/tarekfahmy"
+    },
+    {
+      "name": "Farag, Mohamed",
+      "url": "https://muckrack.com/mohamed-farag"
+    },
+    {
+      "name": "Farid, Farid",
+      "url": "https://muckrack.com/farid-farid"
+    },
+    {
+      "name": "Farouk, Menna",
+      "url": "https://muckrack.com/menna-farouk"
+    },
+    {
+      "name": "Fick, Maggie",
+      "url": "https://muckrack.com/maggie-fick"
+    },
+    {
+      "name": "Gad, Ahmed",
+      "url": "https://muckrack.com/ahmed-gad"
+    },
+    {
+      "name": "Georgy, Michael",
+      "url": "https://muckrack.com/michael-georgy"
+    },
+    {
+      "name": "Gubash, Charlene",
+      "url": "https://muckrack.com/charlene-gubash"
+    },
+    {
+      "name": "Hamdy, Rana F.",
+      "url": "https://muckrack.com/rana-f-hamdy"
+    },
+    {
+      "name": "Hamed, Ahmed",
+      "url": "https://muckrack.com/ahmed-hamed"
+    },
+    {
+      "name": "hammad, Ismail",
+      "url": "https://muckrack.com/ismail-hammad"
+    },
+    {
+      "name": "Hannoun, Farah",
+      "url": "https://muckrack.com/farah-hannoun"
+    },
+    {
+      "name": "Hashem, Mostafa",
+      "url": "https://muckrack.com/mostaff"
+    },
+    {
+      "name": "Hendawi, Hamza",
+      "url": "https://muckrack.com/hamza-hendawi"
+    },
+    {
+      "name": "Higazy, Mourad",
+      "url": "https://muckrack.com/mouradhigaz"
+    },
+    {
+      "name": "Ibrahim, Saleh",
+      "url": "https://muckrack.com/saleh-ibrahim-2"
+    },
+    {
+      "name": "Ja'far, Zein",
+      "url": "https://muckrack.com/skyzein"
+    },
+    {
+      "name": "Jeffery, Jack",
+      "url": "https://muckrack.com/jack-jeffery"
+    },
+    {
+      "name": "Jones, Adam",
+      "url": "https://muckrack.com/adam-jones-5"
+    },
+    {
+      "name": "Kamel, Rola",
+      "url": "https://muckrack.com/rola-kamel"
+    },
+    {
+      "name": "Karam, Souhail",
+      "url": "https://muckrack.com/souhail-karam"
+    },
+    {
+      "name": "Keath, Lee",
+      "url": "https://muckrack.com/lee-keath"
+    },
+    {
+      "name": "Khalil, Ashraf",
+      "url": "https://muckrack.com/ashraf-khalil"
+    },
+    {
+      "name": "Kilany, Ahmed",
+      "url": "https://muckrack.com/ahmed-el-kilany"
+    },
+    {
+      "name": "Krauss, Joseph",
+      "url": "https://muckrack.com/joseph-krauss"
+    },
+    {
+      "name": "Lewis, Aidan",
+      "url": "https://muckrack.com/aidan-lewis"
+    },
+    {
+      "name": "Lotfi, Fatma",
+      "url": "https://muckrack.com/fatma-lotfi"
+    },
+    {
+      "name": "Magdy, Mirette",
+      "url": "https://muckrack.com/mirette-magdy"
+    },
+    {
+      "name": "Magdy, Samy",
+      "url": "https://muckrack.com/samy-magdy"
+    },
+    {
+      "name": "Maher, Mahmoud",
+      "url": "https://muckrack.com/mahmoudmaher"
+    },
+    {
+      "name": "Mahfouz, Heba Farouk",
+      "url": "https://muckrack.com/heba-farouk-mahfouz"
+    },
+    {
+      "name": "Mandour, Maged",
+      "url": "https://muckrack.com/maged-mandour"
+    },
+    {
+      "name": "McBain, Sophie",
+      "url": "https://muckrack.com/sophie-mcbain"
+    },
+    {
+      "name": "Megeed, Kari",
+      "url": "https://muckrack.com/kari-megeed"
+    },
+    {
+      "name": "Mellizo, \u00c1lvaro",
+      "url": "https://muckrack.com/alvaro-mellizo"
+    },
+    {
+      "name": "Messeder, John",
+      "url": "https://muckrack.com/john-messeder"
+    },
+    {
+      "name": "Mohamed, Hagar Saeed",
+      "url": "https://muckrack.com/hagar-saeed-mohammed"
+    },
+    {
+      "name": "Mounir, Eman",
+      "url": "https://muckrack.com/eman-mounir"
+    },
+    {
+      "name": "Murdock, Heather",
+      "url": "https://muckrack.com/heather-murdock"
+    },
+    {
+      "name": "Nabil, Amr",
+      "url": "https://muckrack.com/amr-nabil"
+    },
+    {
+      "name": "Nasser, Rodayna",
+      "url": "https://muckrack.com/rodayna-nasser"
+    },
+    {
+      "name": "Nawar, Ramy",
+      "url": "https://muckrack.com/ramy-nawar"
+    },
+    {
+      "name": "Noueihed, Lin",
+      "url": "https://muckrack.com/lin-noueihed"
+    },
+    {
+      "name": "Parker, Claire",
+      "url": "https://muckrack.com/claire-parker-1"
+    },
+    {
+      "name": "Pfeiffer, Tom",
+      "url": "https://muckrack.com/tom-pfeiffer"
+    },
+    {
+      "name": "Radjy, Amir-Hussein",
+      "url": "https://muckrack.com/amir-hussein-radjy"
+    },
+    {
+      "name": "Rafik, Mohammed",
+      "url": "https://muckrack.com/mohammed-rafik-1"
+    },
+    {
+      "name": "Rakha, Youssef",
+      "url": "https://muckrack.com/youssef-rakha"
+    },
+    {
+      "name": "Ramzy, Mohammad",
+      "url": "https://muckrack.com/mramzi"
+    },
+    {
+      "name": "Rashwan, Nada",
+      "url": "https://muckrack.com/nada-rashwan"
+    },
+    {
+      "name": "Razek, Raja",
+      "url": "https://muckrack.com/raja-razek"
+    },
+    {
+      "name": "Rizk, Mariam",
+      "url": "https://muckrack.com/mariam-rizk"
+    },
+    {
+      "name": "Salah, Khaled",
+      "url": "https://muckrack.com/khaled-ben-salah"
+    },
+    {
+      "name": "Saleh, Heba",
+      "url": "https://muckrack.com/heba-saleh"
+    },
+    {
+      "name": "Salem, Nadia",
+      "url": "https://muckrack.com/nadia-salem-1"
+    },
+    {
+      "name": "Samaan, Magdy",
+      "url": "https://muckrack.com/magdy-samaan"
+    },
+    {
+      "name": "Samir, Mohamed",
+      "url": "https://muckrack.com/mohamed-samir"
+    },
+    {
+      "name": "Sayed, Nadine El",
+      "url": "https://muckrack.com/nadine-elsayed"
+    },
+    {
+      "name": "Schmitt-Tegge, Johannes",
+      "url": "https://muckrack.com/schmitt_tegge"
+    },
+    {
+      "name": "Schwartzstein, Peter",
+      "url": "https://muckrack.com/peter-schwartzstein"
+    },
+    {
+      "name": "Shawkat, Ahmed",
+      "url": "https://muckrack.com/ahmed-shawkat-1"
+    },
+    {
+      "name": "Sherief, Shereen",
+      "url": "https://muckrack.com/shereen-sherif"
+    },
+    {
+      "name": "Shihata, Yasmine",
+      "url": "https://muckrack.com/yasmine-shihata"
+    },
+    {
+      "name": "Sidhom, Youssef",
+      "url": "https://muckrack.com/youssef-sidhom"
+    },
+    {
+      "name": "Spencer, Richard",
+      "url": "https://muckrack.com/richard-spencer"
+    },
+    {
+      "name": "Stapley, Kathryn",
+      "url": "https://muckrack.com/kathryn-stapley"
+    },
+    {
+      "name": "Stevenson, Tom",
+      "url": "https://muckrack.com/tom-stevenson"
+    },
+    {
+      "name": "Tabikha, Kamal",
+      "url": "https://muckrack.com/kamal-tabikha"
+    },
+    {
+      "name": "Talaat, Tarek",
+      "url": "https://muckrack.com/tarek-talaat"
+    },
+    {
+      "name": "Tantawi, Ahmed Saeed",
+      "url": "https://muckrack.com/ahmed-tantawi"
+    },
+    {
+      "name": "Wahba, Abdel Latif",
+      "url": "https://muckrack.com/abdel-latif-wahba"
+    },
+    {
+      "name": "Wahish, Niveen",
+      "url": "https://muckrack.com/niveen-wahish"
+    },
+    {
+      "name": "Wirtschafter, Jacob",
+      "url": "https://muckrack.com/jacob-wirtschafter"
+    },
+    {
+      "name": "Zaghloul, Mulham",
+      "url": "https://muckrack.com/mulham-zaghloul"
+    },
+    {
+      "name": "Zaki, Menna",
+      "url": "https://muckrack.com/menna-zaki"
+    }
+  ]
+}

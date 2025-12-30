@@ -1,0 +1,264 @@
+#!/usr/bin/env python3
+"""Real scraper - 20 journalists without login"""
+import json
+from pathlib import Path
+from datetime import datetime
+import time
+import random
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+BASE_DIR = Path(__file__).parent.parent
+DATA_DIR = BASE_DIR / 'muckrack' / 'datamuckrack'
+TEST_DIR = BASE_DIR / 'test'
+TEST_DIR.mkdir(exist_ok=True)
+
+def get_user_agent():
+    agents = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    ]
+    return random.choice(agents)
+
+class RealScraper:
+    def __init__(self, account_id):
+        self.account_id = account_id
+        self.driver = None
+    
+    def create_driver(self):
+        options = Options()
+        options.add_argument('--headless=new')
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        options.add_argument('--disable-features=IsolateOrigins,site-per-process')
+        options.add_argument('--disable-site-isolation-trials')
+        options.add_argument('--window-size=1920,1080')
+        options.add_argument(f'--user-agent={get_user_agent()}')
+        options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        options.add_experimental_option('useAutomationExtension', False)
+        
+        driver = webdriver.Chrome(options=options)
+        driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        return driver
+    
+    def init(self):
+        print(f"  🚗 Creating session: {self.account_id}")
+        try:
+            self.driver = self.create_driver()
+            return True
+        except Exception as e:
+            print(f"  ❌ Failed: {e}")
+            return False
+    
+    def get_page(self, url):
+        try:
+            self.driver.get(url)
+            time.sleep(random.uniform(0.6, 1.2))
+            return self.driver.page_source
+        except:
+            return None
+    
+    def scrape(self, journalist):
+        name = journalist['name']
+        url = journalist['link']
+        journalist_id = url.split('/')[-1]
+        start = time.time()
+        
+        try:
+            html = self.get_page(url)
+            if not html or len(html) < 1000:
+                raise Exception("Empty")
+            
+            soup = BeautifulSoup(html, 'lxml')
+            
+            data = {
+                'url': url,
+                'profile': self.extract_profile(soup),
+                'biography': self.extract_bio(soup),
+                'scraped_at': datetime.now().isoformat()
+            }
+            
+            time.sleep(random.uniform(0.4, 0.8))
+            port_html = self.get_page(f'https://muckrack.com/{journalist_id}/portfolio')
+            data['portfolio'] = self.extract_portfolio(BeautifulSoup(port_html, 'lxml')) if port_html else []
+            
+            time.sleep(random.uniform(0.3, 0.7))
+            award_html = self.get_page(f'https://muckrack.com/{journalist_id}/awards')
+            data['awards'] = self.extract_awards(BeautifulSoup(award_html, 'lxml')) if award_html else []
+            
+            time.sleep(random.uniform(0.3, 0.7))
+            int_html = self.get_page(f'https://muckrack.com/{journalist_id}/interview')
+            data['interviews'] = self.extract_interviews(BeautifulSoup(int_html, 'lxml')) if int_html else []
+            
+            elapsed = time.time() - start
+            return data, elapsed
+        except Exception as e:
+            return None, 0
+    
+    def extract_profile(self, soup):
+        profile = {}
+        container = soup.select_one('div.mr-card-content')
+        if not container:
+            return profile
+        if img := container.select_one('img[src*="profile/images"]'):
+            profile['avatar'] = img.get('src', '')
+        if name := container.select_one('h1.profile-name'):
+            profile['name'] = name.get_text(strip=True)
+        profile['verified'] = bool(container.select_one('small.profile-verified'))
+        jobs = []
+        for item in container.select('ul.mr-person-job-items li.mr-person-job-item'):
+            if outlet := item.select_one('a'):
+                text = item.get_text(strip=True)
+                title = text.split(',')[0].strip()
+                jobs.append({'title': title, 'outlet': outlet.get_text(strip=True)})
+        profile['jobs'] = jobs
+        return profile
+    
+    def extract_bio(self, soup):
+        bio_div = soup.select_one('div.profile-section.profile-bio')
+        if not bio_div:
+            return ''
+        return '\n\n'.join([p.get_text(strip=True) for p in bio_div.select('div.mr-card-content p') if p.get_text(strip=True)])
+    
+    def extract_portfolio(self, soup):
+        articles = []
+        for item in soup.select('div.portfolio-item-container'):
+            article = {}
+            if h3 := item.select_one('h3.portfolio-item-title'):
+                article['title'] = h3.get_text(strip=True)
+            if link := item.select_one('a.portfolio-item-hover'):
+                article['link'] = link.get('href', '')
+            if article.get('title'):
+                articles.append(article)
+        return articles
+    
+    def extract_awards(self, soup):
+        awards = []
+        for item in soup.select('div.profile-award'):
+            award = {}
+            if h4 := item.select_one('h4.item-header'):
+                award['title'] = h4.get_text(strip=True)
+            if award:
+                awards.append(award)
+        return awards
+    
+    def extract_interviews(self, soup):
+        interviews = []
+        for item in soup.select('div.profile-interview-answer'):
+            interview = {}
+            if h4 := item.select_one('h4'):
+                interview['question'] = h4.get_text(strip=True)
+            if interview:
+                interviews.append(interview)
+        return interviews
+    
+    def cleanup(self):
+        if self.driver:
+            try:
+                self.driver.quit()
+            except:
+                pass
+
+def main():
+    print("🎯 REAL SCRAPER - 20 Journalists Test")
+    print("🎮 Strategy: 1-3s delay every 5 journalists")
+    print("=" * 60)
+    
+    # Load journalists
+    location_dir = DATA_DIR / 'Afghanistan'
+    journalists = []
+    for journalist_dir in location_dir.glob('*'):
+        if journalist_dir.is_dir():
+            json_file = journalist_dir / f'{journalist_dir.name}.json'
+            if json_file.exists():
+                try:
+                    data = json.loads(json_file.read_text())
+                    url = data.get('url') or data.get('link')
+                    if url:
+                        journalists.append({'name': journalist_dir.name, 'link': url})
+                except:
+                    pass
+    
+    test_journalists = journalists[:20]
+    print(f"📦 Testing: {len(test_journalists)} journalists\n")
+    
+    # Create 2 scrapers (simulating 2 accounts)
+    print("🚀 Initializing scrapers...")
+    scrapers = []
+    for i in range(2):
+        scraper = RealScraper(f'acc{i+1}')
+        if scraper.init():
+            scrapers.append(scraper)
+    
+    if not scrapers:
+        print("❌ No scrapers available")
+        return
+    
+    print(f"✅ {len(scrapers)} scrapers ready\n")
+    
+    total_start = time.time()
+    times = []
+    success = 0
+    current_scraper = 0
+    
+    for i, journalist in enumerate(test_journalists, 1):
+        scraper = scrapers[current_scraper]
+        current_scraper = (current_scraper + 1) % len(scrapers)
+        
+        print(f"[{i}/20] {journalist['name']} (using {scraper.account_id})")
+        
+        data, elapsed = scraper.scrape(journalist)
+        times.append(elapsed)
+        
+        if data and data.get('profile'):
+            name = journalist['name']
+            dir_path = TEST_DIR / name
+            dir_path.mkdir(exist_ok=True)
+            file_path = dir_path / f'{name}.json'
+            file_path.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+            success += 1
+            print(f"  ✅ {elapsed:.1f}s")
+        else:
+            print(f"  ❌ Failed")
+        
+        # Strategic delay every 5
+        if i % 5 == 0 and i < len(test_journalists):
+            delay = random.uniform(1, 3)
+            print(f"  🎮 Break: {delay:.1f}s\n")
+            time.sleep(delay)
+        elif i < len(test_journalists):
+            delay = random.uniform(0.6, 1.0)
+            print(f"  ⏸️  {delay:.1f}s\n")
+            time.sleep(delay)
+    
+    total_elapsed = time.time() - total_start
+    avg_time = sum(times) / len(times) if times else 0
+    
+    # Cleanup
+    for scraper in scrapers:
+        scraper.cleanup()
+    
+    print("=" * 60)
+    print("📊 RESULTS")
+    print("=" * 60)
+    print(f"Total: {len(test_journalists)}")
+    print(f"Success: {success}/{len(test_journalists)} ({success/len(test_journalists)*100:.1f}%)")
+    print(f"Time: {total_elapsed:.1f}s ({total_elapsed/60:.1f} min)")
+    print(f"Avg: {avg_time:.1f}s/journalist")
+    print(f"\n📂 Location: {TEST_DIR}")
+    print(f"Files: {len(list(TEST_DIR.glob('*/*.json')))}")
+    
+    if avg_time > 0 and success > 0:
+        print(f"\n🎯 Projection for 113 journalists:")
+        total_time = avg_time * 113 + (113 // 5) * 2
+        print(f"  Time: {total_time/60:.1f} minutes")
+        print(f"  vs Current: 131 minutes")
+        print(f"  Speedup: {131/(total_time/60):.1f}x faster! 🚀")
+
+if __name__ == '__main__':
+    try:
+        main()
+    except KeyboardInterrupt:
+        print('\n⏹️ Stopped')

@@ -1,0 +1,483 @@
+{
+  "location": "bangladesh",
+  "url": "https://muckrack.com/beat/bangladesh",
+  "total_journalists": 119,
+  "journalists": [
+    {
+      "name": "Ahmad, Momenul",
+      "url": "https://muckrack.com/momenul-ahmad"
+    },
+    {
+      "name": "Ahmed, Kaamil",
+      "url": "https://muckrack.com/kaamilahmed"
+    },
+    {
+      "name": "Ahmed, Razu",
+      "url": "https://muckrack.com/razu-ahmed"
+    },
+    {
+      "name": "Ahmed, Redwan",
+      "url": "https://muckrack.com/redwan-ahmed"
+    },
+    {
+      "name": "Ahsan, Maskwaith",
+      "url": "https://muckrack.com/maskwaith-ahsan"
+    },
+    {
+      "name": "Akash, Aklakur Rahman",
+      "url": "https://muckrack.com/aklakur-rahman-akash"
+    },
+    {
+      "name": "Akbar, Tausif N",
+      "url": "https://muckrack.com/tausifnakbar"
+    },
+    {
+      "name": "Alam, Julhas",
+      "url": "https://muckrack.com/julhas-alam"
+    },
+    {
+      "name": "Alam, Saiful",
+      "url": "https://muckrack.com/saiful-alam-1"
+    },
+    {
+      "name": "Alam, Shafiqul",
+      "url": "https://muckrack.com/shafiqalam1"
+    },
+    {
+      "name": "Alam, Shahriar",
+      "url": "https://muckrack.com/shahriar"
+    },
+    {
+      "name": "Alamin, Khairul Islam",
+      "url": "https://muckrack.com/khairul-islam-alamin"
+    },
+    {
+      "name": "Amin, Aasha",
+      "url": "https://muckrack.com/aasha-amin"
+    },
+    {
+      "name": "Anam, Mahfuz",
+      "url": "https://muckrack.com/mahfuz-anam-1"
+    },
+    {
+      "name": "Anjum, Rezwana",
+      "url": "https://muckrack.com/rezwana-anjum"
+    },
+    {
+      "name": "Arefin, Abu Reza",
+      "url": "https://muckrack.com/abu-reza-arefin"
+    },
+    {
+      "name": "Aziz, Md. Naeem",
+      "url": "https://muckrack.com/md-naeem-aziz"
+    },
+    {
+      "name": "Azizul Islam, Kazi",
+      "url": "https://muckrack.com/kazi-azizul-islam"
+    },
+    {
+      "name": "Banna, Hasanul",
+      "url": "https://muckrack.com/hmbanna"
+    },
+    {
+      "name": "Bin Mushtaq, Shakil",
+      "url": "https://muckrack.com/shakil-bin-mushtaq"
+    },
+    {
+      "name": "Biraj, Andrew",
+      "url": "https://muckrack.com/andrew-biraj"
+    },
+    {
+      "name": "Biswas, Piyas",
+      "url": "https://muckrack.com/piyas_biswas"
+    },
+    {
+      "name": "Board, Jack",
+      "url": "https://muckrack.com/jack-board-1"
+    },
+    {
+      "name": "Choudhury, Taz",
+      "url": "https://muckrack.com/taz-choudhury"
+    },
+    {
+      "name": "Chowdhury, Kamran Reza",
+      "url": "https://muckrack.com/kamran-reza-chowdhury"
+    },
+    {
+      "name": "Chowdhury, Miraj Ahmed",
+      "url": "https://muckrack.com/miraj-ahmed-chowdhury"
+    },
+    {
+      "name": "Chowdhury, Tanvir",
+      "url": "https://muckrack.com/tanvir-chowdhury"
+    },
+    {
+      "name": "Chowdhury, Zakir Hossain",
+      "url": "https://muckrack.com/zakir-hossain-chowdhury"
+    },
+    {
+      "name": "Deb Nath, Sanjib",
+      "url": "https://muckrack.com/sanjib-deb-nath"
+    },
+    {
+      "name": "Devnath, Arun",
+      "url": "https://muckrack.com/arun-devnath"
+    },
+    {
+      "name": "Eyamin, Md",
+      "url": "https://muckrack.com/md-eyamin"
+    },
+    {
+      "name": "Goni, Abdul",
+      "url": "https://muckrack.com/abdul-goni"
+    },
+    {
+      "name": "Haque, Emdadul",
+      "url": "https://muckrack.com/emdadul-haque"
+    },
+    {
+      "name": "Haroon, Jasim",
+      "url": "https://muckrack.com/jasim-haroon"
+    },
+    {
+      "name": "Hasan, Imrul",
+      "url": "https://muckrack.com/imrul-hasan"
+    },
+    {
+      "name": "Hasan, Mariful",
+      "url": "https://muckrack.com/md-mariful-hasan"
+    },
+    {
+      "name": "Hasan, Maruf",
+      "url": "https://muckrack.com/maruf-hasan-3"
+    },
+    {
+      "name": "Hasan, Mohammad Rakibul",
+      "url": "https://muckrack.com/mohammad-rakibul-hasan"
+    },
+    {
+      "name": "Hasan Farabi, Mahmudul",
+      "url": "https://muckrack.com/mahmudul-hasan-farabi"
+    },
+    {
+      "name": "Hasan Marof, Mehedi",
+      "url": "https://muckrack.com/mehedimarof"
+    },
+    {
+      "name": "Hasan Taludker, Mahadi",
+      "url": "https://muckrack.com/mahadi-hasan-taludker"
+    },
+    {
+      "name": "Hasnat, Partho",
+      "url": "https://muckrack.com/partho-hasnat"
+    },
+    {
+      "name": "Hasnat, Saif",
+      "url": "https://muckrack.com/saifhasnat"
+    },
+    {
+      "name": "Hassan, Jahan",
+      "url": "https://muckrack.com/jahan-hassan"
+    },
+    {
+      "name": "Hossain, Ikram",
+      "url": "https://muckrack.com/ikumcj24"
+    },
+    {
+      "name": "Hossain, Sajjad",
+      "url": "https://muckrack.com/sajjad-hossain-1"
+    },
+    {
+      "name": "Hossain, Tasmima",
+      "url": "https://muckrack.com/tasmima-hossain"
+    },
+    {
+      "name": "Hossen, Emran",
+      "url": "https://muckrack.com/emran-hossen-1"
+    },
+    {
+      "name": "Husain Imam, Shah",
+      "url": "https://muckrack.com/shah-husain-imam"
+    },
+    {
+      "name": "Ibne Abul Fazal, Zaed",
+      "url": "https://muckrack.com/zaed-ibne-abul-fazal-2"
+    },
+    {
+      "name": "Illius, Shamsuddin",
+      "url": "https://muckrack.com/shamsuddin-illius"
+    },
+    {
+      "name": "Imtiaz, Nasif",
+      "url": "https://muckrack.com/nasif-imtiaz"
+    },
+    {
+      "name": "Isam, Mohammad",
+      "url": "https://muckrack.com/mohammad-isam"
+    },
+    {
+      "name": "Islam, Adibul",
+      "url": "https://muckrack.com/adibul-islam"
+    },
+    {
+      "name": "Islam, Naim",
+      "url": "https://muckrack.com/naim-islam"
+    },
+    {
+      "name": "Islam, Rifat",
+      "url": "https://muckrack.com/rifat-islam-1"
+    },
+    {
+      "name": "Islam, Zyma",
+      "url": "https://muckrack.com/zyma-islam"
+    },
+    {
+      "name": "Islam Joy, Nazrul",
+      "url": "https://muckrack.com/nazrul-islam-joy"
+    },
+    {
+      "name": "Islam Rana, Tahidul",
+      "url": "https://muckrack.com/tahidul-islam-rana"
+    },
+    {
+      "name": "Jahan, Dil Afrose",
+      "url": "https://muckrack.com/afrosejahan"
+    },
+    {
+      "name": "Jahan, Sam",
+      "url": "https://muckrack.com/sam-jahan"
+    },
+    {
+      "name": "Jahangir, Md Shamim",
+      "url": "https://muckrack.com/md-shamim-jahangir-6"
+    },
+    {
+      "name": "Kader, Ruhul",
+      "url": "https://muckrack.com/ruhul-kader"
+    },
+    {
+      "name": "Kamal, Mohammad",
+      "url": "https://muckrack.com/mohammad-kamal"
+    },
+    {
+      "name": "Khan, Enayetullah",
+      "url": "https://muckrack.com/enayetullah-khan"
+    },
+    {
+      "name": "Khan, Md Zahid Hossain",
+      "url": "https://muckrack.com/zahid-hossain-khan"
+    },
+    {
+      "name": "Khan, Mohammad Jamil",
+      "url": "https://muckrack.com/mohammad-jamil-khan"
+    },
+    {
+      "name": "Khan, Palash",
+      "url": "https://muckrack.com/palashkhan360"
+    },
+    {
+      "name": "Kibria, Asjadul",
+      "url": "https://muckrack.com/asjadul-kibria"
+    },
+    {
+      "name": "Kugelman, Michael",
+      "url": "https://muckrack.com/michael-kugelman"
+    },
+    {
+      "name": "Mahmud, Abir",
+      "url": "https://muckrack.com/abir-mahmud"
+    },
+    {
+      "name": "Mahmud, Faisal",
+      "url": "https://muckrack.com/faisal-mahmud"
+    },
+    {
+      "name": "Mahmud, Iftekhar",
+      "url": "https://muckrack.com/iftekhar-mahmud"
+    },
+    {
+      "name": "Mahmud, Taysir",
+      "url": "https://muckrack.com/taysir-mahmud"
+    },
+    {
+      "name": "Mamun, Nuruzzaman",
+      "url": "https://muckrack.com/nuruzzaman-mamun"
+    },
+    {
+      "name": "Mazed, Mohammad Ali",
+      "url": "https://muckrack.com/mohammad-ali-mazed"
+    },
+    {
+      "name": "Md. Akiz, Sheikh",
+      "url": "https://muckrack.com/sheikh-md-akiz"
+    },
+    {
+      "name": "Miavaldi, Matteo",
+      "url": "https://muckrack.com/matteo-miavaldi-1"
+    },
+    {
+      "name": "Milad, Al Hasan",
+      "url": "https://muckrack.com/al-hasan-milad"
+    },
+    {
+      "name": "Minhaj Uddin, Mohammed",
+      "url": "https://muckrack.com/minhaj570"
+    },
+    {
+      "name": "Mithu, Ariful Islam",
+      "url": "https://muckrack.com/ariful-islam-mithu"
+    },
+    {
+      "name": "Mohsin, Mohammad",
+      "url": "https://muckrack.com/mohammad-mohsin-1"
+    },
+    {
+      "name": "Mollik, Md Sunnat Ali",
+      "url": "https://muckrack.com/mdsunnatalimollik"
+    },
+    {
+      "name": "Muhammad Arif, Sheikh",
+      "url": "https://muckrack.com/sheikh-muhammad-arif"
+    },
+    {
+      "name": "Mujib, Rasheek Tabassum",
+      "url": "https://muckrack.com/rasheek-tabassum-mujib"
+    },
+    {
+      "name": "Nahid, Nurul Islam",
+      "url": "https://muckrack.com/nurul-islam-nahid"
+    },
+    {
+      "name": "Nasrin, Shamima",
+      "url": "https://muckrack.com/shamima-nasrin"
+    },
+    {
+      "name": "Newaz Khan, Zahid",
+      "url": "https://muckrack.com/zahid-newaz-khan"
+    },
+    {
+      "name": "Nizam, Naem",
+      "url": "https://muckrack.com/naem-nizam"
+    },
+    {
+      "name": "Paul, Ruma",
+      "url": "https://muckrack.com/ruma-paul"
+    },
+    {
+      "name": "Preetha, Sushmita S.",
+      "url": "https://muckrack.com/sushmita-s-preetha"
+    },
+    {
+      "name": "Rahman, Mahmudur",
+      "url": "https://muckrack.com/mahmudur-rahman-1"
+    },
+    {
+      "name": "Rahman, Matiur",
+      "url": "https://muckrack.com/matiur-rahman-1"
+    },
+    {
+      "name": "Rahman, Sajibur",
+      "url": "https://muckrack.com/sajibur-rahman-1"
+    },
+    {
+      "name": "Rakibul Islam, Md",
+      "url": "https://muckrack.com/md-rakibul-islam-2"
+    },
+    {
+      "name": "Rashid, Muktadir",
+      "url": "https://muckrack.com/muktadir-rashid"
+    },
+    {
+      "name": "Ripon, Tanbirul Miraj",
+      "url": "https://muckrack.com/tanbirul-miraj-ripon"
+    },
+    {
+      "name": "Rizve, Saqlain",
+      "url": "https://muckrack.com/saqlain-rizve-1"
+    },
+    {
+      "name": "Romeo, Muktadir Rashid",
+      "url": "https://muckrack.com/muktadir-rashid-romeo"
+    },
+    {
+      "name": "Ronie, Sardar",
+      "url": "https://muckrack.com/sardar-ronie"
+    },
+    {
+      "name": "Rony, Parvez Ahmad",
+      "url": "https://muckrack.com/parvez-ahmad-rony"
+    },
+    {
+      "name": "Saeed, Salman",
+      "url": "https://muckrack.com/salman-saeed"
+    },
+    {
+      "name": "Sajen, Shamsuddoza",
+      "url": "https://muckrack.com/shamsuddoza-sajen"
+    },
+    {
+      "name": "Salahuddin, Tareq",
+      "url": "https://muckrack.com/tareq-salahuddin"
+    },
+    {
+      "name": "Sarker, Abdur Razzak",
+      "url": "https://muckrack.com/abdur-razzak-sarker"
+    },
+    {
+      "name": "Sarker, Mohiuddin",
+      "url": "https://muckrack.com/mohiuddin-sarker"
+    },
+    {
+      "name": "Sarker, Saqib",
+      "url": "https://muckrack.com/saqib-sarker-1"
+    },
+    {
+      "name": "Shawon, Ali Asif",
+      "url": "https://muckrack.com/ali-asif-shawon-1"
+    },
+    {
+      "name": "Shishir, Qadaruddin",
+      "url": "https://muckrack.com/qadaruddin-shishir"
+    },
+    {
+      "name": "Shovon, Fahim Reza",
+      "url": "https://muckrack.com/fahim-reza-shovon"
+    },
+    {
+      "name": "Sobhan, Zafar",
+      "url": "https://muckrack.com/zafar-sobhan-3"
+    },
+    {
+      "name": "Syed, Zain",
+      "url": "https://muckrack.com/zain-syed"
+    },
+    {
+      "name": "Ubaydullah, Md",
+      "url": "https://muckrack.com/md-ubaydullah"
+    },
+    {
+      "name": "Uddin, Gias",
+      "url": "https://muckrack.com/gias-uddin-2"
+    },
+    {
+      "name": "Wadud, Mushfique",
+      "url": "https://muckrack.com/mushfiquewadud"
+    },
+    {
+      "name": "Waheed, Karim",
+      "url": "https://muckrack.com/karim-waheed"
+    },
+    {
+      "name": "Yousuf, Mostafa",
+      "url": "https://muckrack.com/mostafa-yousuf"
+    },
+    {
+      "name": "Zaman, Munir Uz",
+      "url": "https://muckrack.com/munir-uz-zaman-1"
+    },
+    {
+      "name": "Zami, Tahmid",
+      "url": "https://muckrack.com/tahmid-zami"
+    }
+  ]
+}

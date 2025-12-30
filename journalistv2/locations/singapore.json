@@ -1,0 +1,2115 @@
+{
+  "location": "singapore",
+  "url": "https://muckrack.com/beat/singapore",
+  "total_journalists": 527,
+  "journalists": [
+    {
+      "name": "Abbugao, Martin",
+      "url": "https://muckrack.com/martin-abbugao"
+    },
+    {
+      "name": "Abdul Alim, Emmy",
+      "url": "https://muckrack.com/emmy-abdul-alim-1"
+    },
+    {
+      "name": "Abdullah, Zhaki",
+      "url": "https://muckrack.com/zhaki-abdullah"
+    },
+    {
+      "name": "Abraham, Adrian",
+      "url": "https://muckrack.com/adrian-abraham"
+    },
+    {
+      "name": "Adam, Shamim",
+      "url": "https://muckrack.com/shamimadam"
+    },
+    {
+      "name": "Agarwal, Chirag",
+      "url": "https://muckrack.com/chirag-agarwal"
+    },
+    {
+      "name": "Al-Khaldi, Sarah",
+      "url": "https://muckrack.com/sarah-al-khaldi"
+    },
+    {
+      "name": "Alexander, Lance",
+      "url": "https://muckrack.com/lance-alexander"
+    },
+    {
+      "name": "Alkhatib, Shaffiq",
+      "url": "https://muckrack.com/shaffiq-alkhatib"
+    },
+    {
+      "name": "Allen, Lee",
+      "url": "https://muckrack.com/lee-allen-4"
+    },
+    {
+      "name": "Almenoar, Maria",
+      "url": "https://muckrack.com/maria-almenoar"
+    },
+    {
+      "name": "Amzah, Malena",
+      "url": "https://muckrack.com/malena-amzah"
+    },
+    {
+      "name": "Anand, Vijay",
+      "url": "https://muckrack.com/vijay-anand-2"
+    },
+    {
+      "name": "Ang, Amelia",
+      "url": "https://muckrack.com/amelia-ang"
+    },
+    {
+      "name": "Ang, Benson",
+      "url": "https://muckrack.com/benson-ang"
+    },
+    {
+      "name": "Ang, Dave",
+      "url": "https://muckrack.com/dave-ang"
+    },
+    {
+      "name": "Ang, Katerina",
+      "url": "https://muckrack.com/katerina-ang"
+    },
+    {
+      "name": "Anjum, Zafar",
+      "url": "https://muckrack.com/zafar-anjum"
+    },
+    {
+      "name": "Armstrong, Rachel",
+      "url": "https://muckrack.com/reutersasiaregs"
+    },
+    {
+      "name": "Arnold, Wayne",
+      "url": "https://muckrack.com/wayne-arnold"
+    },
+    {
+      "name": "Asher, Saira",
+      "url": "https://muckrack.com/saira-asher-1"
+    },
+    {
+      "name": "Assar, Ahmed",
+      "url": "https://muckrack.com/ahmed_assar70"
+    },
+    {
+      "name": "Astha, Zat",
+      "url": "https://muckrack.com/zat-astha"
+    },
+    {
+      "name": "Aureus, Dudi",
+      "url": "https://muckrack.com/dudi-aureus"
+    },
+    {
+      "name": "Aziz, Sazali Abdul",
+      "url": "https://muckrack.com/sazali-abdul-aziz"
+    },
+    {
+      "name": "Azliah, Nurul",
+      "url": "https://muckrack.com/nurul-azliah"
+    },
+    {
+      "name": "Baharudin, Hariz",
+      "url": "https://muckrack.com/hariz-baharudin"
+    },
+    {
+      "name": "Baker, Mark",
+      "url": "https://muckrack.com/mark-baker-11"
+    },
+    {
+      "name": "Bakhtiar, Adam",
+      "url": "https://muckrack.com/adam-bakhtiar"
+    },
+    {
+      "name": "Bangah, Sudev",
+      "url": "https://muckrack.com/sudev-bangah-1"
+    },
+    {
+      "name": "Batchelor, Ren\u00e9e",
+      "url": "https://muckrack.com/renee-batchelor"
+    },
+    {
+      "name": "Begum, Shabana",
+      "url": "https://muckrack.com/shabana-begum"
+    },
+    {
+      "name": "Beng, Kor Kian",
+      "url": "https://muckrack.com/kor-kian-beng"
+    },
+    {
+      "name": "Benner, Tom",
+      "url": "https://muckrack.com/tom-benner"
+    },
+    {
+      "name": "Betsaida Beltran-Laguipo, Angela",
+      "url": "https://muckrack.com/angela-betsaida-beltran-laguipo"
+    },
+    {
+      "name": "Bharade, Aditi",
+      "url": "https://muckrack.com/aditi-bharade"
+    },
+    {
+      "name": "Biswas, Damyanti",
+      "url": "https://muckrack.com/damyanti-biswas"
+    },
+    {
+      "name": "Brijnath, Rohit",
+      "url": "https://muckrack.com/rohit-brijnath"
+    },
+    {
+      "name": "Burgos, Jonathan",
+      "url": "https://muckrack.com/jonathan-burgos"
+    },
+    {
+      "name": "Cambe, Pameyla",
+      "url": "https://muckrack.com/pameyla-cambe"
+    },
+    {
+      "name": "Campbell, Matthew",
+      "url": "https://muckrack.com/mattcampbell"
+    },
+    {
+      "name": "Ceambur, Alle",
+      "url": "https://muckrack.com/alle-ceambur"
+    },
+    {
+      "name": "Chai Chin, Neo",
+      "url": "https://muckrack.com/neo-chai-chin-2"
+    },
+    {
+      "name": "Chakraborty, Ranamita",
+      "url": "https://muckrack.com/ranamita-chakraborty"
+    },
+    {
+      "name": "Champion, KC",
+      "url": "https://muckrack.com/kc-champion"
+    },
+    {
+      "name": "Chan, Chao Peh",
+      "url": "https://muckrack.com/chao-peh-chan"
+    },
+    {
+      "name": "Chan, Christopher",
+      "url": "https://muckrack.com/christopher-chan-19"
+    },
+    {
+      "name": "Chan, Clarence",
+      "url": "https://muckrack.com/clarence-w-chan"
+    },
+    {
+      "name": "Chan, Lyn",
+      "url": "https://muckrack.com/lyn-chan"
+    },
+    {
+      "name": "Chan, Zachary",
+      "url": "https://muckrack.com/zachary-chan"
+    },
+    {
+      "name": "Chandler, Alex",
+      "url": "https://muckrack.com/alex-chandler-6"
+    },
+    {
+      "name": "Chandramohan, Gaya",
+      "url": "https://muckrack.com/gayac"
+    },
+    {
+      "name": "Chanjaroen, Chanyaporn",
+      "url": "https://muckrack.com/chanyaporn-chanjaroen"
+    },
+    {
+      "name": "Chaturvedi, Saurabh",
+      "url": "https://muckrack.com/journosaurabh"
+    },
+    {
+      "name": "Cheah, Farah",
+      "url": "https://muckrack.com/farah-cheah"
+    },
+    {
+      "name": "Cheam, Jessica",
+      "url": "https://muckrack.com/jessica-cheam"
+    },
+    {
+      "name": "Chen, Francine",
+      "url": "https://muckrack.com/francine-chen"
+    },
+    {
+      "name": "Chen, Heather",
+      "url": "https://muckrack.com/heather-chen"
+    },
+    {
+      "name": "Chen, Sharon",
+      "url": "https://muckrack.com/sharon-chen-1"
+    },
+    {
+      "name": "Cheney, Satish",
+      "url": "https://muckrack.com/satish-cheney"
+    },
+    {
+      "name": "Cheng, John",
+      "url": "https://muckrack.com/john-cheng-1"
+    },
+    {
+      "name": "Cheng, Kenneth",
+      "url": "https://muckrack.com/kenneth-cheng-4"
+    },
+    {
+      "name": "Cheong, Serene",
+      "url": "https://muckrack.com/serene-cheong"
+    },
+    {
+      "name": "Cheong, Wayne",
+      "url": "https://muckrack.com/wayne-cheong-1"
+    },
+    {
+      "name": "Cher, Benjamin",
+      "url": "https://muckrack.com/benjamin-cher"
+    },
+    {
+      "name": "Chew, Gabian",
+      "url": "https://muckrack.com/gabian-chew"
+    },
+    {
+      "name": "Chew, Ryan",
+      "url": "https://muckrack.com/ryan-chew"
+    },
+    {
+      "name": "Chia, Brandon",
+      "url": "https://muckrack.com/brandon-chia"
+    },
+    {
+      "name": "Chia, Steven",
+      "url": "https://muckrack.com/steven-chia"
+    },
+    {
+      "name": "Chia, Terence",
+      "url": "https://muckrack.com/terence-chia"
+    },
+    {
+      "name": "Chiew, Samantha",
+      "url": "https://muckrack.com/samantha-chiew"
+    },
+    {
+      "name": "Chin, Yongchang",
+      "url": "https://muckrack.com/yongchangchin"
+    },
+    {
+      "name": "Chong, Glenda",
+      "url": "https://muckrack.com/glenda-chong"
+    },
+    {
+      "name": "Choo, Daryl",
+      "url": "https://muckrack.com/daryl-choo"
+    },
+    {
+      "name": "Choo, Hannah",
+      "url": "https://muckrack.com/hanncho"
+    },
+    {
+      "name": "Choo, Justin",
+      "url": "https://muckrack.com/justin-choo"
+    },
+    {
+      "name": "Choo Jia Hui, Chloe",
+      "url": "https://muckrack.com/choo-jia-hui"
+    },
+    {
+      "name": "Chou, Siaw-Kiang",
+      "url": "https://muckrack.com/siaw-kiang-chou"
+    },
+    {
+      "name": "Choy, Natalie",
+      "url": "https://muckrack.com/natalie-choy"
+    },
+    {
+      "name": "Chua, Irene",
+      "url": "https://muckrack.com/irene-chua"
+    },
+    {
+      "name": "Chui, Charmaine",
+      "url": "https://muckrack.com/charmaine-chui-1"
+    },
+    {
+      "name": "Chung, Daphne",
+      "url": "https://muckrack.com/daphne-chung-1"
+    },
+    {
+      "name": "Chung, Shawn",
+      "url": "https://muckrack.com/shawn-chung"
+    },
+    {
+      "name": "Coloma, Roberto Z",
+      "url": "https://muckrack.com/roberto-z-coloma"
+    },
+    {
+      "name": "Cua, Genevieve",
+      "url": "https://muckrack.com/genevieve-cua"
+    },
+    {
+      "name": "Daga, Anshuman",
+      "url": "https://muckrack.com/anshuman-daga"
+    },
+    {
+      "name": "Dalal, Manju",
+      "url": "https://muckrack.com/manju-dalal"
+    },
+    {
+      "name": "Damrongkul, Isabella",
+      "url": "https://muckrack.com/isabella-damrongkul"
+    },
+    {
+      "name": "Danese, Paolo",
+      "url": "https://muckrack.com/paolo-danese"
+    },
+    {
+      "name": "Davie, Sandra",
+      "url": "https://muckrack.com/sandra-davie"
+    },
+    {
+      "name": "De Cotta, Ian",
+      "url": "https://muckrack.com/ian-de-cotta-2"
+    },
+    {
+      "name": "Delbridge, Kenn",
+      "url": "https://muckrack.com/kenn-delbridge"
+    },
+    {
+      "name": "Ding, Qilin",
+      "url": "https://muckrack.com/qilin-ding"
+    },
+    {
+      "name": "Dobson, Paul",
+      "url": "https://muckrack.com/paul-dobson"
+    },
+    {
+      "name": "Driskill, Matthew",
+      "url": "https://muckrack.com/matt-driskill"
+    },
+    {
+      "name": "Du, Wei",
+      "url": "https://muckrack.com/wei-du"
+    },
+    {
+      "name": "Edwards, Otelli",
+      "url": "https://muckrack.com/otelli-edwards"
+    },
+    {
+      "name": "Ee, Jaime",
+      "url": "https://muckrack.com/jaime-ee"
+    },
+    {
+      "name": "Eu, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-eu"
+    },
+    {
+      "name": "Fadhil, Muhamad",
+      "url": "https://muckrack.com/muhamadfadhil"
+    },
+    {
+      "name": "Fahmy, Miral",
+      "url": "https://muckrack.com/miral-fahmy"
+    },
+    {
+      "name": "Fahmy, Sherif",
+      "url": "https://muckrack.com/sherif-fahmy"
+    },
+    {
+      "name": "F\u00e4hnders, Till",
+      "url": "https://muckrack.com/till-fahnders"
+    },
+    {
+      "name": "Fam, Jonathan",
+      "url": "https://muckrack.com/jonathan-fam"
+    },
+    {
+      "name": "Faries, William",
+      "url": "https://muckrack.com/billfaries"
+    },
+    {
+      "name": "Fawcett, Lilian",
+      "url": "https://muckrack.com/lilian-fawcett-1"
+    },
+    {
+      "name": "Fernandez, Annabelle",
+      "url": "https://muckrack.com/annabelle-fernandez"
+    },
+    {
+      "name": "Fernandez, Warren",
+      "url": "https://muckrack.com/warren-fernandez"
+    },
+    {
+      "name": "Fong, Florence",
+      "url": "https://muckrack.com/florence-fong"
+    },
+    {
+      "name": "Fong, Karen",
+      "url": "https://muckrack.com/karen-fong"
+    },
+    {
+      "name": "Foo, Mei Anne",
+      "url": "https://muckrack.com/mei-anne-foo"
+    },
+    {
+      "name": "Friday, Farzanah",
+      "url": "https://muckrack.com/farzanah-friday"
+    },
+    {
+      "name": "Gan, Cherilyn",
+      "url": "https://muckrack.com/cherilyn-gan"
+    },
+    {
+      "name": "Gay, Arnold",
+      "url": "https://muckrack.com/arnold-gay"
+    },
+    {
+      "name": "Gerstein, Julie",
+      "url": "https://muckrack.com/julie-gerstein"
+    },
+    {
+      "name": "Ghosh, Nirmal",
+      "url": "https://muckrack.com/nirmal-ghosh"
+    },
+    {
+      "name": "Goh, Amanda",
+      "url": "https://muckrack.com/amanda-goh"
+    },
+    {
+      "name": "Goh, Daniel",
+      "url": "https://muckrack.com/daniel-goh"
+    },
+    {
+      "name": "Goh, Ginny-Ann",
+      "url": "https://muckrack.com/ginny-ann-goh"
+    },
+    {
+      "name": "Goh, Kenneth",
+      "url": "https://muckrack.com/kenneth-goh-1"
+    },
+    {
+      "name": "Goh, Melissa",
+      "url": "https://muckrack.com/melissa-goh-1"
+    },
+    {
+      "name": "Goh, Sarah",
+      "url": "https://muckrack.com/sarah-goh-2"
+    },
+    {
+      "name": "Goh, Timothy",
+      "url": "https://muckrack.com/timothy-goh"
+    },
+    {
+      "name": "Grant, Bruce",
+      "url": "https://muckrack.com/bruce-grant-2"
+    },
+    {
+      "name": "Gwee, Karen",
+      "url": "https://muckrack.com/karen-gwee"
+    },
+    {
+      "name": "Haddad, Hanan",
+      "url": "https://muckrack.com/hanan-haddad"
+    },
+    {
+      "name": "Hajari, Nisid",
+      "url": "https://muckrack.com/nisid-hajari"
+    },
+    {
+      "name": "Hamzah, Aqil",
+      "url": "https://muckrack.com/aqil-hamzah"
+    },
+    {
+      "name": "Han, Adrian",
+      "url": "https://muckrack.com/adrian-han"
+    },
+    {
+      "name": "Han, Kirsten",
+      "url": "https://muckrack.com/kirstenhan"
+    },
+    {
+      "name": "Han, Weiding",
+      "url": "https://muckrack.com/weiding-han"
+    },
+    {
+      "name": "Hand, Marcus",
+      "url": "https://muckrack.com/marcus-hand"
+    },
+    {
+      "name": "Harrison, Virginia",
+      "url": "https://muckrack.com/vm_harrison"
+    },
+    {
+      "name": "Hashimi, Hashirin Nurin",
+      "url": "https://muckrack.com/hashirin-nurin-hashimi"
+    },
+    {
+      "name": "Heiskanen, Ville",
+      "url": "https://muckrack.com/villeheiskanen"
+    },
+    {
+      "name": "Heng, Andy",
+      "url": "https://muckrack.com/toysrevil"
+    },
+    {
+      "name": "Heng, Emily",
+      "url": "https://muckrack.com/emily-heng"
+    },
+    {
+      "name": "Heng, Janice",
+      "url": "https://muckrack.com/janice-heng"
+    },
+    {
+      "name": "Ho, Cynthia",
+      "url": "https://muckrack.com/cynthia-ho-1"
+    },
+    {
+      "name": "Ho, Jonathan",
+      "url": "https://muckrack.com/jonathan-ho-1"
+    },
+    {
+      "name": "Ho, Olivia",
+      "url": "https://muckrack.com/olivia-ho"
+    },
+    {
+      "name": "Ho, Timothy",
+      "url": "https://muckrack.com/timothy-ho"
+    },
+    {
+      "name": "Holland, Oscar",
+      "url": "https://muckrack.com/oscar-holland-3"
+    },
+    {
+      "name": "Holmes, Christopher",
+      "url": "https://muckrack.com/christopher-holmes-4"
+    },
+    {
+      "name": "Hong, Avril",
+      "url": "https://muckrack.com/avril-hong"
+    },
+    {
+      "name": "Hong, Shen",
+      "url": "https://muckrack.com/shen-hong"
+    },
+    {
+      "name": "Hong, Sophie",
+      "url": "https://muckrack.com/sophie-hong"
+    },
+    {
+      "name": "Hongzuo, Liu",
+      "url": "https://muckrack.com/liu-hongzuo"
+    },
+    {
+      "name": "Howell, Paul",
+      "url": "https://muckrack.com/paul-howell-1"
+    },
+    {
+      "name": "Huang, Ryan",
+      "url": "https://muckrack.com/ryan-huang-1"
+    },
+    {
+      "name": "Hui, Poon Chian",
+      "url": "https://muckrack.com/poon-chian-hui"
+    },
+    {
+      "name": "Huifen, Chen",
+      "url": "https://muckrack.com/chen-huifen"
+    },
+    {
+      "name": "Husodo, Bianca",
+      "url": "https://muckrack.com/bianca-husodo"
+    },
+    {
+      "name": "Hussain, Zakir",
+      "url": "https://muckrack.com/zakir80"
+    },
+    {
+      "name": "Imm, Chan Eu",
+      "url": "https://muckrack.com/chan-eu-imm"
+    },
+    {
+      "name": "Inacay, Marianne",
+      "url": "https://muckrack.com/marianne-inacay-1"
+    },
+    {
+      "name": "Ishida, Michiyo",
+      "url": "https://muckrack.com/michiyo-ishida"
+    },
+    {
+      "name": "Ismail, Saifulbahri",
+      "url": "https://muckrack.com/saifulbahri-ismail"
+    },
+    {
+      "name": "Israeli, Moses",
+      "url": "https://muckrack.com/moses-israeli"
+    },
+    {
+      "name": "Jacob, Charmaine",
+      "url": "https://muckrack.com/charmaine-jacob"
+    },
+    {
+      "name": "Jamrisko, Michelle",
+      "url": "https://muckrack.com/mljamrisko"
+    },
+    {
+      "name": "Jasman, Asri",
+      "url": "https://muckrack.com/asri-jasman-1"
+    },
+    {
+      "name": "Jayaram Singh, Chubby",
+      "url": "https://muckrack.com/chubby-jayaram-singh-1"
+    },
+    {
+      "name": "Jegarajah, Sri",
+      "url": "https://muckrack.com/cnbcsri"
+    },
+    {
+      "name": "Jenie, Asih",
+      "url": "https://muckrack.com/asih-jenie"
+    },
+    {
+      "name": "Jian, Yong Wei",
+      "url": "https://muckrack.com/yong-wei-jian"
+    },
+    {
+      "name": "Jieying, Yip",
+      "url": "https://muckrack.com/yip-jieying"
+    },
+    {
+      "name": "Jin, Ong Wee",
+      "url": "https://muckrack.com/ong-wee-jin"
+    },
+    {
+      "name": "Jingmei, Luo",
+      "url": "https://muckrack.com/luo-jingmei"
+    },
+    {
+      "name": "Jo, Yeo Sam",
+      "url": "https://muckrack.com/yeo-sam-jo"
+    },
+    {
+      "name": "Jonkers, Yasmin",
+      "url": "https://muckrack.com/yasmin-jonkers"
+    },
+    {
+      "name": "Jumari, Sha",
+      "url": "https://muckrack.com/sha-jumari-1"
+    },
+    {
+      "name": "Jun, Luo",
+      "url": "https://muckrack.com/luo-jun-1"
+    },
+    {
+      "name": "Junaini, Hidzir",
+      "url": "https://muckrack.com/hidzir-junaini"
+    },
+    {
+      "name": "Kadota, Ryuichi",
+      "url": "https://muckrack.com/ryuichi-kadota-1"
+    },
+    {
+      "name": "Kalra, Aditi Sharma",
+      "url": "https://muckrack.com/aditi-sharma-kalra"
+    },
+    {
+      "name": "Kam, Charing",
+      "url": "https://muckrack.com/charing-kam"
+    },
+    {
+      "name": "Kaplan, Nachum",
+      "url": "https://muckrack.com/nachum-kaplan"
+    },
+    {
+      "name": "Kapur, Rahat",
+      "url": "https://muckrack.com/rahat-kapur"
+    },
+    {
+      "name": "Karner, Lasse",
+      "url": "https://muckrack.com/lasse-karner"
+    },
+    {
+      "name": "Karplus, Alexandra",
+      "url": "https://muckrack.com/alexandra-karplus"
+    },
+    {
+      "name": "Karunungan, Lilian",
+      "url": "https://muckrack.com/lilian-karunungan"
+    },
+    {
+      "name": "Karve, Ameya",
+      "url": "https://muckrack.com/abhavam"
+    },
+    {
+      "name": "Kee, Lynette",
+      "url": "https://muckrack.com/lynette-kee"
+    },
+    {
+      "name": "Khalid, Azhar",
+      "url": "https://muckrack.com/azhar-khalid"
+    },
+    {
+      "name": "khanna, Vikram",
+      "url": "https://muckrack.com/vikram-khanna"
+    },
+    {
+      "name": "Khoo, Hedy",
+      "url": "https://muckrack.com/hedy-khoo"
+    },
+    {
+      "name": "Khor, Chloe",
+      "url": "https://muckrack.com/chloe-khor"
+    },
+    {
+      "name": "King, Yvette",
+      "url": "https://muckrack.com/yvette-king"
+    },
+    {
+      "name": "Kishnani, Nirmal",
+      "url": "https://muckrack.com/nirmal-kishnani-2"
+    },
+    {
+      "name": "Kitanaka, Anna",
+      "url": "https://muckrack.com/anna-kitanaka"
+    },
+    {
+      "name": "Kitano, Masayuki",
+      "url": "https://muckrack.com/masayuki-kitano"
+    },
+    {
+      "name": "Ko, Mark",
+      "url": "https://muckrack.com/mark-ko-1"
+    },
+    {
+      "name": "Koe, Tingmin",
+      "url": "https://muckrack.com/tingmin-koe"
+    },
+    {
+      "name": "Koh, Aun",
+      "url": "https://muckrack.com/aun-koh"
+    },
+    {
+      "name": "Koh, Dean",
+      "url": "https://muckrack.com/dean-koh"
+    },
+    {
+      "name": "Koh, Jeremy",
+      "url": "https://muckrack.com/jeremykohcna"
+    },
+    {
+      "name": "Koh, Reena",
+      "url": "https://muckrack.com/reena-koh"
+    },
+    {
+      "name": "Kok, Xinghui",
+      "url": "https://muckrack.com/xinghui-kok"
+    },
+    {
+      "name": "Kong, Melissa",
+      "url": "https://muckrack.com/melissa-kong"
+    },
+    {
+      "name": "Kong, Wong Wei",
+      "url": "https://muckrack.com/wong-wei-kong"
+    },
+    {
+      "name": "Krishnamoorthy, Anand",
+      "url": "https://muckrack.com/anand-krishnamoorthy"
+    },
+    {
+      "name": "Krishnasamy, Janarthanan",
+      "url": "https://muckrack.com/janarthanan-krishnasamy"
+    },
+    {
+      "name": "Kuan Wei, Lau",
+      "url": "https://muckrack.com/laui-kuan-wei"
+    },
+    {
+      "name": "Kumar, Rashmi",
+      "url": "https://muckrack.com/rashmi-kumar"
+    },
+    {
+      "name": "Kwang, Han Fook",
+      "url": "https://muckrack.com/han-fook-kwang"
+    },
+    {
+      "name": "Kwang, Kevin",
+      "url": "https://muckrack.com/kevin-kwang"
+    },
+    {
+      "name": "Lai, Linette",
+      "url": "https://muckrack.com/linette-lai"
+    },
+    {
+      "name": "Lai, Ryan",
+      "url": "https://muckrack.com/ryan-lai-1"
+    },
+    {
+      "name": "Lai, Steve",
+      "url": "https://muckrack.com/steve-lai"
+    },
+    {
+      "name": "Lam, Fiona",
+      "url": "https://muckrack.com/fiona-lam"
+    },
+    {
+      "name": "Lam, Lydia",
+      "url": "https://muckrack.com/lydia-lam"
+    },
+    {
+      "name": "Landon, Alex",
+      "url": "https://muckrack.com/alex-landon-1"
+    },
+    {
+      "name": "Lau, Cheryl",
+      "url": "https://muckrack.com/cheryl-lau"
+    },
+    {
+      "name": "Lau, Minerva",
+      "url": "https://muckrack.com/minerva-lau"
+    },
+    {
+      "name": "Lee, Annie",
+      "url": "https://muckrack.com/annie-lee-33"
+    },
+    {
+      "name": "Lee, Crystal",
+      "url": "https://muckrack.com/crystal-lee-3"
+    },
+    {
+      "name": "Lee, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-lee-4"
+    },
+    {
+      "name": "Lee, Jan",
+      "url": "https://muckrack.com/jan-lee-1"
+    },
+    {
+      "name": "Lee, Joanne",
+      "url": "https://muckrack.com/joanne-lee"
+    },
+    {
+      "name": "Lee, Li Ying",
+      "url": "https://muckrack.com/li-ying-lee-1"
+    },
+    {
+      "name": "Lee, Lloyd",
+      "url": "https://muckrack.com/lloyd-lee-4"
+    },
+    {
+      "name": "Lee, Mishael",
+      "url": "https://muckrack.com/mishael-lee"
+    },
+    {
+      "name": "Lee, Patrick",
+      "url": "https://muckrack.com/patrick-lee-msia"
+    },
+    {
+      "name": "Lee, Siew Hua",
+      "url": "https://muckrack.com/lee-siew-hua"
+    },
+    {
+      "name": "Lee, Terence",
+      "url": "https://muckrack.com/terenceleejx"
+    },
+    {
+      "name": "Lee, Venessa",
+      "url": "https://muckrack.com/venessa-lee"
+    },
+    {
+      "name": "Lee, William",
+      "url": "https://muckrack.com/william-lee-11"
+    },
+    {
+      "name": "Lee, Yoolim",
+      "url": "https://muckrack.com/yoolim-lee"
+    },
+    {
+      "name": "Leong, Grace",
+      "url": "https://muckrack.com/grace-leong"
+    },
+    {
+      "name": "Levy, Margaux",
+      "url": "https://muckrack.com/margaux-levy"
+    },
+    {
+      "name": "Liang, Annabelle",
+      "url": "https://muckrack.com/annabelle-liang"
+    },
+    {
+      "name": "Lim, Adrian",
+      "url": "https://muckrack.com/adrian-lim"
+    },
+    {
+      "name": "Lim, Alvin",
+      "url": "https://muckrack.com/alvin-lim-4"
+    },
+    {
+      "name": "Lim, Angela",
+      "url": "https://muckrack.com/angela-lim"
+    },
+    {
+      "name": "Lim, Christopher",
+      "url": "https://muckrack.com/christopher-lim"
+    },
+    {
+      "name": "Lim, Desmond",
+      "url": "https://muckrack.com/desmond-lim"
+    },
+    {
+      "name": "Lim, Erin",
+      "url": "https://muckrack.com/erin-lim"
+    },
+    {
+      "name": "Lim, Gary",
+      "url": "https://muckrack.com/gary-lim"
+    },
+    {
+      "name": "Lim, Guan Yu",
+      "url": "https://muckrack.com/guan-yu-lim"
+    },
+    {
+      "name": "Lim, Howie",
+      "url": "https://muckrack.com/howie-lim"
+    },
+    {
+      "name": "Lim, Janice",
+      "url": "https://muckrack.com/janice-lim"
+    },
+    {
+      "name": "Lim, Joe",
+      "url": "https://muckrack.com/joe-lim"
+    },
+    {
+      "name": "Lim, Joel",
+      "url": "https://muckrack.com/joel-lim-3"
+    },
+    {
+      "name": "Lim, Kenneth",
+      "url": "https://muckrack.com/kenneth-lim"
+    },
+    {
+      "name": "Lim, Kimberly",
+      "url": "https://muckrack.com/kimberly-lim"
+    },
+    {
+      "name": "Lim, Kimberly",
+      "url": "https://muckrack.com/kimberly-lim-2"
+    },
+    {
+      "name": "Lim, Rachel",
+      "url": "https://muckrack.com/rachel-lim"
+    },
+    {
+      "name": "Lim, Shaun",
+      "url": "https://muckrack.com/shaun-lim"
+    },
+    {
+      "name": "Lim, Shawn",
+      "url": "https://muckrack.com/shawn-lim"
+    },
+    {
+      "name": "Lim, Solomon",
+      "url": "https://muckrack.com/solomon-lim"
+    },
+    {
+      "name": "Lim, Terence",
+      "url": "https://muckrack.com/terence-lim"
+    },
+    {
+      "name": "Lim, Victor",
+      "url": "https://muckrack.com/victor-lim-1"
+    },
+    {
+      "name": "Ling, Ian",
+      "url": "https://muckrack.com/uncommontragedy"
+    },
+    {
+      "name": "Ling, Kaela",
+      "url": "https://muckrack.com/kaela-ling-1"
+    },
+    {
+      "name": "Lip, Geoffrey",
+      "url": "https://muckrack.com/geoffrey-lip"
+    },
+    {
+      "name": "Loh, Cadence",
+      "url": "https://muckrack.com/cadence-loh"
+    },
+    {
+      "name": "Loh, Dylan",
+      "url": "https://muckrack.com/dylan-loh"
+    },
+    {
+      "name": "Lopes, Marina",
+      "url": "https://muckrack.com/marina-lopes"
+    },
+    {
+      "name": "Low, Aloysius",
+      "url": "https://muckrack.com/aloysius-low"
+    },
+    {
+      "name": "Low, Jia Lyn",
+      "url": "https://muckrack.com/jia-lyn-low"
+    },
+    {
+      "name": "Lu-Lien Tan, Cheryl",
+      "url": "https://muckrack.com/cheryl-tan-1"
+    },
+    {
+      "name": "Lui, John",
+      "url": "https://muckrack.com/john-lui"
+    },
+    {
+      "name": "Luis, Ernest",
+      "url": "https://muckrack.com/ernest-luis"
+    },
+    {
+      "name": "Lum, Selina",
+      "url": "https://muckrack.com/selina-lum"
+    },
+    {
+      "name": "Lundberg, Jason",
+      "url": "https://muckrack.com/jason-lundberg"
+    },
+    {
+      "name": "Luo, Serene",
+      "url": "https://muckrack.com/serene-luo"
+    },
+    {
+      "name": "Lyle, Sara",
+      "url": "https://muckrack.com/sara-lyle"
+    },
+    {
+      "name": "Macfie, Nick",
+      "url": "https://muckrack.com/nick-macfie"
+    },
+    {
+      "name": "Mae, Melissa",
+      "url": "https://muckrack.com/melissa-mae"
+    },
+    {
+      "name": "Mah, Paul",
+      "url": "https://muckrack.com/paulmah"
+    },
+    {
+      "name": "Majendie, Adam",
+      "url": "https://muckrack.com/adam-majendie"
+    },
+    {
+      "name": "Mamat, Najmi Syahiran",
+      "url": "https://muckrack.com/najmi-syahiran-mamat-1"
+    },
+    {
+      "name": "Mandhana, Niharika",
+      "url": "https://muckrack.com/niharika-mandhana"
+    },
+    {
+      "name": "Manjur, Rezwana",
+      "url": "https://muckrack.com/rezwana-manjur"
+    },
+    {
+      "name": "Marca, Daniela Astrid La",
+      "url": "https://muckrack.com/daniela-astrid-la-marca"
+    },
+    {
+      "name": "Marshall, Christopher",
+      "url": "https://muckrack.com/christopher-marshall"
+    },
+    {
+      "name": "Martin, Brian",
+      "url": "https://muckrack.com/klangred"
+    },
+    {
+      "name": "Martin, Daniel",
+      "url": "https://muckrack.com/daniel-martin-16"
+    },
+    {
+      "name": "Martin, Michelle",
+      "url": "https://muckrack.com/michelle-martin-16"
+    },
+    {
+      "name": "Mathai, Anand",
+      "url": "https://muckrack.com/anand-mathai"
+    },
+    {
+      "name": "Mathewson, Jessie",
+      "url": "https://muckrack.com/jessie-e-mathewson"
+    },
+    {
+      "name": "Medina, Sarah",
+      "url": "https://muckrack.com/sarah-medina-6"
+    },
+    {
+      "name": "Menur, Anisa",
+      "url": "https://muckrack.com/anisa-menur"
+    },
+    {
+      "name": "Min, Chew Hui",
+      "url": "https://muckrack.com/chew-wui-lynn"
+    },
+    {
+      "name": "Min, Jia",
+      "url": "https://muckrack.com/jia-min"
+    },
+    {
+      "name": "Ming, Lim Han",
+      "url": "https://muckrack.com/lim-han-ming"
+    },
+    {
+      "name": "Miranda, Lyana",
+      "url": "https://muckrack.com/lyana-miranda"
+    },
+    {
+      "name": "Mishra, Ashish K.",
+      "url": "https://muckrack.com/ashish-k-mishra"
+    },
+    {
+      "name": "Misir, Timothy",
+      "url": "https://muckrack.com/timothy-misir-13"
+    },
+    {
+      "name": "Mitra, Miranda",
+      "url": "https://muckrack.com/miranda-johnson"
+    },
+    {
+      "name": "Moh, June",
+      "url": "https://muckrack.com/june-moh-1"
+    },
+    {
+      "name": "Monteiro, Claressa",
+      "url": "https://muckrack.com/claressa-monteiro"
+    },
+    {
+      "name": "Morris, Meghan",
+      "url": "https://muckrack.com/meghan-morris"
+    },
+    {
+      "name": "Mortlock, Simon",
+      "url": "https://muckrack.com/simon-mortlock"
+    },
+    {
+      "name": "Moss, Daniel",
+      "url": "https://muckrack.com/danielmoss"
+    },
+    {
+      "name": "Moss, Justine",
+      "url": "https://muckrack.com/justine-moss"
+    },
+    {
+      "name": "Mun, Ng Wai",
+      "url": "https://muckrack.com/ng-wai-mun"
+    },
+    {
+      "name": "Nanda, Akshita",
+      "url": "https://muckrack.com/akshita-nanda"
+    },
+    {
+      "name": "Narioka, Kosaku",
+      "url": "https://muckrack.com/kosaku-narioka"
+    },
+    {
+      "name": "Navarro, Kamila",
+      "url": "https://muckrack.com/kamila-navarro"
+    },
+    {
+      "name": "Nee-lee, Yen",
+      "url": "https://muckrack.com/yen-nee-lee"
+    },
+    {
+      "name": "Neo, Elizabeth",
+      "url": "https://muckrack.com/elizabeth-neo"
+    },
+    {
+      "name": "Neo, Kristie",
+      "url": "https://muckrack.com/kristie-neo"
+    },
+    {
+      "name": "Neubronner, Jill",
+      "url": "https://muckrack.com/jill-neubronner"
+    },
+    {
+      "name": "Ng, Debby",
+      "url": "https://muckrack.com/debby-ng-1"
+    },
+    {
+      "name": "Ng, Ellis",
+      "url": "https://muckrack.com/ellis-ng"
+    },
+    {
+      "name": "Ng, Jasmine",
+      "url": "https://muckrack.com/jasmine-ng"
+    },
+    {
+      "name": "Ng, Joan",
+      "url": "https://muckrack.com/joan-ng"
+    },
+    {
+      "name": "Ng, Kelly",
+      "url": "https://muckrack.com/kelly-ng"
+    },
+    {
+      "name": "Ng, Michelle",
+      "url": "https://muckrack.com/michelle-ng"
+    },
+    {
+      "name": "Ng, Susan",
+      "url": "https://muckrack.com/susan-ng"
+    },
+    {
+      "name": "Ng, Sylvester",
+      "url": "https://muckrack.com/sylvester-ng-7"
+    },
+    {
+      "name": "Ng, Victor",
+      "url": "https://muckrack.com/victor-ng-2"
+    },
+    {
+      "name": "Ng, Yi Lian",
+      "url": "https://muckrack.com/yi-lian-ng"
+    },
+    {
+      "name": "Nicholas, Katrina",
+      "url": "https://muckrack.com/katrina-nicholas"
+    },
+    {
+      "name": "Nicolaci da Costa, Ana",
+      "url": "https://muckrack.com/ananicolaci"
+    },
+    {
+      "name": "Noordin, Khairani Afifi",
+      "url": "https://muckrack.com/khairani-afifi-noordin"
+    },
+    {
+      "name": "O'Reilly, Barry",
+      "url": "https://muckrack.com/barry-oreilly"
+    },
+    {
+      "name": "Ochoa, Fabiana Negrin",
+      "url": "https://muckrack.com/fabiana-negrin-ochoa"
+    },
+    {
+      "name": "Oh, Errol",
+      "url": "https://muckrack.com/errol-oh"
+    },
+    {
+      "name": "Oh, Jing Ni",
+      "url": "https://muckrack.com/jing-ni-oh"
+    },
+    {
+      "name": "Oliveiro, Melanie",
+      "url": "https://muckrack.com/melanie-oliveiro"
+    },
+    {
+      "name": "Ong, Alexis",
+      "url": "https://muckrack.com/alexis-ong"
+    },
+    {
+      "name": "Ong, Janet",
+      "url": "https://muckrack.com/janet-ong"
+    },
+    {
+      "name": "Ong, Justin",
+      "url": "https://muckrack.com/justin-ong"
+    },
+    {
+      "name": "Ong, SM",
+      "url": "https://muckrack.com/smong"
+    },
+    {
+      "name": "Ong, Victoria",
+      "url": "https://muckrack.com/victoria-ong"
+    },
+    {
+      "name": "Ossinger, Joanna",
+      "url": "https://muckrack.com/ossingerj"
+    },
+    {
+      "name": "Othman, Syahida",
+      "url": "https://muckrack.com/syahida-othman"
+    },
+    {
+      "name": "Panaech, Simran",
+      "url": "https://muckrack.com/simran-panaech"
+    },
+    {
+      "name": "Pandey, Tanu",
+      "url": "https://muckrack.com/pandey2tanu"
+    },
+    {
+      "name": "Pang, Sherlin",
+      "url": "https://muckrack.com/sherlin-pang"
+    },
+    {
+      "name": "Pang, YanJun",
+      "url": "https://muckrack.com/yanjun-pang"
+    },
+    {
+      "name": "Park, Kyunghee",
+      "url": "https://muckrack.com/kyunghee-park"
+    },
+    {
+      "name": "Patrick Ong, John",
+      "url": "https://muckrack.com/john-patrick-ong"
+    },
+    {
+      "name": "Pavapathi, Vanitha",
+      "url": "https://muckrack.com/vanitha-pavapathi"
+    },
+    {
+      "name": "Peck Ming, Chuang",
+      "url": "https://muckrack.com/peck-ming-chuang"
+    },
+    {
+      "name": "Pek, Chloe",
+      "url": "https://muckrack.com/chloe-pek"
+    },
+    {
+      "name": "Peng, Tan Thiam",
+      "url": "https://muckrack.com/tan-thiam-peng"
+    },
+    {
+      "name": "Pereira, Mathew",
+      "url": "https://muckrack.com/mathew-pereira"
+    },
+    {
+      "name": "Pereira, Ruth",
+      "url": "https://muckrack.com/ruth-pereira"
+    },
+    {
+      "name": "Perras, Arne",
+      "url": "https://muckrack.com/arne-perras-1"
+    },
+    {
+      "name": "Peterson, Jane A.",
+      "url": "https://muckrack.com/janeapeterson"
+    },
+    {
+      "name": "Phang, Stephanie",
+      "url": "https://muckrack.com/sphang"
+    },
+    {
+      "name": "Phillips, John",
+      "url": "https://muckrack.com/john-phillips-15"
+    },
+    {
+      "name": "Phillips, Tracy",
+      "url": "https://muckrack.com/tracy-phillips"
+    },
+    {
+      "name": "Pillai, Sharanya",
+      "url": "https://muckrack.com/sharanya-pillai"
+    },
+    {
+      "name": "Poh, Joanne",
+      "url": "https://muckrack.com/joanne-poh"
+    },
+    {
+      "name": "Poh, Olivia",
+      "url": "https://muckrack.com/olivia-poh"
+    },
+    {
+      "name": "Putz, Ulrike",
+      "url": "https://muckrack.com/ulrike-putz"
+    },
+    {
+      "name": "Quah, Michelle",
+      "url": "https://muckrack.com/michellequahbt"
+    },
+    {
+      "name": "Quek, Eunice",
+      "url": "https://muckrack.com/eunice-quek"
+    },
+    {
+      "name": "Raguraman, Anjali",
+      "url": "https://muckrack.com/anjali-raguraman-1"
+    },
+    {
+      "name": "Raj, Audrey",
+      "url": "https://muckrack.com/audrey-raj"
+    },
+    {
+      "name": "Ramakrishnan, Poonam",
+      "url": "https://muckrack.com/poonam-ramakrishnan"
+    },
+    {
+      "name": "Ramli, David",
+      "url": "https://muckrack.com/david-ramli"
+    },
+    {
+      "name": "Ranganathan, Vidya",
+      "url": "https://muckrack.com/vidya-ranganathan"
+    },
+    {
+      "name": "Rastogi, Sheetal",
+      "url": "https://muckrack.com/sheetal-rastogi"
+    },
+    {
+      "name": "Razzouk, Assaad W.",
+      "url": "https://muckrack.com/assaad-w-razzouk"
+    },
+    {
+      "name": "Reeves, Sam",
+      "url": "https://muckrack.com/samreeves"
+    },
+    {
+      "name": "Remesh, Sona",
+      "url": "https://muckrack.com/sona-remesh"
+    },
+    {
+      "name": "Robert, Catherine",
+      "url": "https://muckrack.com/catherine-robert"
+    },
+    {
+      "name": "Root, Rebecca",
+      "url": "https://muckrack.com/rebecca-root"
+    },
+    {
+      "name": "Rosenthal, Rachel",
+      "url": "https://muckrack.com/rosenthalrc"
+    },
+    {
+      "name": "Roy Choudhury, Amit",
+      "url": "https://muckrack.com/amit-roy-choudhury-1"
+    },
+    {
+      "name": "Rusli, Serla",
+      "url": "https://muckrack.com/serla-rusli"
+    },
+    {
+      "name": "Saadan, Andrea",
+      "url": "https://muckrack.com/andrea-saadan"
+    },
+    {
+      "name": "Sadiq, Amir",
+      "url": "https://muckrack.com/amir-sadiq"
+    },
+    {
+      "name": "Saly, Juliette",
+      "url": "https://muckrack.com/juliette-saly"
+    },
+    {
+      "name": "Samanta, Koustav",
+      "url": "https://muckrack.com/koustav-samanta"
+    },
+    {
+      "name": "Sato, Fumika",
+      "url": "https://muckrack.com/fumika-sato"
+    },
+    {
+      "name": "Scanlan, David",
+      "url": "https://muckrack.com/david-scanlan"
+    },
+    {
+      "name": "Schuettler, Darren",
+      "url": "https://muckrack.com/reutersdschuett"
+    },
+    {
+      "name": "Seah, Jun De",
+      "url": "https://muckrack.com/jun-de-seah"
+    },
+    {
+      "name": "Seah, Sherlyn",
+      "url": "https://muckrack.com/sherlyn-seah"
+    },
+    {
+      "name": "Sen, Ng Jun",
+      "url": "https://muckrack.com/ng-jun-sen"
+    },
+    {
+      "name": "Sengupta, Nilanjana",
+      "url": "https://muckrack.com/nilanjana-sengupta"
+    },
+    {
+      "name": "Seow, Joanna",
+      "url": "https://muckrack.com/jopomelo"
+    },
+    {
+      "name": "Seria, Nasreen",
+      "url": "https://muckrack.com/nasreen-seria-2"
+    },
+    {
+      "name": "Shaffer, Leslie",
+      "url": "https://muckrack.com/leslie-shaffer"
+    },
+    {
+      "name": "Shah, Farhan",
+      "url": "https://muckrack.com/farhan-shah"
+    },
+    {
+      "name": "Shamsudin, Shazrina",
+      "url": "https://muckrack.com/shazrina-shamsudin"
+    },
+    {
+      "name": "Shan, Lee Ying",
+      "url": "https://muckrack.com/lee-ying-shan"
+    },
+    {
+      "name": "Si Xian, Ler",
+      "url": "https://muckrack.com/ler-si-xian"
+    },
+    {
+      "name": "Siew, Alfred",
+      "url": "https://muckrack.com/alfred-siew-1"
+    },
+    {
+      "name": "Sim, Arthur",
+      "url": "https://muckrack.com/arthur-sim"
+    },
+    {
+      "name": "Sim, Bryna",
+      "url": "https://muckrack.com/bryna-sim"
+    },
+    {
+      "name": "Sim, Janice",
+      "url": "https://muckrack.com/janice-sim"
+    },
+    {
+      "name": "Sim, Royston",
+      "url": "https://muckrack.com/royston-sim"
+    },
+    {
+      "name": "Siytangco, Timi",
+      "url": "https://muckrack.com/timisiytangco"
+    },
+    {
+      "name": "Sng, Paul",
+      "url": "https://muckrack.com/paul-sng-1"
+    },
+    {
+      "name": "Sofia, Nurin",
+      "url": "https://muckrack.com/nurin-sofia"
+    },
+    {
+      "name": "Sofiah, Arina",
+      "url": "https://muckrack.com/arina-sofiah"
+    },
+    {
+      "name": "Soon, Weilun",
+      "url": "https://muckrack.com/weilun-soon"
+    },
+    {
+      "name": "Soong, Martin",
+      "url": "https://muckrack.com/martin-soong"
+    },
+    {
+      "name": "Stanton, Daniel",
+      "url": "https://muckrack.com/daniel-stanton"
+    },
+    {
+      "name": "Stapczynski, Stephen",
+      "url": "https://muckrack.com/stephen-e-stapczynski"
+    },
+    {
+      "name": "Steck, Mathias",
+      "url": "https://muckrack.com/mathias-steck"
+    },
+    {
+      "name": "Stewart, Melissa",
+      "url": "https://muckrack.com/melissa-stewart-2"
+    },
+    {
+      "name": "Su Shyan, Lee",
+      "url": "https://muckrack.com/lee-su-shyan"
+    },
+    {
+      "name": "Subramanian, Nithya",
+      "url": "https://muckrack.com/nithya-subramanian"
+    },
+    {
+      "name": "Suganda, Caroline",
+      "url": "https://muckrack.com/caroline-suganda"
+    },
+    {
+      "name": "Sundria, Saket",
+      "url": "https://muckrack.com/saket-sundria"
+    },
+    {
+      "name": "Suo, Jessica",
+      "url": "https://muckrack.com/jessica-suo"
+    },
+    {
+      "name": "Tan, Aaron",
+      "url": "https://muckrack.com/aaron-tan"
+    },
+    {
+      "name": "Tan, Ailing",
+      "url": "https://muckrack.com/ailing-tan"
+    },
+    {
+      "name": "Tan, Annabel",
+      "url": "https://muckrack.com/annabel-tan"
+    },
+    {
+      "name": "Tan, Boon",
+      "url": "https://muckrack.com/boon-tan-1"
+    },
+    {
+      "name": "Tan, Bridget",
+      "url": "https://muckrack.com/bridget-tan"
+    },
+    {
+      "name": "Tan, Carlton",
+      "url": "https://muckrack.com/carlton-tan"
+    },
+    {
+      "name": "Tan, Celine",
+      "url": "https://muckrack.com/celine-tan"
+    },
+    {
+      "name": "Tan, Charmaine",
+      "url": "https://muckrack.com/charmaine-tan"
+    },
+    {
+      "name": "Tan, Corrie",
+      "url": "https://muckrack.com/corrie-tan"
+    },
+    {
+      "name": "Tan, Dawn Karen",
+      "url": "https://muckrack.com/dawn-karen-tan"
+    },
+    {
+      "name": "Tan, Dorothy",
+      "url": "https://muckrack.com/dorothy-tan"
+    },
+    {
+      "name": "Tan, Dylan",
+      "url": "https://muckrack.com/dylan-tan"
+    },
+    {
+      "name": "Tan, Elliot",
+      "url": "https://muckrack.com/elliot-tan"
+    },
+    {
+      "name": "Tan, Florence",
+      "url": "https://muckrack.com/florence_tan"
+    },
+    {
+      "name": "Tan, Huileng",
+      "url": "https://muckrack.com/huileng-tan"
+    },
+    {
+      "name": "Tan, Jamie",
+      "url": "https://muckrack.com/jamie-tan-4"
+    },
+    {
+      "name": "Tan, Jeanmarie",
+      "url": "https://muckrack.com/jeanmarie-tan"
+    },
+    {
+      "name": "Tan, Martino",
+      "url": "https://muckrack.com/martino-tan"
+    },
+    {
+      "name": "Tan, Mindy",
+      "url": "https://muckrack.com/mindy-tan"
+    },
+    {
+      "name": "Tan, Ming Yaw",
+      "url": "https://muckrack.com/ming-yaw-tan"
+    },
+    {
+      "name": "Tan, Rachel",
+      "url": "https://muckrack.com/rachel-tan"
+    },
+    {
+      "name": "Tan, Rebecca",
+      "url": "https://muckrack.com/rebecca-tan-st"
+    },
+    {
+      "name": "Tan, Sumiko",
+      "url": "https://muckrack.com/sumiko-tan"
+    },
+    {
+      "name": "Tan, Tammi",
+      "url": "https://muckrack.com/tammi-tan"
+    },
+    {
+      "name": "Tan, Theresa",
+      "url": "https://muckrack.com/theresa-tan"
+    },
+    {
+      "name": "Tan, Weizhen",
+      "url": "https://muckrack.com/weizhen-tan"
+    },
+    {
+      "name": "Tan, Yvette",
+      "url": "https://muckrack.com/yvette-tan"
+    },
+    {
+      "name": "Tang, Chelsea",
+      "url": "https://muckrack.com/chelsea-tang"
+    },
+    {
+      "name": "Tang, Hazel",
+      "url": "https://muckrack.com/hazel-tang"
+    },
+    {
+      "name": "Tang, Teresa",
+      "url": "https://muckrack.com/teresa-tang"
+    },
+    {
+      "name": "Tanoto, Brandon",
+      "url": "https://muckrack.com/brandon-tanoto"
+    },
+    {
+      "name": "Tay, Shintaro",
+      "url": "https://muckrack.com/shintaro-tay"
+    },
+    {
+      "name": "Tay, Stephanie L",
+      "url": "https://muckrack.com/stephanie-l-tay"
+    },
+    {
+      "name": "Tedja, Eve",
+      "url": "https://muckrack.com/eve-tedja"
+    },
+    {
+      "name": "Tee, Karen",
+      "url": "https://muckrack.com/karen-tee"
+    },
+    {
+      "name": "Teh, Weiqing",
+      "url": "https://muckrack.com/weiqing-teh"
+    },
+    {
+      "name": "Teng, Amelia",
+      "url": "https://muckrack.com/amelia-teng"
+    },
+    {
+      "name": "Teng, Angela",
+      "url": "https://muckrack.com/angela-teng"
+    },
+    {
+      "name": "Teo, Anna",
+      "url": "https://muckrack.com/anna-teo"
+    },
+    {
+      "name": "Teo, Dawn",
+      "url": "https://muckrack.com/dawn-teo"
+    },
+    {
+      "name": "Teo, Jasmine",
+      "url": "https://muckrack.com/jasmine-teo"
+    },
+    {
+      "name": "Teo, Joyce",
+      "url": "https://muckrack.com/joyce-teo"
+    },
+    {
+      "name": "Teo, Kai Xiang",
+      "url": "https://muckrack.com/kai-xiang-teo"
+    },
+    {
+      "name": "Teo, Wan-Lin",
+      "url": "https://muckrack.com/wan-lin-teo"
+    },
+    {
+      "name": "Tham, Fanny",
+      "url": "https://muckrack.com/fanny-tham"
+    },
+    {
+      "name": "Tham, Irene",
+      "url": "https://muckrack.com/irene-tham"
+    },
+    {
+      "name": "Tham, Jayce",
+      "url": "https://muckrack.com/jayce-tham"
+    },
+    {
+      "name": "Thein, Min Kyi",
+      "url": "https://muckrack.com/min-kyi-thei"
+    },
+    {
+      "name": "Theo, Alex",
+      "url": "https://muckrack.com/alex-theo"
+    },
+    {
+      "name": "Thukral, Naveen",
+      "url": "https://muckrack.com/naveen-thukral"
+    },
+    {
+      "name": "Tilani, Haresh",
+      "url": "https://muckrack.com/haresh-tilani"
+    },
+    {
+      "name": "Ting, Koh Wan",
+      "url": "https://muckrack.com/koh-wan-ting"
+    },
+    {
+      "name": "Toh, Alvin",
+      "url": "https://muckrack.com/alvin-toh-1"
+    },
+    {
+      "name": "Tong, Goh Chiew",
+      "url": "https://muckrack.com/goh-chiew-tong"
+    },
+    {
+      "name": "Tseng, Douglas",
+      "url": "https://muckrack.com/douglas-tseng"
+    },
+    {
+      "name": "Tully, Joyceline",
+      "url": "https://muckrack.com/joyceline-tully"
+    },
+    {
+      "name": "Tutova, Anna",
+      "url": "https://muckrack.com/anna-tutova"
+    },
+    {
+      "name": "Udemans, Christopher",
+      "url": "https://muckrack.com/christopher-udemans"
+    },
+    {
+      "name": "Vahn, Philip",
+      "url": "https://muckrack.com/philip-vahn"
+    },
+    {
+      "name": "van Zutphen, Glenn",
+      "url": "https://muckrack.com/glenn-van-zutphen"
+    },
+    {
+      "name": "Velloor, Ravi",
+      "url": "https://muckrack.com/ravi-velloor"
+    },
+    {
+      "name": "Venkat, P.R.",
+      "url": "https://muckrack.com/person-336281"
+    },
+    {
+      "name": "Von Schlippe, Bettina",
+      "url": "https://muckrack.com/bettina-von-schlippe-3"
+    },
+    {
+      "name": "Vorster, Claire",
+      "url": "https://muckrack.com/claire-vorster"
+    },
+    {
+      "name": "Wagstaff, Jeremy",
+      "url": "https://muckrack.com/wagstaff"
+    },
+    {
+      "name": "Walker, Owen",
+      "url": "https://muckrack.com/owenwalker0"
+    },
+    {
+      "name": "Wang, Bingyan",
+      "url": "https://muckrack.com/bingyan-j-wang"
+    },
+    {
+      "name": "Warsia, Noor Fathima",
+      "url": "https://muckrack.com/noor-fathima-warsia"
+    },
+    {
+      "name": "Watson, Nixalina",
+      "url": "https://muckrack.com/nixalina-watson-1"
+    },
+    {
+      "name": "Watson, Sara",
+      "url": "https://muckrack.com/saramwatson"
+    },
+    {
+      "name": "Wee, Melanie",
+      "url": "https://muckrack.com/melanie-wee-1"
+    },
+    {
+      "name": "Wei, Toh Ting",
+      "url": "https://muckrack.com/toh-ting-wei"
+    },
+    {
+      "name": "Wei Sue, Loke",
+      "url": "https://muckrack.com/loke-wei-sue"
+    },
+    {
+      "name": "Wells, Sarah",
+      "url": "https://muckrack.com/sarah-mcdonald"
+    },
+    {
+      "name": "Westbrook, Tom",
+      "url": "https://muckrack.com/tom-westbrook"
+    },
+    {
+      "name": "Wong, Deborah",
+      "url": "https://muckrack.com/deborah-wong"
+    },
+    {
+      "name": "Wong, Jodie",
+      "url": "https://muckrack.com/jodie-wong"
+    },
+    {
+      "name": "Wong, Jonathan",
+      "url": "https://muckrack.com/jonathan-wong-1"
+    },
+    {
+      "name": "Wong, Jumius",
+      "url": "https://muckrack.com/jumius-wong"
+    },
+    {
+      "name": "Wong, Tessa",
+      "url": "https://muckrack.com/tessa-wong"
+    },
+    {
+      "name": "Wong, Yi Wei",
+      "url": "https://muckrack.com/yi-wei-wong"
+    },
+    {
+      "name": "Woo, Genevieve",
+      "url": "https://muckrack.com/genevieve-woo"
+    },
+    {
+      "name": "Wright, Tom",
+      "url": "https://muckrack.com/tomwrightasia"
+    },
+    {
+      "name": "Wu, Henry S.",
+      "url": "https://muckrack.com/henry-s-wu"
+    },
+    {
+      "name": "Xiaobin, Neo",
+      "url": "https://muckrack.com/neo-xiaobin"
+    },
+    {
+      "name": "Xinyi, Hong",
+      "url": "https://muckrack.com/hong-xinyi"
+    },
+    {
+      "name": "Xinyi, Lin",
+      "url": "https://muckrack.com/lin-xinyi"
+    },
+    {
+      "name": "Xinying, Hong",
+      "url": "https://muckrack.com/hong-xinying"
+    },
+    {
+      "name": "Xueling, Lin",
+      "url": "https://muckrack.com/lin-xueling"
+    },
+    {
+      "name": "Xueying, Li",
+      "url": "https://muckrack.com/li-xueying"
+    },
+    {
+      "name": "Yang, Calvin",
+      "url": "https://muckrack.com/calvin-yang"
+    },
+    {
+      "name": "Yang, Royston",
+      "url": "https://muckrack.com/royston-yang"
+    },
+    {
+      "name": "Yap, Celine",
+      "url": "https://muckrack.com/celine-yap"
+    },
+    {
+      "name": "Yap, Eve",
+      "url": "https://muckrack.com/eve-yap"
+    },
+    {
+      "name": "Yeap, Amanda",
+      "url": "https://muckrack.com/amandamsnews"
+    },
+    {
+      "name": "Yee, Yip Wai",
+      "url": "https://muckrack.com/yip-wai-yee"
+    },
+    {
+      "name": "Yeh, Ray",
+      "url": "https://muckrack.com/ray-yeh"
+    },
+    {
+      "name": "Yeo, Andre",
+      "url": "https://muckrack.com/andre-yeo"
+    },
+    {
+      "name": "Yeo, Jade",
+      "url": "https://muckrack.com/jade-yeo"
+    },
+    {
+      "name": "Yeo, Kai Ting",
+      "url": "https://muckrack.com/kai-ting-yeo"
+    },
+    {
+      "name": "Yeo, Lawrence",
+      "url": "https://muckrack.com/lawrence-yeo"
+    },
+    {
+      "name": "Yeo, Michael",
+      "url": "https://muckrack.com/michael-yeo-1"
+    },
+    {
+      "name": "Yeoh, Grace",
+      "url": "https://muckrack.com/grace-yeoh"
+    },
+    {
+      "name": "Yeoh, Weeteck",
+      "url": "https://muckrack.com/weeteck-yeoh"
+    },
+    {
+      "name": "Yep, Eric",
+      "url": "https://muckrack.com/eric-yep"
+    },
+    {
+      "name": "Yin, Henry",
+      "url": "https://muckrack.com/henry-yin"
+    },
+    {
+      "name": "Ying, Lainey",
+      "url": "https://muckrack.com/lainey-ying"
+    },
+    {
+      "name": "Yohanes, Dominique",
+      "url": "https://muckrack.com/dominique-yohanes"
+    },
+    {
+      "name": "Yong, Michael",
+      "url": "https://muckrack.com/michael_yong"
+    },
+    {
+      "name": "Yoo, Julie",
+      "url": "https://muckrack.com/julie-yoo-1"
+    },
+    {
+      "name": "Yue, Karen",
+      "url": "https://muckrack.com/karen-yue"
+    },
+    {
+      "name": "Yuen-C, Tham",
+      "url": "https://muckrack.com/tham-yuen-c"
+    },
+    {
+      "name": "Yuit, Chor Khieng",
+      "url": "https://muckrack.com/chor-khieng-yuit"
+    },
+    {
+      "name": "Yung, Chester",
+      "url": "https://muckrack.com/chester-yung"
+    },
+    {
+      "name": "Yusof, Zaihan Mohamed",
+      "url": "https://muckrack.com/zaihan-mohamed-yusof"
+    },
+    {
+      "name": "Zainal, Nur Syahiidah",
+      "url": "https://muckrack.com/nur-syahiidah-zainal"
+    },
+    {
+      "name": "Zaki, Ahmad",
+      "url": "https://muckrack.com/ahmad-zaki"
+    },
+    {
+      "name": "Zalizan, Taufiq",
+      "url": "https://muckrack.com/taufiq-zalizan"
+    },
+    {
+      "name": "Zeng, Zoe",
+      "url": "https://muckrack.com/zoe-zeng"
+    },
+    {
+      "name": "Zheng, Stephanie",
+      "url": "https://muckrack.com/stephanie-zheng-yun"
+    },
+    {
+      "name": "Zhu, Winnie",
+      "url": "https://muckrack.com/winnie-zhu"
+    },
+    {
+      "name": "Zipfel, Marion",
+      "url": "https://muckrack.com/marion-zipfel"
+    }
+  ]
+}

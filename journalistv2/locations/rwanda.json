@@ -1,0 +1,35 @@
+{
+  "location": "rwanda",
+  "url": "https://muckrack.com/beat/rwanda",
+  "total_journalists": 7,
+  "journalists": [
+    {
+      "name": "Bishumba, Richard",
+      "url": "https://muckrack.com/richard-bishumba"
+    },
+    {
+      "name": "Buningwire, Williams",
+      "url": "https://muckrack.com/williams-buningwire"
+    },
+    {
+      "name": "Gakwaya, Andr\u00e9",
+      "url": "https://muckrack.com/andre-gakwaya-1"
+    },
+    {
+      "name": "Iliza, Ange",
+      "url": "https://muckrack.com/ange-iliza"
+    },
+    {
+      "name": "Kuteesa, Hudson",
+      "url": "https://muckrack.com/hudson-kuteesa"
+    },
+    {
+      "name": "Nsabimana, Eddie",
+      "url": "https://muckrack.com/eddie-nsabimana"
+    },
+    {
+      "name": "Rwagatare, Joseph",
+      "url": "https://muckrack.com/joseph-rwagatare"
+    }
+  ]
+}
