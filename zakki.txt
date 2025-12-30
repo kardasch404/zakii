@@ -1,0 +1,36 @@
+ python3 getjournalistv2.py
+
+================================================================================
+🚀 JOURNALIST SCRAPER - PRODUCTION VERSION
+================================================================================
+
+2025-12-30 14:16:09,814 [INFO] 🔍 Scanning already scraped...
+2025-12-30 14:16:51,117 [INFO] ✅ Found 63 already scraped
+2025-12-30 14:16:51,118 [INFO] 📋 Loading journalists...
+2025-12-30 14:16:51,446 [INFO] ✅ Total: 156,998 across 41 locations
+2025-12-30 14:16:51,488 [INFO] 🎯 Missing: 156,935
+2025-12-30 14:16:51,520 [INFO] 
+================================================================================
+2025-12-30 14:16:51,521 [INFO] 📍 LOCATION: Us (1/41)
+2025-12-30 14:16:51,522 [INFO] 📊 To scrape: 46341
+2025-12-30 14:16:51,524 [INFO] ================================================================================
+
+
+[1/46341] 👤 Abbott, Alden
+🔗 https://muckrack.com/alden-abbott
+💾 file:///home/kardasch/Desktop/muckrack/muckrack/datamuckrack/Us/Abbott%2C%20Alden/Abbott%2C%20Alden.json
+✅ Saved: file:///home/kardasch/Desktop/muckrack/muckrack/datamuckrack/Us/Abbott%2C%20Alden/Abbott%2C%20Alden.json
+
+[2/46341] 👤 Abbott, Cliff
+🔗 https://muckrack.com/cliff-abbott
+💾 file:///home/kardasch/Desktop/muckrack/muckrack/datamuckrack/Us/Abbott%2C%20Cliff/Abbott%2C%20Cliff.json
+2025-12-30 14:17:01,866 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f28bffef860>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/e5f6d540fe9d08c59fe475e0ef9412da
+2025-12-30 14:17:01,869 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f28bffef7a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/e5f6d540fe9d08c59fe475e0ef9412da
+2025-12-30 14:17:01,871 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f28bffef8c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/e5f6d540fe9d08c59fe475e0ef9412da
+✅ Saved: file:///home/kardasch/Desktop/muckrack/muckrack/datamuckrack/Us/Abbott%2C%20Cliff/Abbott%2C%20Cliff.json
+^C2025-12-30 14:17:10,211 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/08f55978bc2e71596a01c2b77da3ce15
+2025-12-30 14:17:10,212 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f28bf72cd10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/08f55978bc2e71596a01c2b77da3ce15
+2025-12-30 14:17:10,213 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f28bf72cda0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/08f55978bc2e71596a01c2b77da3ce15
+2025-12-30 14:17:10,214 [INFO] 
+⏹️ Stopped. Progress saved. Resume by running again.
+      ~/Desktop/muckrack/new     dev   
